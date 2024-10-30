@@ -1,0 +1,615 @@
+<?xml version='1.0'?>
+<ScoutBook>
+	<MeritBadges>
+		<MeritBadge><Category>Scout</Category><SKU>10502</SKU><ItemType>Merit Badge</ItemType><ItemName>American Business</ItemName><IMG>images/MeritBadges/merit-badge-AmericanBusiness.svg</IMG></MeritBadge>
+		<MeritBadge><Category>Scout</Category><SKU>10503</SKU><ItemType>Merit Badge</ItemType><ItemName>American Cultures</ItemName><IMG>images/MeritBadges/merit-badge-AmericanCultures.svg</IMG></MeritBadge>	
+		<MeritBadge><Category>Scout</Category><SKU>10504</SKU><ItemType>Merit Badge</ItemType><ItemName>American Heritage</ItemName><IMG>images/MeritBadges/merit-badge-AmericanHeritage.svg</IMG></MeritBadge>
+		<MeritBadge><Category>Scout</Category><SKU>10554</SKU><ItemType>Merit Badge</ItemType><ItemName>American Labor</ItemName><IMG>images/MeritBadges/merit-badge-AmericanLabor.svg</IMG></MeritBadge>
+		<MeritBadge><Category>Scout</Category><SKU>10505</SKU><ItemType>Merit Badge</ItemType><ItemName>Animal Science</ItemName><IMG>images/MeritBadges/merit-badge-AnimalScience.svg</IMG></MeritBadge>	
+		<MeritBadge><Category>Scout</Category><SKU>620494</SKU><ItemType>Merit Badge</ItemType><ItemName>Animation</ItemName><IMG>images/MeritBadges/merit-badge-Animation.svg</IMG></MeritBadge>	
+		<MeritBadge><Category>Scout</Category><SKU>10614</SKU><ItemType>Merit Badge</ItemType><ItemName>Archaeology</ItemName><IMG>images/MeritBadges/merit-badge-Archaeology.svg</IMG></MeritBadge>	
+		<MeritBadge><Category>Scout</Category><SKU>10506</SKU><ItemType>Merit Badge</ItemType><ItemName>Archery</ItemName><IMG>images/MeritBadges/merit-badge-Archery.svg</IMG></MeritBadge>		
+		<MeritBadge><Category>Scout</Category><SKU>10507</SKU><ItemType>Merit Badge</ItemType><ItemName>Architecture</ItemName><IMG>images/MeritBadges/merit-badge-Architecture.svg</IMG></MeritBadge>	
+		<MeritBadge><Category>Scout</Category><SKU>10508</SKU><ItemType>Merit Badge</ItemType><ItemName>Art</ItemName><IMG>images/MeritBadges/merit-badge-Art.svg</IMG></MeritBadge>
+		<MeritBadge><Category>Scout</Category><SKU>10509</SKU><ItemType>Merit Badge</ItemType><ItemName>Astronomy</ItemName><IMG>images/MeritBadges/merit-badge-Astronomy.svg</IMG></MeritBadge>		
+		<MeritBadge><Category>Scout</Category><SKU>10510</SKU><ItemType>Merit Badge</ItemType><ItemName>Athletics</ItemName><IMG>images/MeritBadges/merit-badge-Athletics.svg</IMG></MeritBadge>		
+		<MeritBadge><Category>Scout</Category><SKU>18115</SKU><ItemType>Merit Badge</ItemType><ItemName>Automotive Maintenance</ItemName><IMG>images/MeritBadges/merit-badge-AutomotiveMaintenance.svg</IMG></MeritBadge> 		
+		<MeritBadge><Category>Scout</Category><SKU>10615</SKU><ItemType>Merit Badge</ItemType><ItemName>Aviation</ItemName><IMG>images/MeritBadges/merit-badge-Aviation.svg</IMG></MeritBadge>		
+		<MeritBadge><Category>Scout</Category><SKU>10513</SKU><ItemType>Merit Badge</ItemType><ItemName>Backpacking</ItemName><IMG>images/MeritBadges/merit-badge-Backpacking.svg</IMG></MeritBadge>	
+		<MeritBadge><Category>Scout</Category><SKU>10514</SKU><ItemType>Merit Badge</ItemType><ItemName>Basketry</ItemName><IMG>images/MeritBadges/merit-badge-Basketry.svg</IMG></MeritBadge>		
+		<MeritBadge><Category>Scout</Category><SKU>10516</SKU><ItemType>Merit Badge</ItemType><ItemName>Bird Study</ItemName><IMG>images/MeritBadges/merit-badge-BirdStudy.svg</IMG></MeritBadge>		
+		<MeritBadge><Category>Scout</Category><SKU>10518</SKU><ItemType>Merit Badge</ItemType><ItemName>Bugling</ItemName><IMG>images/MeritBadges/merit-badge-Bugling.svg</IMG></MeritBadge>		
+		<MeritBadge><Category>Scout</Category><SKU>10302</SKU><ItemType>Merit Badge</ItemType><ItemName>Camping</ItemName><IMG>images/MeritBadges/merit-badge-Camping.svg</IMG></MeritBadge>		
+		<MeritBadge><Category>Scout</Category><SKU>10519</SKU><ItemType>Merit Badge</ItemType><ItemName>Canoeing</ItemName><IMG>images/MeritBadges/merit-badge-Canoeing.svg</IMG></MeritBadge>		
+		<MeritBadge><Category>Scout</Category><SKU>10520</SKU><ItemType>Merit Badge</ItemType><ItemName>Chemistry</ItemName><IMG>images/MeritBadges/merit-badge-Chemistry.svg</IMG></MeritBadge>		
+		<MeritBadge><Category>Scout</Category><SKU>613249</SKU><ItemType>Merit Badge</ItemType><ItemName>Chess</ItemName><IMG>images/MeritBadges/merit-badge-Chess.svg</IMG></MeritBadge>
+		<MeritBadge><Category>Scout</Category><SKU>10303</SKU><ItemType>Merit Badge</ItemType><ItemName>Citizenship in the Community</ItemName><IMG>images/MeritBadges/merit-badge-CitizenshipCommunity.svg</IMG></MeritBadge>
+		<MeritBadge><Category>Scout</Category><SKU>10304</SKU><ItemType>Merit Badge</ItemType><ItemName>Citizenship in the Nation</ItemName><IMG>images/MeritBadges/merit-badge-CitizenshipNation.svg</IMG></MeritBadge> 	
+		<MeritBadge><Category>Scout</Category><SKU>10305</SKU><ItemType>Merit Badge</ItemType><ItemName>Citizenship in the World</ItemName><IMG>images/MeritBadges/merit-badge-CitizenshipWorld.svg</IMG></MeritBadge> 	
+		<MeritBadge><Category>Scout</Category><SKU>10522</SKU><ItemType>Merit Badge</ItemType><ItemName>Climbing</ItemName><IMG>images/MeritBadges/merit-badge-Climbing.svg</IMG></MeritBadge>		
+		<MeritBadge><Category>Scout</Category><SKU>10523</SKU><ItemType>Merit Badge</ItemType><ItemName>Coin Collecting</ItemName><IMG>images/MeritBadges/merit-badge-CoinCollecting.svg</IMG></MeritBadge>
+		<MeritBadge><Category>Scout</Category><SKU>10610</SKU><ItemType>Merit Badge</ItemType><ItemName>Collections</ItemName><IMG>images/MeritBadges/merit-badge-Collections.svg</IMG></MeritBadge>	
+		<MeritBadge><Category>Scout</Category><SKU>10306</SKU><ItemType>Merit Badge</ItemType><ItemName>Communication</ItemName><IMG>images/MeritBadges/merit-badge-Communications.svg</IMG></MeritBadge>	
+		<MeritBadge><Category>Scout</Category><SKU>10623</SKU><ItemType>Merit Badge</ItemType><ItemName>Composite Materials</ItemName><IMG>images/MeritBadges/merit-badge-composite_materials.svg</IMG></MeritBadge> 		
+		<MeritBadge><Category>Scout</Category><SKU>618111</SKU><ItemType>Merit Badge</ItemType><ItemName>Cooking</ItemName>	<IMG>images/MeritBadges/merit-badge-Cooking.svg</IMG></MeritBadge>		
+		<MeritBadge><Category>Scout</Category><SKU>10613</SKU><ItemType>Merit Badge</ItemType><ItemName>Crime Prevention</ItemName>		<IMG>images/MeritBadges/merit-badge-CrimePrevention.svg</IMG></MeritBadge>
+		<MeritBadge><Category>Scout</Category><SKU>10527</SKU><ItemType>Merit Badge</ItemType><ItemName>Cycling</ItemName>	<IMG>images/MeritBadges/merit-badge-Cycling.svg</IMG></MeritBadge>		
+		<MeritBadge><Category>Scout</Category><SKU>10528</SKU><ItemType>Merit Badge</ItemType><ItemName>Dentistry</ItemName>	<IMG>images/MeritBadges/merit-badge-Dentistry.svg</IMG></MeritBadge>		
+		<MeritBadge><Category>Scout</Category><SKU>619675</SKU><ItemType>Merit Badge</ItemType><ItemName>Digital Technology</ItemName>	<IMG>images/MeritBadges/merit-badge-DigitalTechnology.svg</IMG></MeritBadge>
+		<MeritBadge><Category>Scout</Category><SKU>10547</SKU><ItemType>Merit Badge</ItemType><ItemName>Disabilities Awareness</ItemName><IMG>images/MeritBadges/merit-badge-DisabilitiesAwareness.svg</IMG></MeritBadge> 		
+		<MeritBadge><Category>Scout</Category><SKU>10529</SKU><ItemType>Merit Badge</ItemType><ItemName>Dog Care</ItemName>	<IMG>images/MeritBadges/merit-badge-DogCare.svg</IMG></MeritBadge>		
+		<MeritBadge><Category>Scout</Category><SKU>10530</SKU><ItemType>Merit Badge</ItemType><ItemName>Drafting</ItemName>	<IMG>images/MeritBadges/merit-badge-Drafting.svg</IMG></MeritBadge>		
+		<MeritBadge><Category>Scout</Category><SKU>10531</SKU><ItemType>Merit Badge</ItemType><ItemName>Electricity</ItemName><IMG>images/MeritBadges/merit-badge-Electricity.svg</IMG></MeritBadge>	
+		<MeritBadge><Category>Scout</Category><SKU>10532</SKU><ItemType>Merit Badge</ItemType><ItemName>Electronics</ItemName><IMG>images/MeritBadges/merit-badge-Electronics.svg</IMG></MeritBadge>	
+		<MeritBadge><Category>Scout</Category><SKU>10307</SKU><ItemType>Merit Badge</ItemType><ItemName>Emergency Preparedness</ItemName><IMG>images/MeritBadges/merit-badge-EmergencyPreparedness.svg</IMG></MeritBadge> 		
+		<MeritBadge><Category>Scout</Category><SKU>10533</SKU><ItemType>Merit Badge</ItemType><ItemName>Energy</ItemName>	<IMG>images/MeritBadges/merit-badge-Energy.svg</IMG></MeritBadge>
+		<MeritBadge><Category>Scout</Category><SKU>10534</SKU><ItemType>Merit Badge</ItemType><ItemName>Engineering</ItemName><IMG>images/MeritBadges/merit-badge-Engineering.svg</IMG></MeritBadge>	
+		<MeritBadge><Category>Scout</Category><SKU>10620</SKU><ItemType>Merit Badge</ItemType><ItemName>Entrepreneurship</ItemName>		<IMG>images/MeritBadges/merit-badge-Entrepreneurship.svg</IMG></MeritBadge>
+		<MeritBadge><Category>Scout</Category><SKU>10308</SKU><ItemType>Merit Badge</ItemType><ItemName>Environmental Science</ItemName>	<IMG>images/MeritBadges/merit-badge-Environmental.svg</IMG></MeritBadge> 		
+		<MeritBadge><Category>Scout</Category><SKU>637667</SKU><ItemType>Merit Badge</ItemType><ItemName>Exploration</ItemName><IMG>images/MeritBadges/637667.jpg</IMG></MeritBadge>	
+		<MeritBadge><Category>Scout</Category><SKU>10316</SKU><ItemType>Merit Badge</ItemType><ItemName>Family Life</ItemName><IMG>images/MeritBadges/merit-badge-FamilyLife.svg</IMG></MeritBadge>	
+		<MeritBadge><Category>Scout</Category><SKU>10535</SKU><ItemType>Merit Badge</ItemType><ItemName>Farm Mechanics</ItemName>		<IMG>images/MeritBadges/merit-badge-FarmMechanics.svg</IMG></MeritBadge>	
+		<MeritBadge><Category>Scout</Category><SKU>10536</SKU><ItemType>Merit Badge</ItemType><ItemName>Fingerprinting</ItemName>		<IMG>images/MeritBadges/merit-badge-Fingerprinting.svg</IMG></MeritBadge>	
+		<MeritBadge><Category>Scout</Category><SKU>10537</SKU><ItemType>Merit Badge</ItemType><ItemName>Fire Safety</ItemName><IMG>images/MeritBadges/merit-badge-FireSafety.svg</IMG></MeritBadge>	
+		<MeritBadge><Category>Scout</Category><SKU>10309</SKU><ItemType>Merit Badge</ItemType><ItemName>First Aid</ItemName>	<IMG>images/MeritBadges/merit-badge-FirstAid.svg</IMG></MeritBadge>		
+		<MeritBadge><Category>Scout</Category><SKU>10539</SKU><ItemType>Merit Badge</ItemType><ItemName>Fish and Wildlife Management</ItemName><IMG>images/MeritBadges/merit-badge-Fish_WildlifeManagement.svg</IMG></MeritBadge>
+		<MeritBadge><Category>Scout</Category><SKU>10538</SKU><ItemType>Merit Badge</ItemType><ItemName>Fishing</ItemName>	<IMG>images/MeritBadges/merit-badge-Fishing.svg</IMG></MeritBadge>		
+		<MeritBadge><Category>Scout</Category><SKU>10579</SKU><ItemType>Merit Badge</ItemType><ItemName>Fly Fishing</ItemName><IMG>images/MeritBadges/merit-badge-Fly_Fishing.svg</IMG></MeritBadge>	
+		<MeritBadge><Category>Scout</Category><SKU>10540</SKU><ItemType>Merit Badge</ItemType><ItemName>Forestry</ItemName>	<IMG>images/MeritBadges/merit-badge-Forestry.svg</IMG></MeritBadge>		
+		<MeritBadge><Category>Scout</Category><SKU>617171</SKU><ItemType>Merit Badge</ItemType><ItemName>Game Design</ItemName><IMG>images/MeritBadges/merit-badge-GameDesign.svg</IMG></MeritBadge>	
+		<MeritBadge><Category>Scout</Category><SKU>10541</SKU><ItemType>Merit Badge</ItemType><ItemName>Gardening</ItemName>	<IMG>images/MeritBadges/merit-badge-Gardening.svg</IMG></MeritBadge>		
+		<MeritBadge><Category>Scout</Category><SKU>10542</SKU><ItemType>Merit Badge</ItemType><ItemName>Genealogy</ItemName>	<IMG>images/MeritBadges/merit-badge-Genealogy.svg</IMG></MeritBadge>		
+		<MeritBadge><Category>Scout</Category><SKU>612253</SKU><ItemType>Merit Badge</ItemType><ItemName>Geocaching</ItemName><IMG>images/MeritBadges/merit-badge-Geocache.svg</IMG></MeritBadge>		
+		<MeritBadge><Category>Scout</Category><SKU>10543</SKU><ItemType>Merit Badge</ItemType><ItemName>Geology</ItemName>	<IMG>images/MeritBadges/merit-badge-Geology.svg</IMG></MeritBadge>		
+		<MeritBadge><Category>Scout</Category><SKU>10545</SKU><ItemType>Merit Badge</ItemType><ItemName>Golf</ItemName>		<IMG>images/MeritBadges/merit-badge-Golf.svg</IMG></MeritBadge>
+		<MeritBadge><Category>Scout</Category><SKU>10546</SKU><ItemType>Merit Badge</ItemType><ItemName>Graphic Arts</ItemName><IMG>images/MeritBadges/merit-badge-GraphicArts.svg</IMG></MeritBadge>	
+		<MeritBadge><Category>Scout</Category><SKU>10548</SKU><ItemType>Merit Badge</ItemType><ItemName>Hiking</ItemName>	<IMG>images/MeritBadges/merit-badge-Hiking.svg</IMG></MeritBadge>
+		<MeritBadge><Category>Scout</Category><SKU>10549</SKU><ItemType>Merit Badge</ItemType><ItemName>Home Repairs</ItemName><IMG>images/MeritBadges/merit-badge-HomeRepairs.svg</IMG></MeritBadge>	
+		<MeritBadge><Category>Scout</Category><SKU>10550</SKU><ItemType>Merit Badge</ItemType><ItemName>Horsemanship</ItemName><IMG>images/MeritBadges/merit-badge-Horsemanship.svg</IMG></MeritBadge>	
+		<MeritBadge><Category>Scout</Category><SKU>10551</SKU><ItemType>Merit Badge</ItemType><ItemName>Indian Lore</ItemName><IMG>images/MeritBadges/merit-badge-IndianLore.svg</IMG></MeritBadge>	
+		<MeritBadge><Category>Scout</Category><SKU>10552</SKU><ItemType>Merit Badge</ItemType><ItemName>Insect Study</ItemName><IMG>images/MeritBadges/merit-badge-InsectStudy.svg</IMG></MeritBadge>	
+		<MeritBadge><Category>Scout</Category><SKU>610616</SKU><ItemType>Merit Badge</ItemType><ItemName>Inventing</ItemName><IMG>images/MeritBadges/merit-badge-Inventing.svg</IMG></MeritBadge>	
+		<MeritBadge><Category>Scout</Category><SKU>10553</SKU><ItemType>Merit Badge</ItemType><ItemName>Journalism</ItemName><IMG>images/MeritBadges/merit-badge-Journalism.svg</IMG></MeritBadge>		
+		<MeritBadge><Category>Scout</Category><SKU>615305</SKU><ItemType>Merit Badge</ItemType><ItemName>Kayaking</ItemName>	<IMG>images/MeritBadges/merit-badge-Kayaking.svg</IMG></MeritBadge>		
+		<MeritBadge><Category>Scout</Category><SKU>10555</SKU><ItemType>Merit Badge</ItemType><ItemName>Landscape Architecture</ItemName><IMG>images/MeritBadges/merit-badge-LandscapeArchitecture.svg</IMG></MeritBadge> 		
+		<MeritBadge><Category>Scout</Category><SKU>10556</SKU><ItemType>Merit Badge</ItemType><ItemName>Law</ItemName>		<IMG>images/MeritBadges/merit-badge-Law.svg</IMG></MeritBadge>
+		<MeritBadge><Category>Scout</Category><SKU>10557</SKU><ItemType>Merit Badge</ItemType><ItemName>Leatherwork</ItemName><IMG>images/MeritBadges/merit-badge-Leatherwork.svg</IMG></MeritBadge>	
+		<MeritBadge><Category>Scout</Category><SKU>10310</SKU><ItemType>Merit Badge</ItemType><ItemName>Lifesaving</ItemName><IMG>images/MeritBadges/merit-badge-Lifesaving.svg</IMG></MeritBadge>		
+		<MeritBadge><Category>Scout</Category><SKU>10559</SKU><ItemType>Merit Badge</ItemType><ItemName>Mammal Study</ItemName><IMG>images/MeritBadges/merit-badge-MammalStudy.svg</IMG></MeritBadge>	
+		<MeritBadge><Category>Scout</Category><SKU>10612</SKU><ItemType>Merit Badge</ItemType><ItemName>Medicine</ItemName>	<IMG>images/MeritBadges/merit-badge-Medicine.svg</IMG></MeritBadge>		
+		<MeritBadge><Category>Scout</Category><SKU>10562</SKU><ItemType>Merit Badge</ItemType><ItemName>Metalwork</ItemName>	<IMG>images/MeritBadges/merit-badge-Metalwork.svg</IMG></MeritBadge>		
+		<MeritBadge><Category>Scout</Category><SKU>619674</SKU><ItemType>Merit Badge</ItemType><ItemName>Mining in Society</ItemName>	<IMG>images/MeritBadges/merit-badge-Mining_Socity.svg</IMG></MeritBadge>
+		<MeritBadge><Category>Scout</Category><SKU>10563</SKU><ItemType>Merit Badge</ItemType><ItemName>Model Design and Building</ItemName><IMG>images/MeritBadges/merit-badge-ModelDesign.svg</IMG></MeritBadge> 	
+		<MeritBadge><Category>Scout</Category><SKU>10564</SKU><ItemType>Merit Badge</ItemType><ItemName>Motorboating</ItemName><IMG>images/MeritBadges/merit-badge-Motorboating.svg</IMG></MeritBadge>	
+		<MeritBadge><Category>Scout</Category><SKU>10521</SKU><ItemType>Merit Badge</ItemType><ItemName>Moviemaking</ItemName><IMG>images/MeritBadges/merit-badge-Moviemaking.svg</IMG></MeritBadge>	
+		<MeritBadge><Category>Scout</Category><SKU>10565</SKU><ItemType>Merit Badge</ItemType><ItemName>Music</ItemName>		<IMG>images/MeritBadges/merit-badge-Music.svg</IMG></MeritBadge>
+		<MeritBadge><Category>Scout</Category><SKU>10566</SKU><ItemType>Merit Badge</ItemType><ItemName>Nature</ItemName>	<IMG>images/MeritBadges/merit-badge-Nature.svg</IMG></MeritBadge>
+		<MeritBadge><Category>Scout</Category><SKU>10621</SKU><ItemType>Merit Badge</ItemType><ItemName>Nuclear Science</ItemName>		<IMG>images/MeritBadges/merit-badge-NuclearScience.svg</IMG></MeritBadge>
+		<MeritBadge><Category>Scout</Category><SKU>10567</SKU><ItemType>Merit Badge</ItemType><ItemName>Oceanography</ItemName><IMG>images/MeritBadges/merit-badge-Oceanography.svg</IMG></MeritBadge>	
+		<MeritBadge><Category>Scout</Category><SKU>10568</SKU><ItemType>Merit Badge</ItemType><ItemName>Orienteering</ItemName><IMG>images/MeritBadges/merit-badge-Orienteering.svg</IMG></MeritBadge>	
+		<MeritBadge><Category>Scout</Category><SKU>10569</SKU><ItemType>Merit Badge</ItemType><ItemName>Painting</ItemName>	<IMG>images/MeritBadges/merit-badge-Painting.svg</IMG></MeritBadge>		
+		<MeritBadge><Category>Scout</Category><SKU>10312</SKU><ItemType>Merit Badge</ItemType><ItemName>Personal Fitness</ItemName>		<IMG>images/MeritBadges/merit-badge-PersonalFitness.svg</IMG></MeritBadge>
+		<MeritBadge><Category>Scout</Category><SKU>10311</SKU><ItemType>Merit Badge</ItemType><ItemName>Personal Management</ItemName>	<IMG>images/MeritBadges/merit-badge-PersonalManagement.svg</IMG></MeritBadge> 		
+		<MeritBadge><Category>Scout</Category><SKU>10570</SKU><ItemType>Merit Badge</ItemType><ItemName>Pets</ItemName>		<IMG>images/MeritBadges/merit-badge-Pets.svg</IMG></MeritBadge>
+		<MeritBadge><Category>Scout</Category><SKU>10571</SKU><ItemType>Merit Badge</ItemType><ItemName>Photography</ItemName><IMG>images/MeritBadges/merit-badge-Photography.svg</IMG></MeritBadge>	
+		<MeritBadge><Category>Scout</Category><SKU>10572</SKU><ItemType>Merit Badge</ItemType><ItemName>Pioneering</ItemName><IMG>images/MeritBadges/merit-badge-Pioneering.svg</IMG></MeritBadge>		
+		<MeritBadge><Category>Scout</Category><SKU>10573</SKU><ItemType>Merit Badge</ItemType><ItemName>Plant Science</ItemName><IMG>images/MeritBadges/merit-badge-PlantScience.svg</IMG></MeritBadge>	
+		<MeritBadge><Category>Scout</Category><SKU>10574</SKU><ItemType>Merit Badge</ItemType><ItemName>Plumbing</ItemName>	<IMG>images/MeritBadges/merit-badge-Plumbing.svg</IMG></MeritBadge>		
+		<MeritBadge><Category>Scout</Category><SKU>10575</SKU><ItemType>Merit Badge</ItemType><ItemName>Pottery</ItemName>	<IMG>images/MeritBadges/merit-badge-Pottery.svg</IMG></MeritBadge>		
+		<MeritBadge><Category>Scout</Category><SKU>617167</SKU><ItemType>Merit Badge</ItemType><ItemName>Programming</ItemName><IMG>images/MeritBadges/merit-badge-programming.svg</IMG></MeritBadge>	
+		<MeritBadge><Category>Scout</Category><SKU>10576</SKU><ItemType>Merit Badge</ItemType><ItemName>Public Health</ItemName><IMG>images/MeritBadges/merit-badge-PublicHealth.svg</IMG></MeritBadge>	
+		<MeritBadge><Category>Scout</Category><SKU>10578</SKU><ItemType>Merit Badge</ItemType><ItemName>Public Speaking</ItemName>		<IMG>images/MeritBadges/merit-badge-PublicSpeaking.svg</IMG></MeritBadge>
+		<MeritBadge><Category>Scout</Category><SKU>10577</SKU><ItemType>Merit Badge</ItemType><ItemName>Pulp and Paper</ItemName>		<IMG>images/MeritBadges/merit-badge-Pulp_Paper.svg</IMG></MeritBadge>	
+		<MeritBadge><Category>Scout</Category><SKU>10580</SKU><ItemType>Merit Badge</ItemType><ItemName>Radio</ItemName>		<IMG>images/MeritBadges/merit-badge-Radio.svg</IMG></MeritBadge>
+		<MeritBadge><Category>Scout</Category><SKU>10616</SKU><ItemType>Merit Badge</ItemType><ItemName>Railroading</ItemName><IMG>images/MeritBadges/merit-badge-Railroading.svg</IMG></MeritBadge>
+		<MeritBadge><Category>Scout</Category><SKU>10582</SKU><ItemType>Merit Badge</ItemType><ItemName>Reading</ItemName>	<IMG>images/MeritBadges/merit-badge-Reading.svg</IMG></MeritBadge>		
+		<MeritBadge><Category>Scout</Category><SKU>10500</SKU><ItemType>Merit Badge</ItemType><ItemName>Reptile and Amphibian Study</ItemName><IMG>images/MeritBadges/merit-badge-ReptileAndAmphibianStudy.svg</IMG></MeritBadge> 
+		<MeritBadge><Category>Scout</Category><SKU>10584</SKU><ItemType>Merit Badge</ItemType><ItemName>Rifle Shooting</ItemName>	<IMG>images/MeritBadges/merit-badge-RifleShooting.svg</IMG></MeritBadge>	
+		<MeritBadge><Category>Scout</Category><SKU>612104</SKU><ItemType>Merit Badge</ItemType><ItemName>Robotics</ItemName><IMG>images/MeritBadges/merit-badge-Robotics.svg</IMG></MeritBadge>		
+		<MeritBadge><Category>Scout</Category><SKU>10622</SKU><ItemType>Merit Badge</ItemType><ItemName>Rowing</ItemName>	<IMG>images/MeritBadges/merit-badge-Rowing.svg</IMG></MeritBadge>
+		<MeritBadge><Category>Scout</Category><SKU>10313</SKU><ItemType>Merit Badge</ItemType><ItemName>Safety</ItemName>	<IMG>images/MeritBadges/merit-badge-Safety.svg</IMG></MeritBadge>
+		<MeritBadge><Category>Scout</Category><SKU>10586</SKU><ItemType>Merit Badge</ItemType><ItemName>Salesmanship</ItemName><IMG>images/MeritBadges/merit-badge-Salesmanship.svg</IMG></MeritBadge>	
+		<MeritBadge><Category>Scout</Category><SKU>10587</SKU><ItemType>Merit Badge</ItemType><ItemName>Scholarship</ItemName><IMG>images/MeritBadges/merit-badge-Scholarship.svg</IMG></MeritBadge>	
+		<MeritBadge><Category>Scout</Category><SKU>610615</SKU><ItemType>Merit Badge</ItemType><ItemName>Scouting Heritage</ItemName>	<IMG>images/MeritBadges/merit-badge-ScoutingHeritage.svg</IMG></MeritBadge>
+		<MeritBadge><Category>Scout</Category><SKU>18186</SKU><ItemType>Merit Badge</ItemType><ItemName>Scuba Diving</ItemName><IMG>images/MeritBadges/merit-badge-Scuba.svg</IMG></MeritBadge>	
+		<MeritBadge><Category>Scout</Category><SKU>10588</SKU><ItemType>Merit Badge</ItemType><ItemName>Sculpture</ItemName>	<IMG>images/MeritBadges/merit-badge-Sculpture.svg</IMG></MeritBadge>		
+		<MeritBadge><Category>Scout</Category><SKU>615306</SKU><ItemType>Merit Badge</ItemType><ItemName>Search and Rescue</ItemName><IMG>images/MeritBadges/merit-badge-SearchRescue.svg</IMG></MeritBadge>
+		<MeritBadge><Category>Scout</Category><SKU>10589</SKU><ItemType>Merit Badge</ItemType><ItemName>Shotgun Shooting</ItemName><IMG>images/MeritBadges/merit-badge-ShotgunShooting.svg</IMG></MeritBadge>
+		<MeritBadge><Category>Scout</Category><SKU>620568</SKU><ItemType>Merit Badge</ItemType><ItemName>Signs, Signals, and Codes</ItemName><IMG>images/MeritBadges/merit-badge-Sign_Signal_Codes.svg</IMG></MeritBadge>
+		<MeritBadge><Category>Scout</Category><SKU>10591</SKU><ItemType>Merit Badge</ItemType><ItemName>Skating</ItemName>	<IMG>images/MeritBadges/merit-badge-Skating.svg</IMG></MeritBadge>		
+		<MeritBadge><Category>Scout</Category><SKU>10593</SKU><ItemType>Merit Badge</ItemType><ItemName>Small-Boat Sailing</ItemName>	<IMG>images/MeritBadges/merit-badge-SmallBoatSail.svg</IMG></MeritBadge>
+		<MeritBadge><Category>Scout</Category><SKU>10592</SKU><ItemType>Merit Badge</ItemType><ItemName>Snow Sports</ItemName><IMG>images/MeritBadges/merit-badge-SnowSports.svg</IMG></MeritBadge>	
+		<MeritBadge><Category>Scout</Category><SKU>10594</SKU><ItemType>Merit Badge</ItemType><ItemName>Soil and Water Conservation</ItemName><IMG>images/MeritBadges/merit-badge-SoilWaterConservation.svg</IMG></MeritBadge> 
+		<MeritBadge><Category>Scout</Category><SKU>10595</SKU><ItemType>Merit Badge</ItemType><ItemName>Space Exploration</ItemName>		<IMG>images/MeritBadges/merit-badge-SpaceExploration.svg</IMG></MeritBadge>
+		<MeritBadge><Category>Scout</Category><SKU>10314</SKU><ItemType>Merit Badge</ItemType><ItemName>Sports</ItemName>	<IMG>images/MeritBadges/merit-badge-Sports.svg</IMG></MeritBadge>
+		<MeritBadge><Category>Scout</Category><SKU>10596</SKU><ItemType>Merit Badge</ItemType><ItemName>Stamp Collecting</ItemName>		<IMG>images/MeritBadges/merit-badge-StampCollecting.svg</IMG></MeritBadge>
+		<MeritBadge><Category>Scout</Category><SKU>10597</SKU><ItemType>Merit Badge</ItemType><ItemName>Surveying</ItemName>	<IMG>images/MeritBadges/merit-badge-Surveying.svg</IMG></MeritBadge>		
+		<MeritBadge><Category>Scout</Category><SKU>617645</SKU><ItemType>Merit Badge</ItemType><ItemName>Sustainability</ItemName>		<IMG>images/MeritBadges/merit-badge-Sustainability.svg</IMG></MeritBadge>	
+		<MeritBadge><Category>Scout</Category><SKU>10315</SKU><ItemType>Merit Badge</ItemType><ItemName>Swimming</ItemName>	<IMG>images/MeritBadges/merit-badge-Swimming.svg</IMG></MeritBadge>		
+		<MeritBadge><Category>Scout</Category><SKU>10598</SKU><ItemType>Merit Badge</ItemType><ItemName>Textile</ItemName>	<IMG>images/MeritBadges/merit-badge-Textile.svg</IMG></MeritBadge>		
+		<MeritBadge><Category>Scout</Category><SKU>10599</SKU><ItemType>Merit Badge</ItemType><ItemName>Theater</ItemName>	<IMG>images/MeritBadges/merit-badge-Theater.svg</IMG></MeritBadge>		
+		<MeritBadge><Category>Scout</Category><SKU>10600</SKU><ItemType>Merit Badge</ItemType><ItemName>Traffic Safety</ItemName>		<IMG>images/MeritBadges/merit-badge-TrafficSafety.svg</IMG></MeritBadge>	
+		<MeritBadge><Category>Scout</Category><SKU>10601</SKU><ItemType>Merit Badge</ItemType><ItemName>Truck Transportation</ItemName>	<IMG>images/MeritBadges/merit-badge-TruckTransportation.svg</IMG></MeritBadge> 		
+		<MeritBadge><Category>Scout</Category><SKU>10602</SKU><ItemType>Merit Badge</ItemType><ItemName>Veterinary Medicine</ItemName>	<IMG>images/MeritBadges/merit-badge-VeterinaryMedicine.svg</IMG></MeritBadge> 		
+		<MeritBadge><Category>Scout</Category><SKU>10617</SKU><ItemType>Merit Badge</ItemType><ItemName>Water Sports</ItemName><IMG>images/MeritBadges/WaterSports-MeritBadge.png</IMG></MeritBadge>	
+		<MeritBadge><Category>Scout</Category><SKU>10604</SKU><ItemType>Merit Badge</ItemType><ItemName>Weather</ItemName>	<IMG>images/MeritBadges/merit-badge-Weather.svg</IMG></MeritBadge>		
+		<MeritBadge><Category>Scout</Category><SKU>614200</SKU><ItemType>Merit Badge</ItemType><ItemName>Welding</ItemName>	<IMG>images/MeritBadges/merit-badge-Welding.svg</IMG></MeritBadge>		
+		<MeritBadge><Category>Scout</Category><SKU>10618</SKU><ItemType>Merit Badge</ItemType><ItemName>Whitewater</ItemName><IMG>images/MeritBadges/merit-badge-Whitewater.svg</IMG></MeritBadge>		
+		<MeritBadge><Category>Scout</Category><SKU>10606</SKU><ItemType>Merit Badge</ItemType><ItemName>Wilderness Survival</ItemName>	<IMG>images/MeritBadges/merit-badge-WildernessSurvival.svg</IMG></MeritBadge> 		
+		<MeritBadge><Category>Scout</Category><SKU>10607</SKU><ItemType>Merit Badge</ItemType><ItemName>Wood Carving</ItemName><IMG>images/MeritBadges/merit-badge-WoodCarving.svg</IMG></MeritBadge>	
+		<MeritBadge><Category>Scout</Category><SKU>10608</SKU><ItemType>Merit Badge</ItemType><ItemName>Woodwork</ItemName>	<IMG>images/MeritBadges/merit-badge-Woodwork.svg</IMG></MeritBadge>		
+		<MeritBadge><Category>Scout</Category><SKU>656178</SKU><ItemType>Merit Badge</ItemType><ItemName>Citizenship in Society</ItemName>	<IMG>images/MeritBadges/656178.png</IMG></MeritBadge>				
+	</MeritBadges>
+	<RankBadges>
+		<RankBadge><Category>Cub</Category><SKU>646287</SKU><ItemType>Rank</ItemType><ItemName>Lion</ItemName>  		<IMG>images/Cubscouts/lion.jpg</IMG><Width>90</Width><Height>90</Height></RankBadge>
+		<RankBadge><Category>Cub</Category><SKU>370</SKU>   <ItemType>Rank</ItemType><ItemName>BobCat</ItemName>		<IMG>images/Cubscouts/370.png</IMG><Width>90</Width><Height>90</Height></RankBadge>
+		<RankBadge><Category>Cub</Category><SKU>620079</SKU><ItemType>Rank</ItemType><ItemName>Tiger</ItemName> 		<IMG>images/Cubscouts/620079.png</IMG><Width>90</Width><Height>90</Height></RankBadge>
+		<RankBadge><Category>Cub</Category><SKU>371</SKU>   <ItemType>Rank</ItemType><ItemName>Wolf</ItemName>          <IMG>images/Cubscouts/371.png</IMG><Width>90</Width><Height>90</Height></RankBadge>
+		<RankBadge><Category>Cub</Category><SKU>646375</SKU><ItemType>Rank</ItemType><ItemName>Bear</ItemName>          <IMG>images/Cubscouts/646375_f.png</IMG><Width>90</Width><Height>90</Height></RankBadge>
+		<RankBadge><Category>Cub</Category><SKU>80375</SKU> <ItemType>Rank</ItemType><ItemName>Webelos</ItemName>       <IMG>images/Cubscouts/80375.png</IMG><Width>55</Width><Height>55</Height></RankBadge>
+		<RankBadge><Category>Cub</Category><SKU>44</SKU>    <ItemType>Rank</ItemType><ItemName>Arrow of Light</ItemName><IMG>images/Cubscouts/44.png</IMG><Width>90</Width><Height>90</Height></RankBadge>
+
+		<RankBadge><Category>Scout</Category><SKU>620078</SKU><ItemType>Rank</ItemType><ItemName>Scout</ItemName><IMG>images/Ranks/620078.jpg</IMG></RankBadge>
+		<RankBadge><Category>Scout</Category><SKU>416</SKU><ItemType>Rank</ItemType><ItemName>Tenderfoot</ItemName><IMG>images/Ranks/416.jpg</IMG></RankBadge>
+		<RankBadge><Category>Scout</Category><SKU>417</SKU><ItemType>Rank</ItemType><ItemName>Second Class</ItemName><IMG>images/Ranks/417.jpg</IMG></RankBadge>
+		<RankBadge><Category>Scout</Category><SKU>418</SKU><ItemType>Rank</ItemType><ItemName>First Class</ItemName><IMG>images/Ranks/418.jpg</IMG></RankBadge>
+		<RankBadge><Category>Scout</Category><SKU>419</SKU><ItemType>Rank</ItemType><ItemName>Star Scout</ItemName><IMG>images/Ranks/419.jpg</IMG></RankBadge>
+		<RankBadge><Category>Scout</Category><SKU>420</SKU><ItemType>Rank</ItemType><ItemName>Life Scout</ItemName><IMG>images/Ranks/420.jpg</IMG></RankBadge>
+		<RankBadge><Category>Scout</Category><SKU>489</SKU><ItemType>Rank</ItemType><ItemName>Eagle Scout</ItemName><IMG>images/Ranks/489.jpg</IMG></RankBadge>
+
+		<RankBadge><Category>Scout</Category><SKU></SKU><ItemType>Award</ItemType><ItemName>Eagle Palm Pin #1 (Bronze)</ItemName><IMG>images/Ranks/EaglePalmBronze.png</IMG><Width>90</Width><Height>45</Height></RankBadge>
+		<RankBadge><Category>Scout</Category><SKU></SKU><ItemType>Award</ItemType><ItemName>Eagle Palm Pin #1 (Bronze) [2024]</ItemName><IMG>images/Ranks/EaglePalmBronze.png</IMG><Width>90</Width><Height>45</Height></RankBadge>
+		<RankBadge><Category>Scout</Category><SKU></SKU><ItemType>Award</ItemType><ItemName>Eagle Palm Pin #2 (Gold)</ItemName><IMG>images/Ranks/EaglePalmGold.png</IMG><Width>90</Width><Height>45</Height></RankBadge>
+		<RankBadge><Category>Scout</Category><SKU></SKU><ItemType>Award</ItemType><ItemName>Eagle Palm Pin #2 (Gold) [2024]</ItemName><IMG>images/Ranks/EaglePalmGold.png</IMG><Width>90</Width><Height>45</Height></RankBadge>
+		<RankBadge><Category>Scout</Category><SKU></SKU><ItemType>Award</ItemType><ItemName>Eagle Palm Pin #3 (Silver)</ItemName><IMG>images/Ranks/EaglePalmSilver.png</IMG><Width>90</Width><Height>45</Height></RankBadge>
+		
+		<RankBadge><Category>Cub</Category><SKU></SKU><ItemType>Award</ItemType><ItemName>Emergency Preparedness BSA v2014 (Wolf) (Retired 12/31/2020)</ItemName><IMG>images/Cubscouts/EPrepAward.gif</IMG></RankBadge>
+		<RankBadge><Category>Cub</Category><SKU></SKU><ItemType>Award</ItemType><ItemName>Emergency Preparedness BSA v2014 (Tiger) (Retired 12/31/2020)</ItemName><IMG>images/Cubscouts/EPrepAward.gif</IMG></RankBadge>
+		<RankBadge><Category>Cub</Category><SKU></SKU><ItemType>Award</ItemType><ItemName>Emergency Preparedness BSA v2014 (Webelos) (Retired 12/31/2020)</ItemName><IMG>images/Cubscouts/EPrepAward.gif</IMG></RankBadge>
+		
+		
+	</RankBadges>
+	<AcademicsSportsBeltLoops>
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Academics &#38; Sports Belt Loop</ItemType><ItemName>Archery</ItemName><IMG>images/Cubscouts/CubSportsArchery.jpg</IMG></Badge>
+ 		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Academics &#38; Sports Belt Loop</ItemType><ItemName>BB-Gun Shooting</ItemName><IMG>images/Cubscouts/CubSportsBBGun.jpg</IMG></Badge>
+ 		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Academics &#38; Sports Belt Loop</ItemType><ItemName>Badminton</ItemName><IMG>images/Cubscouts/CubSportsBadminton.jpg</IMG></Badge>
+ 		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Academics &#38; Sports Belt Loop</ItemType><ItemName>Baseball</ItemName><IMG>images/Cubscouts/CubSportsBaseball.jpg</IMG></Badge>
+ 		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Academics &#38; Sports Belt Loop</ItemType><ItemName>Basketball</ItemName><IMG>images/Cubscouts/CubSportsBasketball.jpg</IMG></Badge>
+ 		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Academics &#38; Sports Belt Loop</ItemType><ItemName>Bicycling</ItemName><IMG>images/Cubscouts/bicycling.jpg</IMG></Badge>
+ 		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Academics &#38; Sports Belt Loop</ItemType><ItemName>Bowling</ItemName><IMG>images/Cubscouts/CubSportsBowling.jpg</IMG></Badge>
+ 		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Academics &#38; Sports Belt Loop</ItemType><ItemName>Fishing</ItemName><IMG>images/Cubscouts/CubSportsFishing.jpg</IMG></Badge>
+ 		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Academics &#38; Sports Belt Loop</ItemType><ItemName>Flag Football</ItemName><IMG>images/Cubscouts/CubSportsFlagFootball.jpg</IMG></Badge>
+ 		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Academics &#38; Sports Belt Loop</ItemType><ItemName>Physical Fitness</ItemName><IMG>images/Cubscouts/CubSportsPhysicalFitness.jpg</IMG></Badge>
+ 		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Academics &#38; Sports Belt Loop</ItemType><ItemName>Golf</ItemName><IMG>images/Cubscouts/CubSportsGolf.jpg</IMG></Badge>
+ 		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Academics &#38; Sports Belt Loop</ItemType><ItemName>Gymnastics</ItemName><IMG>images/Cubscouts/CubSportsGymnastics.jpg</IMG></Badge>
+ 		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Academics &#38; Sports Belt Loop</ItemType><ItemName>Hiking</ItemName><IMG>images/Cubscouts/Hiking.jpg</IMG></Badge>
+ 		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Academics &#38; Sports Belt Loop</ItemType><ItemName>Hockey</ItemName><IMG>images/Cubscouts/Hockey.jpg</IMG></Badge>
+ 		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Academics &#38; Sports Belt Loop</ItemType><ItemName>Horseback Riding</ItemName><IMG>images/Cubscouts/HorsebackRiding.jpg</IMG></Badge>
+ 		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Academics &#38; Sports Belt Loop</ItemType><ItemName>Ice Skating</ItemName><IMG>images/Cubscouts/CubSportsIceSkating.jpg</IMG></Badge>
+ 		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Academics &#38; Sports Belt Loop</ItemType><ItemName>Kickball</ItemName><IMG>images/Cubscouts/Kickball.jpg</IMG></Badge>
+ 		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Academics &#38; Sports Belt Loop</ItemType><ItemName>Marbles</ItemName><IMG>images/Cubscouts/CubSportsMarbles.jpg</IMG></Badge>
+ 		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Academics &#38; Sports Belt Loop</ItemType><ItemName>Roller Skating</ItemName><IMG>images/Cubscouts/CubSportsRollerSkating.jpg</IMG></Badge>
+ 		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Academics &#38; Sports Belt Loop</ItemType><ItemName>Skateboarding</ItemName><IMG>images/Cubscouts/Skateboarding.jpg</IMG></Badge>
+ 		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Academics &#38; Sports Belt Loop</ItemType><ItemName>Snow Ski and Board Sports</ItemName><IMG>images/Cubscouts/CubSportsSnowSports.jpg</IMG></Badge>
+ 		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Academics &#38; Sports Belt Loop</ItemType><ItemName>Soccer</ItemName><IMG>images/Cubscouts/CubSportsSoccer.jpg</IMG></Badge>
+ 		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Academics &#38; Sports Belt Loop</ItemType><ItemName>Softball</ItemName><IMG>images/Cubscouts/CubSportsSoftball.jpg</IMG></Badge>
+ 		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Academics &#38; Sports Belt Loop</ItemType><ItemName>Swimming</ItemName><IMG>images/Cubscouts/CubSportsSwimming.jpg</IMG></Badge>
+ 		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Academics &#38; Sports Belt Loop</ItemType><ItemName>Table Tennis</ItemName><IMG>images/Cubscouts/CubSportsTableTennis.jpg</IMG></Badge>
+ 		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Academics &#38; Sports Belt Loop</ItemType><ItemName>Tennis</ItemName><IMG>images/Cubscouts/CubSportsTennis.jpg</IMG></Badge>
+ 		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Academics &#38; Sports Belt Loop</ItemType><ItemName>Ultimate</ItemName><IMG>images/Cubscouts/CubSportsUltimate.jpg</IMG></Badge>
+ 		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Academics &#38; Sports Belt Loop</ItemType><ItemName>Volleyball</ItemName><IMG>images/Cubscouts/CubSportsVolleyball.jpg</IMG></Badge>
+ 		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Academics &#38; Sports Belt Loop</ItemType><ItemName>Collecting</ItemName><IMG>images/Cubscouts/collecting.jpg</IMG></Badge>
+ 		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Academics &#38; Sports Belt Loop</ItemType><ItemName>Astronomy</ItemName><IMG>images/Cubscouts/astronomy.jpg</IMG></Badge>
+ 		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Academics &#38; Sports Belt Loop</ItemType><ItemName>Computers</ItemName><IMG>images/Cubscouts/Computers.jpg</IMG></Badge>
+ 		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Academics &#38; Sports Belt Loop</ItemType><ItemName>Family Travel</ItemName><IMG>images/Cubscouts/FamilyTravel.jpg</IMG></Badge>
+ 		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Academics &#38; Sports Belt Loop</ItemType><ItemName>Geography</ItemName><IMG>images/Cubscouts/Geography.jpg</IMG></Badge>
+ 		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Academics &#38; Sports Belt Loop</ItemType><ItemName>Geology</ItemName><IMG>images/Cubscouts/Geology.jpg</IMG></Badge>
+ 		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Academics &#38; Sports Belt Loop</ItemType><ItemName>Heritages</ItemName><IMG>images/Cubscouts/Heritages.jpg</IMG></Badge>
+ 		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Academics &#38; Sports Belt Loop</ItemType><ItemName>Map and Compass</ItemName><IMG>images/Cubscouts/Mapandcompass.jpg</IMG></Badge>
+ 		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Academics &#38; Sports Belt Loop</ItemType><ItemName>Mathematics</ItemName><IMG>images/Cubscouts/Mathematics.jpg</IMG></Badge>
+ 		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Academics &#38; Sports Belt Loop</ItemType><ItemName>Music</ItemName><IMG>images/Cubscouts/Music.jpg</IMG></Badge>
+ 		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Academics &#38; Sports Belt Loop</ItemType><ItemName>Science</ItemName><IMG>images/Cubscouts/science.jpg</IMG></Badge>
+ 		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Academics &#38; Sports Belt Loop</ItemType><ItemName>Wildlife Conservation</ItemName><IMG>images/Cubscouts/Wildlifeconservation.jpg</IMG></Badge>
+ 		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Academics &#38; Sports Belt Loop</ItemType><ItemName>Reading and Writing</ItemName><IMG>images/Cubscouts/reading.jpg</IMG></Badge>
+ 		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Academics &#38; Sports Belt Loop</ItemType><ItemName>Good Manners</ItemName><IMG>images/Cubscouts/GoodManners.jpg</IMG></Badge>
+	</AcademicsSportsBeltLoops>
+	<AdventureLoops>
+		<Badge><Category>Cub</Category><SKU>653098</SKU><ItemType>Adventure</ItemType><ItemName>Protect Yourself Rules</ItemName><IMG>images/Cubscouts/653098_f.jpg</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU>651989</SKU><ItemType>Adventure</ItemType><ItemName>Yo-Yo</ItemName><IMG>images/Cubscouts/652199_f.jpg</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU>619913</SKU><ItemType>Adventure</ItemType><ItemName>My Tiger Jungle</ItemName><IMG>images/Cubscouts/619913.jpg</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU>649154</SKU><ItemType>Adventure</ItemType><ItemName>Baloo the Builder </ItemName><IMG>images/Cubscouts/649154_f_1.jpg</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU>619914</SKU><ItemType>Adventure</ItemType><ItemName>Team Tiger</ItemName><IMG>images/Cubscouts/619914.jpg</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU>619915</SKU><ItemType>Adventure</ItemType><ItemName>Tiger Bites</ItemName><IMG>images/Cubscouts/619915.jpg</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU>619916</SKU><ItemType>Adventure</ItemType><ItemName>Tigers in the Wild </ItemName><IMG>images/Cubscouts/619916.jpg</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU>619917</SKU><ItemType>Adventure</ItemType><ItemName>Games Tigers Play</ItemName><IMG>images/Cubscouts/619917.jpg</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU>619918</SKU><ItemType>Adventure</ItemType><ItemName>Tiger Circles: Duty to God </ItemName><IMG>images/Cubscouts/619918.jpg</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU>619919</SKU><ItemType>Adventure</ItemType><ItemName>Tiger: Safe and Smart </ItemName><IMG>images/Cubscouts/619919.jpg</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU>619920</SKU><ItemType>Adventure</ItemType><ItemName>Rolling Tigers </ItemName><IMG>images/Cubscouts/619920.jpg</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU>619921</SKU><ItemType>Adventure</ItemType><ItemName>Curiosity, Intrigue and Magical Mysteries </ItemName><IMG>images/Cubscouts/619921.jpg</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU>619922</SKU><ItemType>Adventure</ItemType><ItemName>Family Stories </ItemName><IMG>images/Cubscouts/619922.jpg</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU>619923</SKU><ItemType>Adventure</ItemType><ItemName>Good Knights </ItemName><IMG>images/Cubscouts/619923.jpg</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU>619924</SKU><ItemType>Adventure</ItemType><ItemName>Tiger-iffic! </ItemName><IMG>images/Cubscouts/619924.jpg</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU>619925</SKU><ItemType>Adventure</ItemType><ItemName>Earning Your Stripes </ItemName><IMG>images/Cubscouts/619925.jpg</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU>619926</SKU><ItemType>Adventure</ItemType><ItemName>Sky is the Limit</ItemName><IMG>images/Cubscouts/619926.jpg</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU>619927</SKU><ItemType>Adventure</ItemType><ItemName>Stories in Shapes </ItemName><IMG>images/Cubscouts/619927.jpg</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU>619928</SKU><ItemType>Adventure</ItemType><ItemName>Floats and Boats </ItemName><IMG>images/Cubscouts/619928.jpg</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU>619929</SKU><ItemType>Adventure</ItemType><ItemName>Tiger Tag </ItemName><IMG>images/Cubscouts/619929.jpg</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU>619930</SKU><ItemType>Adventure</ItemType><ItemName>Tiger Tales </ItemName><IMG>images/Cubscouts/619930.jpg</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU>619931</SKU><ItemType>Adventure</ItemType><ItemName>Tiger Theatre </ItemName><IMG>images/Cubscouts/619931.jpg</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU>619932</SKU><ItemType>Adventure</ItemType><ItemName>Call of the Wild </ItemName><IMG>images/Cubscouts/619932.jpg</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU>619933</SKU><ItemType>Adventure</ItemType><ItemName>Council Fire: Duty to Country </ItemName><IMG>images/Cubscouts/619933.jpg</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU>619934</SKU><ItemType>Adventure</ItemType><ItemName>Howling at the Moon</ItemName><IMG>images/Cubscouts/619934.jpg</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU>619935</SKU><ItemType>Adventure</ItemType><ItemName>Paws on the Path </ItemName><IMG>images/Cubscouts/619935.jpg</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU>619936</SKU><ItemType>Adventure</ItemType><ItemName>Running with the Pack </ItemName><IMG>images/Cubscouts/619936.jpg</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU>619937</SKU><ItemType>Adventure</ItemType><ItemName>Footsteps of Faith: Duty to God </ItemName><IMG>images/Cubscouts/619937.jpg</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU>619938</SKU><ItemType>Adventure</ItemType><ItemName>Air of the Wolf </ItemName><IMG>images/Cubscouts/619938.jpg</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU>619939</SKU><ItemType>Adventure</ItemType><ItemName>Code of the Wolf </ItemName><IMG>images/Cubscouts/619939.jpg</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU>619940</SKU><ItemType>Adventure</ItemType><ItemName>Collections and Hobbies </ItemName><IMG>images/Cubscouts/619940.jpg</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU>619941</SKU><ItemType>Adventure</ItemType><ItemName>Cubs Who Care </ItemName><IMG>images/Cubscouts/619941.jpg</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU>619942</SKU><ItemType>Adventure</ItemType><ItemName>Digging in the Past </ItemName><IMG>images/Cubscouts/619942.jpg</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU>619943</SKU><ItemType>Adventure</ItemType><ItemName>Finding Your Way </ItemName><IMG>images/Cubscouts/619943.jpg</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU>619944</SKU><ItemType>Adventure</ItemType><ItemName>Grow Something </ItemName><IMG>images/Cubscouts/619944.jpg</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU>619945</SKU><ItemType>Adventure</ItemType><ItemName>Germs Alive! </ItemName><IMG>images/Cubscouts/619945.jpg</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU>619946</SKU><ItemType>Adventure</ItemType><ItemName>Spirit of the Water </ItemName><IMG>images/Cubscouts/619946.jpg</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU>619947</SKU><ItemType>Adventure</ItemType><ItemName>Hometown Heroes</ItemName><IMG>images/Cubscouts/619947.jpg</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU>619948</SKU><ItemType>Adventure</ItemType><ItemName>Adventures in Coins </ItemName><IMG>images/Cubscouts/619948.jpg</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU>619949</SKU><ItemType>Adventure</ItemType><ItemName>Paws of Skill </ItemName><IMG>images/Cubscouts/619949.jpg</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU>619950</SKU><ItemType>Adventure</ItemType><ItemName>Motor Away</ItemName><IMG>images/Cubscouts/619950.jpg</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU>619951</SKU><ItemType>Adventure</ItemType><ItemName>Bear Claws</ItemName><IMG>images/Cubscouts/619951.jpg</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU>619952</SKU><ItemType>Adventure</ItemType><ItemName>Bear Necessities</ItemName><IMG>images/Cubscouts/619952.jpg</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU>619953</SKU><ItemType>Adventure</ItemType><ItemName>Fur, Feathers, and Ferns</ItemName><IMG>images/Cubscouts/619953.jpg</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU>619954</SKU><ItemType>Adventure</ItemType><ItemName>Grin and Bear it</ItemName><IMG>images/Cubscouts/619954.jpg</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU>619955</SKU><ItemType>Adventure</ItemType><ItemName>Paws for Action: Duty to Country</ItemName><IMG>images/Cubscouts/619955.jpg</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU>619955</SKU><ItemType>Adventure</ItemType><ItemName>Paws for Action (Duty to Country)</ItemName><IMG>images/Cubscouts/619955.jpg</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU>619956</SKU><ItemType>Adventure</ItemType><ItemName>Fellowship of Faith</ItemName><IMG>images/Cubscouts/619956.jpg</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU>619958</SKU><ItemType>Adventure</ItemType><ItemName>Beat of the Dream </ItemName><IMG>images/Cubscouts/619958.jpg</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU>619959</SKU><ItemType>Adventure</ItemType><ItemName>Bear Picnic Basket</ItemName><IMG>images/Cubscouts/619959.jpg</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU>619960</SKU><ItemType>Adventure</ItemType><ItemName>Music Around the World </ItemName><IMG>images/Cubscouts/619960.jpg</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU>619961</SKU><ItemType>Adventure</ItemType><ItemName>A Bear Goes Fishing </ItemName><IMG>images/Cubscouts/619961.jpg</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU>619962</SKU><ItemType>Adventure</ItemType><ItemName>Forensics </ItemName><IMG>images/Cubscouts/619962.jpg</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU>619963</SKU><ItemType>Adventure</ItemType><ItemName>Make it Move! </ItemName><IMG>images/Cubscouts/619963.jpg</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU>619964</SKU><ItemType>Adventure</ItemType><ItemName>Marble Madness </ItemName><IMG>images/Cubscouts/619964.jpg</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU>619965</SKU><ItemType>Adventure</ItemType><ItemName>Critter Care </ItemName><IMG>images/Cubscouts/619965.jpg</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU>619966</SKU><ItemType>Adventure</ItemType><ItemName>Salmon Run </ItemName><IMG>images/Cubscouts/619966.jpg</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU>619967</SKU><ItemType>Adventure</ItemType><ItemName>Roaring Laughter </ItemName><IMG>images/Cubscouts/619967.jpg</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU>619968</SKU><ItemType>Adventure</ItemType><ItemName>Robotics </ItemName><IMG>images/Cubscouts/619968.jpg</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU>619969</SKU><ItemType>Adventure</ItemType><ItemName>Super Science </ItemName><IMG>images/Cubscouts/619969.jpg</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU>646384</SKU><ItemType>Adventure</ItemType><ItemName>Do it Myself </ItemName><IMG>images/Cubscouts/646384.jpg</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU>646386</SKU><ItemType>Adventure</ItemType><ItemName>Pick My Path </ItemName><IMG>images/Cubscouts/646386.jpg</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU>646392</SKU><ItemType>Adventure</ItemType><ItemName>Gizmos and Gadgets </ItemName><IMG>images/Cubscouts/646392.jpg</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU>646393</SKU><ItemType>Adventure</ItemType><ItemName>On Your Mark</ItemName><IMG>images/Cubscouts/646393.jpg</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU>646394</SKU><ItemType>Adventure</ItemType><ItemName>Rumble in the Jungle </ItemName><IMG>images/Cubscouts/646394.jpg</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU>646401</SKU><ItemType>Adventure</ItemType><ItemName>Ready Set Grow</ItemName><IMG>images/Cubscouts/646401.jpg</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU>646402</SKU><ItemType>Adventure</ItemType><ItemName>Knock it Down </ItemName><IMG>images/Cubscouts/646402.jpg</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU>646403</SKU><ItemType>Adventure</ItemType><ItemName>Lion's Honor </ItemName><IMG>images/Cubscouts/646403.jpg</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU>646404</SKU><ItemType>Adventure</ItemType><ItemName>Fun Run</ItemName><IMG>images/Cubscouts/646404.jpg</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU>646405</SKU><ItemType>Adventure</ItemType><ItemName>Animal Kingdom</ItemName><IMG>images/Cubscouts/646405.jpg</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU>646406</SKU><ItemType>Adventure</ItemType><ItemName>Mountain Lion</ItemName><IMG>images/Cubscouts/646406.jpg</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU>646407</SKU><ItemType>Adventure</ItemType><ItemName>King of the Jungle</ItemName><IMG>images/Cubscouts/646407.jpg</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU>619918</SKU><ItemType>Adventure</ItemType><ItemName>My Family’s Duty to God</ItemName><IMG>images/Cubscouts/619918.jpg</IMG></Badge>
+		
+<!--
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemName></ItemName><IMG>images/Cubscout/</IMG><SVG></SVG></Badge>
+-->		
+		<!-- Lion -->
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemRank>Lion</ItemRank><ItemName>Lion's Honor</ItemName><IMG>images/Cubscouts/85_100.png</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemRank>Lion</ItemRank><ItemName>Fun on the Run</ItemName><IMG>images/Cubscouts/86_100.png</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemRank>Lion</ItemRank><ItemName>Animal Kingdom</ItemName><IMG>images/Cubscouts/87_100.png</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemRank>Lion</ItemRank><ItemName>Mountain Lion</ItemName><IMG>images/Cubscouts/88_100.png</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemRank>Lion</ItemRank><ItemName>King of the Jungle</ItemName><IMG>images/Cubscouts/89_100.png</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemRank>Lion</ItemRank><ItemName>I'll Do It Myself</ItemName><IMG>images/Cubscouts/90_100.png</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemRank>Lion</ItemRank><ItemName>Pick My Path</ItemName><IMG>images/Cubscouts/91_100.png</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemRank>Lion</ItemRank><ItemName>Gizmos and Gadgets</ItemName><IMG>images/Cubscouts/92_100.png</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemRank>Lion</ItemRank><ItemName>On Your Mark</ItemName><IMG>images/Cubscouts/93_100.png</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemRank>Lion</ItemRank><ItemName>Build It Up, Knock It Down</ItemName><IMG>images/Cubscouts/94_100.png</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemRank>Lion</ItemRank><ItemName>Rumble in the Jungle</ItemName><IMG>images/Cubscouts/95_100.png</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemRank>Lion</ItemRank><ItemName>Ready, Set, Grow</ItemName><IMG>images/Cubscouts/96_100.png</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemRank>Lion</ItemRank><ItemName>Protect Yourself Rules (Lion)</ItemName><IMG>images/Cubscouts/103_100.png</IMG></Badge>
+		<!-- Bobcat -->
+		<!-- Tiger -->
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemRank>Tiger</ItemRank><ItemName>My Tiger Jungle</ItemName><IMG>images/Cubscouts/1_100.png</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemRank>Tiger</ItemRank><ItemName>Games Tigers Play</ItemName><IMG>images/Cubscouts/2_100.png</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemRank>Tiger</ItemRank><ItemName>Tiger Circles: Duty to God</ItemName><IMG>images/Cubscouts/3_100.png</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemRank>Tiger</ItemRank><ItemName>Team Tiger</ItemName><IMG>images/Cubscouts/4_100.png</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemRank>Tiger</ItemRank><ItemName>Tiger Bites</ItemName><IMG>images/Cubscouts/5_100.png</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemRank>Tiger</ItemRank><ItemName>Tigers in the Wild</ItemName><IMG>images/Cubscouts/6_100.png</IMG></Badge>
+			<!-- Elective -->
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemRank>Tiger</ItemRank><ItemName>Curiosity, Intrigue, and Magical Mysteries</ItemName><IMG>images/Cubscouts/7_100.png</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemRank>Tiger</ItemRank><ItemName>Earning Your Stripes</ItemName><IMG>images/Cubscouts/8_100.png</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemRank>Tiger</ItemRank><ItemName>Family Stories</ItemName><IMG>images/Cubscouts/9_100.png</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemRank>Tiger</ItemRank><ItemName>Floats and Boats</ItemName><IMG>images/Cubscouts/10_100.png</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemRank>Tiger</ItemRank><ItemName>Good Knights</ItemName><IMG>images/Cubscouts/11_100.png</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemRank>Tiger</ItemRank><ItemName>Rolling Tigers</ItemName><IMG>images/Cubscouts/12_100.png</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemRank>Tiger</ItemRank><ItemName>Sky Is the Limit</ItemName><IMG>images/Cubscouts/13_100.png</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemRank>Tiger</ItemRank><ItemName>Stories in Shapes</ItemName><IMG>images/Cubscouts/14_100.png</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemRank>Tiger</ItemRank><ItemName>Tiger-iffic!</ItemName><IMG>images/Cubscouts/15_100.png</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemRank>Tiger</ItemRank><ItemName>Safe and Smart</ItemName><IMG>images/Cubscouts/16_100.png</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemRank>Tiger</ItemRank><ItemName>Tiger Tag</ItemName><IMG>images/Cubscouts/17_100.png</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemRank>Tiger</ItemRank><ItemName>Tiger Tales</ItemName><IMG>images/Cubscouts/18_100.png</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemRank>Tiger</ItemRank><ItemName>Tiger Theater</ItemName><IMG>images/Cubscouts/19_100.png</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemRank>Tiger</ItemRank><ItemName>Protect Yourself Rules (Tiger)</ItemName><IMG>images/Cubscouts/104_100.png</IMG></Badge>
+		<!-- Wolf -->
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemRank>Wolf</ItemRank><ItemName>Call of the Wild</ItemName><IMG>images/Cubscouts/20_100.png</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemRank>Wolf</ItemRank><ItemName>Council Fire</ItemName><IMG>images/Cubscouts/21_100.png</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemRank>Wolf</ItemRank><ItemName>Duty to God Footsteps</ItemName><IMG>images/Cubscouts/22_100.png</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemRank>Wolf</ItemRank><ItemName>Howling at the Moon</ItemName><IMG>images/Cubscouts/23_100.png</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemRank>Wolf</ItemRank><ItemName>Paws on the Path</ItemName><IMG>images/Cubscouts/24_100.png</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemRank>Wolf</ItemRank><ItemName>Running With the Pack</ItemName><IMG>images/Cubscouts/25_100.png</IMG></Badge>
+			<!-- Elective -->	
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemRank>Wolf</ItemRank><ItemName>Adventures in Coins</ItemName><IMG>images/Cubscouts/26_100.png</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemRank>Wolf</ItemRank><ItemName>Air of the Wolf</ItemName><IMG>images/Cubscouts/27_100.png</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemRank>Wolf</ItemRank><ItemName>Code of the Wolf</ItemName><IMG>images/Cubscouts/28_100.png</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemRank>Wolf</ItemRank><ItemName>Collections and Hobbies</ItemName><IMG>images/Cubscouts/29_100.png</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemRank>Wolf</ItemRank><ItemName>Cubs Who Care</ItemName><IMG>images/Cubscouts/30_100.png</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemRank>Wolf</ItemRank><ItemName>Digging in the Past</ItemName><IMG>images/Cubscouts/31_100.png</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemRank>Wolf</ItemRank><ItemName>Finding Your Way</ItemName><IMG>images/Cubscouts/32_100.png</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemRank>Wolf</ItemRank><ItemName>Germs Alive!</ItemName><IMG>images/Cubscouts/33_100.png</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemRank>Wolf</ItemRank><ItemName>Grow Something</ItemName><IMG>images/Cubscouts/34_100.png</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemRank>Wolf</ItemRank><ItemName>Hometown Heroes</ItemName><IMG>images/Cubscouts/35_100.png</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemRank>Wolf</ItemRank><ItemName>Motor Away</ItemName><IMG>images/Cubscouts/36_100.png</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemRank>Wolf</ItemRank><ItemName>Paws of Skill</ItemName><IMG>images/Cubscouts/37_100.png</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemRank>Wolf</ItemRank><ItemName>Spirit of the Water</ItemName><IMG>images/Cubscouts/38_100.png</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemRank>Wolf</ItemRank><ItemName>Yo-Yo (Wolf)</ItemName><IMG>images/Cubscouts/98_100.png</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemRank>Wolf</ItemRank><ItemName>Protect Yourself Rules (Wolf)</ItemName><IMG>images/Cubscouts/105_100.png</IMG></Badge>
+		<!-- Bear -->
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemRank>Bear</ItemRank><ItemName>Bear Claws</ItemName><IMG>images/Cubscouts/39_100.png</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemRank>Bear</ItemRank><ItemName>Bear Necessities</ItemName><IMG>images/Cubscouts/40_100.png</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemRank>Bear</ItemRank><ItemName>Fellowship and Duty to God</ItemName><IMG>images/Cubscouts/41_100.png</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemRank>Bear</ItemRank><ItemName>Fur, Feathers, and Ferns</ItemName><IMG>images/Cubscouts/42_100.png</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemRank>Bear</ItemRank><ItemName>Paws for Action (Duty to Country)</ItemName><IMG>images/Cubscouts/44_100.png</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemRank>Bear</ItemRank><ItemName>Baloo the Builder</ItemName><IMG>images/Cubscouts/45_100.png</IMG></Badge>
+			<!-- Elective -->			
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemRank>Bear</ItemRank><ItemName>Grin and Bear It</ItemName><IMG>images/Cubscouts/43_100.png</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemRank>Bear</ItemRank><ItemName>A Bear Goes Fishing</ItemName><IMG>images/Cubscouts/46_100.png</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemRank>Bear</ItemRank><ItemName>Bear Picnic Basket</ItemName><IMG>images/Cubscouts/47_100.png</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemRank>Bear</ItemRank><ItemName>Beat of the Drum</ItemName><IMG>images/Cubscouts/48_100.png</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemRank>Bear</ItemRank><ItemName>Critter Care</ItemName><IMG>images/Cubscouts/49_100.png</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemRank>Bear</ItemRank><ItemName>Forensics</ItemName><IMG>images/Cubscouts/50_100.png</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemRank>Bear</ItemRank><ItemName>Make It Move</ItemName><IMG>images/Cubscouts/51_100.png</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemRank>Bear</ItemRank><ItemName>Marble Madness</ItemName><IMG>images/Cubscouts/52_100.png</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemRank>Bear</ItemRank><ItemName>Roaring Laughter</ItemName><IMG>images/Cubscouts/53_100.png</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemRank>Bear</ItemRank><ItemName>Robotics</ItemName><IMG>images/Cubscouts/54_100.png</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemRank>Bear</ItemRank><ItemName>Salmon Run</ItemName><IMG>images/Cubscouts/55_100.png</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemRank>Bear</ItemRank><ItemName>Super Science</ItemName><IMG>images/Cubscouts/56_100.png</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemRank>Bear</ItemRank><ItemName>A World of Sound</ItemName><IMG>images/Cubscouts/57_100.png</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemRank>Bear</ItemRank><ItemName>Yo-Yo (Bear)</ItemName><IMG>images/Cubscouts/99_100.png</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemRank>Bear</ItemRank><ItemName>Protect Yourself Rules (Bear)</ItemName><IMG>images/Cubscouts/106_100.png</IMG></Badge>
+		<!-- Webelos -->
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemRank>Webelos</ItemRank><ItemName>Cast Iron Chef</ItemName><IMG>images/Cubscouts/58_100.png</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemRank>Webelos</ItemRank><ItemName>Duty to God and You</ItemName><IMG>images/Cubscouts/59_100.png</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemRank>Webelos</ItemRank><ItemName>First Responder</ItemName><IMG>images/Cubscouts/60_100.png</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemRank>Webelos</ItemRank><ItemName>Stronger, Faster, Higher</ItemName><IMG>images/Cubscouts/61_100.png</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemRank>Webelos</ItemRank><ItemName>Webelos Walkabout</ItemName><IMG>images/Cubscouts/62_100.png</IMG></Badge>
+			<!-- Elective -->	
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemRank>Webelos</ItemRank><ItemName>Adventures in Science</ItemName><IMG>images/Cubscouts/67_100.png</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemRank>Webelos</ItemRank><ItemName>Aquanaut</ItemName><IMG>images/Cubscouts/68_100.png</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemRank>Webelos</ItemRank><ItemName>Art Explosion</ItemName><IMG>images/Cubscouts/69_100.png</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemRank>Webelos</ItemRank><ItemName>Aware and Care</ItemName><IMG>images/Cubscouts/70_100.png</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemRank>Webelos</ItemRank><ItemName>Build It</ItemName><IMG>images/Cubscouts/71_100.png</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemRank>Webelos</ItemRank><ItemName>Build My Own Hero</ItemName><IMG>images/Cubscouts/72_100.png</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemRank>Webelos</ItemRank><ItemName>Castaway</ItemName><IMG>images/Cubscouts/73_100.png</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemRank>Webelos</ItemRank><ItemName>Earth Rocks!</ItemName><IMG>images/Cubscouts/74_100.png</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemRank>Webelos</ItemRank><ItemName>Engineer</ItemName><IMG>images/Cubscouts/75_100.png</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemRank>Webelos</ItemRank><ItemName>Fix It</ItemName><IMG>images/Cubscouts/76_100.png</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemRank>Webelos</ItemRank><ItemName>Game Design</ItemName><IMG>images/Cubscouts/77_100.png</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemRank>Webelos</ItemRank><ItemName>Into the Wild</ItemName><IMG>images/Cubscouts/78_100.png</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemRank>Webelos</ItemRank><ItemName>Into the Woods</ItemName><IMG>images/Cubscouts/79_100.png</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemRank>Webelos</ItemRank><ItemName>Looking Back, Looking Forward</ItemName><IMG>images/Cubscouts/80_100.png</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemRank>Webelos</ItemRank><ItemName>Maestro!</ItemName><IMG>images/Cubscouts/81_100.png</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemRank>Webelos</ItemRank><ItemName>Moviemaking</ItemName><IMG>images/Cubscouts/82_100.png</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemRank>Webelos</ItemRank><ItemName>Project Family</ItemName><IMG>images/Cubscouts/83_100.png</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemRank>Webelos</ItemRank><ItemName>Sports</ItemName><IMG>images/Cubscouts/84_100.png</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemRank>Webelos</ItemRank><ItemName>Yo-Yo (Webelos)</ItemName><IMG>images/Cubscouts/101_100.png</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemRank>Webelos</ItemRank><ItemName>Protect Yourself Rules (Webelos)</ItemName><IMG>images/Cubscouts/107_100.png</IMG></Badge>
+		<!-- NOVA -->
+		<Badge><Category>Cub</Category><SKU>613042</SKU><ItemType>Award</ItemType><ItemRank></ItemRank><ItemName>Cub Scout Nova Award - Cub Scouts Can Code</ItemName><IMG>images/Cubscouts/613042.jpg</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU>613042</SKU><ItemType>Award</ItemType><ItemRank></ItemRank><ItemName>Cub Scout Nova Award - Fearful Symmetry</ItemName><IMG>images/Cubscouts/613042.jpg</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU>613042</SKU><ItemType>Award</ItemType><ItemRank></ItemRank><ItemName>Cub Scout Nova Award - Nova WILD!</ItemName><IMG>images/Cubscouts/613042.jpg</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU>613042</SKU><ItemType>Award</ItemType><ItemRank></ItemRank><ItemName>Cub Scout Nova Award - Science Everywhere</ItemName><IMG>images/Cubscouts/613042.jpg</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU>613042</SKU><ItemType>Award</ItemType><ItemRank></ItemRank><ItemName>Cub Scout Nova Award - Tech Talk</ItemName><IMG>images/Cubscouts/613042.jpg</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU>613042</SKU><ItemType>Award</ItemType><ItemRank></ItemRank><ItemName>Cub Scout Nova Award - Uncovering the Past</ItemName><IMG>images/Cubscouts/613042.jpg</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU>613042</SKU><ItemType>Award</ItemType><ItemRank></ItemRank><ItemName>Cub Scout Nova Award - Up and Away</ItemName><IMG>images/Cubscouts/613042.jpg</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU>613042</SKU><ItemType>Award</ItemType><ItemRank></ItemRank><ItemName>Cub Scout Nova Award - Nova WILD!</ItemName><IMG>images/Cubscouts/613042.jpg</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU>613042</SKU><ItemType>Award</ItemType><ItemRank></ItemRank><ItemName>Cub Scout Nova Award - Science Everywhere</ItemName><IMG>images/Cubscouts/613042.jpg</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU>613006</SKU><ItemType>Award</ItemType><ItemRank></ItemRank><ItemName>Cub Scout Supernova Award (2018)</ItemName><IMG>images/Cubscouts/613006.png</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Award</ItemType><ItemRank></ItemRank><ItemName>Cub Scout Supernova Award (pre-2015)</ItemName><IMG>images/Cubscouts/613006.png</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Award</ItemType><ItemRank></ItemRank><ItemName>Cub Scout Supernova Award (2018)</ItemName><IMG>images/Cubscouts/613006.png</IMG></Badge>
+
+		<!-- Arrow of Light -->
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemRank>Arrow of Light</ItemRank><ItemName>Building a Better World</ItemName><IMG>images/Cubscouts/63_300.png</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemRank>Arrow of Light</ItemRank><ItemName>Duty to God in Action</ItemName><IMG>images/Cubscouts/64_100.png</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemRank>Arrow of Light</ItemRank><ItemName>Outdoor Adventurer</ItemName><IMG>images/Cubscouts/65_100.png</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemRank>Arrow of Light</ItemRank><ItemName>Scouting Adventure</ItemName><IMG>images/Cubscouts/66_100.png</IMG></Badge>
+			<!-- Elective -->			
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemRank>Arrow of Light</ItemRank><ItemName>Adventures in Science</ItemName><IMG>images/Cubscouts/67_100.png</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemRank>Arrow of Light</ItemRank><ItemName>Aquanaut</ItemName><IMG>images/Cubscouts/68_100.png</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemRank>Arrow of Light</ItemRank><ItemName>Art Explosion</ItemName><IMG>images/Cubscouts/69_100.png</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemRank>Arrow of Light</ItemRank><ItemName>Aware and Care</ItemName><IMG>images/Cubscouts/70_100.png</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemRank>Arrow of Light</ItemRank><ItemName>Build It</ItemName><IMG>images/Cubscouts/71_100.png</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemRank>Arrow of Light</ItemRank><ItemName>Build My Own Hero</ItemName><IMG>images/Cubscouts/72_100.png</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemRank>Arrow of Light</ItemRank><ItemName>Castaway</ItemName><IMG>images/Cubscouts/73_100.png</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemRank>Arrow of Light</ItemRank><ItemName>Earth Rocks!</ItemName><IMG>images/Cubscouts/74_100.png</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemRank>Arrow of Light</ItemRank><ItemName>Engineer</ItemName><IMG>images/Cubscouts/75_100.png</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemRank>Arrow of Light</ItemRank><ItemName>Fix It</ItemName><IMG>images/Cubscouts/76_100.png</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemRank>Arrow of Light</ItemRank><ItemName>Game Design</ItemName><IMG>images/Cubscouts/77_100.png</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemRank>Arrow of Light</ItemRank><ItemName>Into the Wild</ItemName><IMG>images/Cubscouts/78_100.png</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemRank>Arrow of Light</ItemRank><ItemName>Into the Woods</ItemName><IMG>images/Cubscouts/79_100.png</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemRank>Arrow of Light</ItemRank><ItemName>Looking Back, Looking Forward</ItemName><IMG>images/Cubscouts/80_100.png</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemRank>Arrow of Light</ItemRank><ItemName>Maestro!</ItemName><IMG>images/Cubscouts/81_100.png</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemRank>Arrow of Light</ItemRank><ItemName>Moviemaking</ItemName><IMG>images/Cubscouts/82_100.png</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemRank>Arrow of Light</ItemRank><ItemName>Project Family</ItemName><IMG>images/Cubscouts/83_100.png</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemRank>Arrow of Light</ItemRank><ItemName>Protect Yourself Rules (AOL)</ItemName><IMG>images/Cubscouts/108_100.png</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemRank>Arrow of Light</ItemRank><ItemName>Sports</ItemName><IMG>images/Cubscouts/83_100.png</IMG></Badge>
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemRank>Arrow of Light</ItemRank><ItemName>Yo-Yo (AOL)</ItemName><IMG>images/Cubscouts/102_100.png</IMG></Badge>
+	</AdventureLoops>
+	<WebelosActivityPins>
+		<Pin><Category>Cub</Category><SKU>619970</SKU><ItemType>Webelos Activity Badge</ItemType><ItemName>Aquanaut </ItemName><IMG>images/Cubscouts/619970.jpg</IMG></Pin>
+		<Pin><Category>Cub</Category><SKU>619972</SKU><ItemType>Webelos Activity Badge</ItemType><ItemName>Outdoor Adventurer </ItemName><IMG>images/Cubscouts/619972.jpg</IMG></Pin>
+		<Pin><Category>Cub</Category><SKU>619975</SKU><ItemType>Webelos Activity Badge</ItemType><ItemName>Fix It! </ItemName><IMG>images/Cubscouts/619975.jpg</IMG></Pin>
+		<Pin><Category>Cub</Category><SKU>619977</SKU><ItemType>Webelos Activity Badge</ItemType><ItemName>Into the Woods </ItemName><IMG>images/Cubscouts/619977.jpg</IMG></Pin>
+		<Pin><Category>Cub</Category><SKU>619978</SKU><ItemType>Webelos Activity Badge</ItemType><ItemName>Looking Back, Looking Forward </ItemName><IMG>images/Cubscouts/619978.jpg</IMG></Pin>
+		<Pin><Category>Cub</Category><SKU>619979</SKU><ItemType>Webelos Activity Badge</ItemType><ItemName>Maestro! </ItemName><IMG>images/Cubscouts/619979.jpg</IMG></Pin>
+		<Pin><Category>Cub</Category><SKU>619980</SKU><ItemType>Webelos Activity Badge</ItemType><ItemName>Sports </ItemName><IMG>images/Cubscouts/619980.jpg</IMG></Pin>
+		<Pin><Category>Cub</Category><SKU>619981</SKU><ItemType>Webelos Activity Badge</ItemType><ItemName>Game Design </ItemName><IMG>images/Cubscouts/619981.jpg</IMG></Pin>
+		<Pin><Category>Cub</Category><SKU>619982</SKU><ItemType>Webelos Activity Badge</ItemType><ItemName>Moviemaking </ItemName><IMG>images/Cubscouts/619982.jpg</IMG></Pin>
+		<Pin><Category>Cub</Category><SKU>619983</SKU><ItemType>Webelos Activity Badge</ItemType><ItemName>Art Explosion </ItemName><IMG>images/Cubscouts/619983.jpg</IMG></Pin>
+		<Pin><Category>Cub</Category><SKU>619989</SKU><ItemType>Webelos Activity Badge</ItemType><ItemName>Adventures in Science </ItemName><IMG>images/Cubscouts/619989.jpg</IMG></Pin>
+		<Pin><Category>Cub</Category><SKU>619990</SKU><ItemType>Webelos Activity Badge</ItemType><ItemName>Aware and Care </ItemName><IMG>images/Cubscouts/619990.jpg</IMG></Pin>
+		<Pin><Category>Cub</Category><SKU>619991</SKU><ItemType>Webelos Activity Badge</ItemType><ItemName>Build It</ItemName><IMG>images/Cubscouts/619991.jpg</IMG></Pin>
+		<Pin><Category>Cub</Category><SKU>619992</SKU><ItemType>Webelos Activity Badge</ItemType><ItemName>Build My Own Hero</ItemName><IMG>images/Cubscouts/619992.jpg</IMG></Pin>
+		<Pin><Category>Cub</Category><SKU>619994</SKU><ItemType>Webelos Activity Badge</ItemType><ItemName>Castaway</ItemName><IMG>images/Cubscouts/619994.jpg</IMG></Pin>
+		<Pin><Category>Cub</Category><SKU>619995</SKU><ItemType>Webelos Activity Badge</ItemType><ItemName>Earth Rocks!</ItemName><IMG>images/Cubscouts/619995.jpg</IMG></Pin>
+		<Pin><Category>Cub</Category><SKU>619996</SKU><ItemType>Webelos Activity Badge</ItemType><ItemName>Engineer</ItemName><IMG>images/Cubscouts/619996.jpg</IMG></Pin>
+		<Pin><Category>Cub</Category><SKU>619997</SKU><ItemType>Webelos Activity Badge</ItemType><ItemName>Project Family</ItemName><IMG>images/Cubscouts/619997.jpg</IMG></Pin>
+	</WebelosActivityPins>
+	<Segments>
+		<Segment><Category>Sea</Category><SKU>648391</SKU><ItemType></ItemType><ItemName>Sea Scout Long Cruise Emblem </ItemName><IMG>images/segment/648391_f.jpg</IMG></Segment>
+		<Segment><Category>Sea</Category><SKU>648392</SKU><ItemType></ItemType><ItemName>Sea Scout Long Cruise Segment White </ItemName><IMG>images/segment/648392_f_2.jpg</IMG></Segment>
+		<Segment><Category>Sea</Category><SKU>648393</SKU><ItemType></ItemType><ItemName>Sea Scout Long Cruise Segment Red </ItemName><IMG>images/segment/648393_f_2.jpg</IMG></Segment>
+		<Segment><Category>Scout</Category><SKU>610682</SKU><ItemType>Award</ItemType><ItemName>National Outdoor Achievement Award (Riding) </ItemName><IMG>images/segment/610682.jpg</IMG><Width>84</Width><Height>42</Height></Segment>
+		<Segment><Category>Scout</Category><SKU>610683</SKU><ItemType>Award</ItemType><ItemName>National Outdoor Achievement Award (Hiking)</ItemName><IMG>images/segment/610683.jpg</IMG><Width>125</Width><Height>30</Height></Segment>
+		<Segment><Category>Scout</Category><SKU>610684</SKU><ItemType>Award</ItemType><ItemName>National Outdoor Achievement Award (Camping)</ItemName><IMG>images/segment/610684.jpg</IMG><Width>125</Width><Height>30</Height></Segment>
+		<Segment><Category>Scout</Category><SKU>610685</SKU><ItemType>Award</ItemType><ItemName>National Outdoor Achievement Award (Aquatics)</ItemName><IMG>images/segment/610685.jpg</IMG><Width>125</Width><Height>30</Height></Segment>
+		<Segment><Category>Scout</Category><SKU>610686</SKU><ItemType>Award</ItemType><ItemName>National Outdoor Achievement Award (Adventure)</ItemName><IMG>images/segment/610686.jpg</IMG><Width>125</Width><Height>30</Height></Segment>
+		<Segment><Category>Scout</Category><SKU>620707</SKU><ItemType>Award</ItemType><ItemName>National Outdoor Awards Conservation Segment </ItemName><IMG>images/segment/620707.jpg</IMG><Width>125</Width><Height>30</Height></Segment>
+		<Segment><Category>Scout</Category><SKU>639666</SKU><ItemType>Award</ItemType><ItemName>Scouts BSA River Kayaking Paddle Craft Safety Emblem </ItemName><IMG>images/segment/639666.jpg</IMG></Segment>
+		<Segment><Category>Scout</Category><SKU>639667</SKU><ItemType>Award</ItemType><ItemName>Scouts BSA River Canoeing Paddle Craft Safety Emblem </ItemName><IMG>images/segment/639667.jpg</IMG></Segment>
+		<Segment><Category>Scout</Category><SKU>639668</SKU><ItemType>Award</ItemType><ItemName>Scouts BSA Basic Kayaking Paddle Craft Safety Emblem </ItemName><IMG>images/segment/639668.jpg</IMG></Segment>
+		<Segment><Category>Scout</Category><SKU>639669</SKU><ItemType>Award</ItemType><ItemName>Scouts BSA Basic Canoeing Paddle Craft Safety Emblem </ItemName><IMG>images/segment/639669.jpg</IMG></Segment>		
+		<Segment><Category>Cub</Category><SKU>615495</SKU><ItemType>Award</ItemType><ItemName>Cyber Chip Award (Grades 1-3)</ItemName><IMG>images/segment/615495.jpg</IMG><Width>75</Width><Height>60</Height></Segment>
+		<Segment><Category>Cub</Category><SKU>615495</SKU><ItemType>Award</ItemType><ItemName>Cyber Chip Award (Grades 1-3) Retired(12/31/2023)</ItemName><IMG>images/segment/615495.jpg</IMG><Width>75</Width><Height>60</Height></Segment>
+		<Segment><Category>Cub</Category><SKU>615495</SKU><ItemType>Award</ItemType><ItemName>Cyber Chip Award (Grades 4-5)</ItemName><IMG>images/segment/615495.jpg</IMG><Width>75</Width><Height>60</Height></Segment>
+		<Segment><Category>Cub</Category><SKU>615495</SKU><ItemType>Award</ItemType><ItemName>Cyber Chip Award (Grades 4-5) Retired(12/31/2023)</ItemName><IMG>images/segment/615495.jpg</IMG><Width>75</Width><Height>60</Height></Segment>
+		<Segment><Category>Scout</Category><SKU>615496</SKU><ItemType>Award</ItemType><ItemName>Cyber Chip Award (Grades 6-8)</ItemName><IMG>images/segment/615496.jpg</IMG><Width>75</Width><Height>60</Height></Segment>
+		<Segment><Category>Scout</Category><SKU>615496</SKU><ItemType>Award</ItemType><ItemName>Cyber Chip Award (Grades 6-8) Retired(12/31/2023)</ItemName><IMG>images/segment/615496.jpg</IMG><Width>75</Width><Height>60</Height></Segment>
+		<Segment><Category>Scout</Category><SKU>615496</SKU><ItemType>Award</ItemType><ItemName>Cyber Chip Award (Grades 9-12)</ItemName><IMG>images/segment/615496.jpg</IMG><Width>75</Width><Height>60</Height></Segment>
+		<Segment><Category>Scout</Category><SKU>615496</SKU><ItemType>Award</ItemType><ItemName>Cyber Chip Award (Grades 9-12) Retired(12/31/2023)</ItemName><IMG>images/segment/615496.jpg</IMG><Width>75</Width><Height>60</Height></Segment>
+		<Segment><Category>Scout</Category><SKU>246</SKU><ItemType>Award</ItemType><ItemName>Kayaking BSA</ItemName><IMG>images/kayak.jpg</IMG></Segment>
+		<Segment><Category>Cub</Category><SKU></SKU><ItemType>Award</ItemType><ItemName>Religious emblem - Youth</ItemName><IMG>images/segment/Knot-Religious-Youth.jpg</IMG><Width>84</Width><Height>42</Height></Segment>
+		<Segment><Category>Scout</Category><SKU></SKU><ItemType>Award</ItemType><ItemName>Religious Square Knot (LDS Scouts BSA)</ItemName><IMG>images/segment/Knot-Religious-Youth.jpg</IMG><Width>84</Width><Height>42</Height></Segment>
+		
+		<Segment><Category>Scout</Category><SKU></SKU><ItemType>Award</ItemType><ItemName>Whitewater Rafting BSA Award</ItemName><IMG>images/segment/WhitewaterRafting.gif</IMG><Width>64</Width><Height>64</Height></Segment>		
+		<Segment><Category>Scout</Category><SKU></SKU><ItemType>Award</ItemType><ItemName>Snorkeling BSA</ItemName><IMG>images/segment/Snorkeling.jpg</IMG><Width>64</Width><Height>64</Height></Segment>
+	</Segments>
+	<Other>
+		<badge><Category>Cub</Category><SKU>14235</SKU><ItemType>Award</ItemType><ItemName>Cub Scout Outdoor Activity Award</ItemName><IMG>images/Cubscouts/OutdoorFlap.jpg</IMG><Width>137</Width><Height>56</Height></badge>
+		<badge><Category>Cub</Category><SKU>14235</SKU><ItemType>Award</ItemType><ItemName>Cub Scout Outdoor Activity Award v2015 (Tiger)</ItemName><IMG>images/Cubscouts/OutdoorFlap.jpg</IMG><Width>137</Width><Height>56</Height></badge>
+		<badge><Category>Cub</Category><SKU>14235</SKU><ItemType>Award</ItemType><ItemName>Cub Scout Outdoor Activity Award v2015+ (Tiger)</ItemName><IMG>images/Cubscouts/OutdoorFlap.jpg</IMG><Width>137</Width><Height>56</Height></badge>
+		<badge><Category>Cub</Category><SKU>14235</SKU><ItemType>Award</ItemType><ItemName>Cub Scout Outdoor Activity Award v2010 (Wolf)</ItemName><IMG>images/Cubscouts/OutdoorFlap.jpg</IMG><Width>137</Width><Height>56</Height></badge>
+		<badge><Category>Cub</Category><SKU>14235</SKU><ItemType>Award</ItemType><ItemName>Cub Scout Outdoor Activity Award v2015 (Wolf)</ItemName><IMG>images/Cubscouts/OutdoorFlap.jpg</IMG><Width>137</Width><Height>56</Height></badge>
+		<badge><Category>Cub</Category><SKU>14235</SKU><ItemType>Award</ItemType><ItemName>Cub Scout Outdoor Activity Award v2015+ (Wolf)</ItemName><IMG>images/Cubscouts/OutdoorFlap.jpg</IMG><Width>137</Width><Height>56</Height></badge>
+		<badge><Category>Cub</Category><SKU>14235</SKU><ItemType>Award</ItemType><ItemName>Cub Scout Outdoor Activity Award v2015 (Bear)</ItemName><IMG>images/Cubscouts/OutdoorFlap.jpg</IMG><Width>137</Width><Height>56</Height></badge>
+		<badge><Category>Cub</Category><SKU>14235</SKU><ItemType>Award</ItemType><ItemName>Cub Scout Outdoor Activity Award v2015+ (Bear)</ItemName><IMG>images/Cubscouts/OutdoorFlap.jpg</IMG><Width>137</Width><Height>56</Height></badge>
+		<badge><Category>Cub</Category><SKU>14235</SKU><ItemType>Award</ItemType><ItemName>Cub Scout Outdoor Activity Award v2015 (Webelos)</ItemName><IMG>images/Cubscouts/OutdoorFlap.jpg</IMG><Width>137</Width><Height>56</Height></badge>
+		<badge><Category>Cub</Category><SKU>14235</SKU><ItemType>Award</ItemType><ItemName>Cub Scout Outdoor Activity Award v2015+ (Webelos)</ItemName><IMG>images/Cubscouts/OutdoorFlap.jpg</IMG><Width>137</Width><Height>56</Height></badge>
+
+		<badge><Category>Cub</Category><SKU></SKU><ItemType>Award</ItemType><ItemName>Gold Arrow Point (Wolf)</ItemName><IMG>images/Cubscouts/GoldArrow.jpg</IMG><Width>50</Width><Height>50</Height></badge>
+		<badge><Category>Cub</Category><SKU></SKU><ItemType>Award</ItemType><ItemName>Gold Arrow Point (Bear)</ItemName><IMG>images/Cubscouts/GoldArrow.jpg</IMG></badge>
+		<badge><Category>Cub</Category><SKU></SKU><ItemType>Award</ItemType><ItemName>Silver Arrow Point (Wolf)</ItemName><IMG>images/Cubscouts/SilverArrow.jpg</IMG></badge>
+		<badge><Category>Cub</Category><SKU></SKU><ItemType>Award</ItemType><ItemName>Silver Arrow Point (Bear)</ItemName><IMG>images/Cubscouts/SilverArrow.jpg</IMG></badge>
+		<badge><Category>Cub</Category><SKU>625514</SKU><ItemType>Award</ItemType><ItemName>Shooting Sports Award - Webelos</ItemName><IMG>images/Cubscouts/CubScoutWebelosShootingSports.jpg</IMG></badge>
+		<badge><Category>Cub</Category><SKU>625517</SKU><ItemType>Award</ItemType><ItemName>Shooting Sports Award - Bear</ItemName><IMG>images/Cubscouts/625517.jpg</IMG></badge>
+		<badge><Category>Cub</Category><SKU>625516</SKU><ItemType>Award</ItemType><ItemName>Shooting Sports Award - Wolf</ItemName><IMG>images/Cubscouts/625516.jpg</IMG></badge>
+		<badge><Category>Cub</Category><SKU>625515</SKU><ItemType>Award</ItemType><ItemName>Shooting Sports Award - Tiger</ItemName><IMG>images/Cubscouts/625516.jpg</IMG></badge>
+		<badge><Category>Cub</Category><SKU>625514</SKU><ItemType>Award</ItemType><ItemName>Shooting Sports Award - Webelos(Retired 06/01/2024)</ItemName><IMG>images/Cubscouts/CubScoutWebelosShootingSports.jpg</IMG></badge>
+		<badge><Category>Cub</Category><SKU>625517</SKU><ItemType>Award</ItemType><ItemName>Shooting Sports Award - Bear(Retired 06/01/2024)</ItemName><IMG>images/Cubscouts/625517.jpg</IMG></badge>
+		<badge><Category>Cub</Category><SKU>625516</SKU><ItemType>Award</ItemType><ItemName>Shooting Sports Award - Wolf(Retired 06/01/2024)</ItemName><IMG>images/Cubscouts/625516.jpg</IMG></badge>
+		<badge><Category>Cub</Category><SKU>625515</SKU><ItemType>Award</ItemType><ItemName>Shooting Sports Award - Tiger(Retired 06/01/2024)</ItemName><IMG>images/Cubscouts/625516.jpg</IMG></badge>
+
+		<badge><Category>Cub</Category><SKU>625515</SKU><ItemType>Award</ItemType><ItemName>Shooting Sports Award - Cub Scout</ItemName><IMG>images/Cubscouts/CubScoutTigerShootingSports.jpg</IMG></badge>
+		<badge><Category>Cub</Category><SKU></SKU><ItemType>Webelos Activity Badge</ItemType><ItemName>Aquanaut</ItemName><IMG>images/Cubscouts/CubScout-Aquanaut.jpg</IMG></badge>
+		<badge><Category>Cub</Category><SKU></SKU><ItemType>Webelos Activity Badge</ItemType><ItemName>Athlete</ItemName><IMG>images/Cubscouts/CubScout-Athlete.jpg</IMG></badge>
+		<badge><Category>Cub</Category><SKU></SKU><ItemType>Webelos Activity Badge</ItemType><ItemName>Fitness</ItemName><IMG>images/Cubscouts/CubScout-Fitness.jpg</IMG></badge>
+		<badge><Category>Cub</Category><SKU></SKU><ItemType>Webelos Activity Badge</ItemType><ItemName>Sportsman</ItemName><IMG>images/Cubscouts/CubScout-Sportsman.jpg</IMG></badge>
+		<badge><Category>Cub</Category><SKU></SKU><ItemType>Webelos Activity Badge</ItemType><ItemName>Craftsman</ItemName><IMG>images/Cubscouts/CubScout-Craftsman.jpg</IMG></badge>
+		<badge><Category>Cub</Category><SKU></SKU><ItemType>Webelos Activity Badge</ItemType><ItemName>Engineer</ItemName><IMG>images/Cubscouts/CubScout-Engineer.jpg</IMG></badge>
+		<badge><Category>Cub</Category><SKU></SKU><ItemType>Webelos Activity Badge</ItemType><ItemName>Handyman</ItemName><IMG>images/Cubscouts/CubScout-Handyman.jpg</IMG></badge>
+		<badge><Category>Cub</Category><SKU></SKU><ItemType>Webelos Activity Badge</ItemType><ItemName>Scientist</ItemName><IMG>images/Cubscouts/CubScout-Scientist.jpg</IMG></badge>
+		<badge><Category>Cub</Category><SKU></SKU><ItemType>Webelos Activity Badge</ItemType><ItemName>Artist</ItemName><IMG>images/Cubscouts/CubScout-Artist.jpg</IMG></badge>
+		<badge><Category>Cub</Category><SKU></SKU><ItemType>Webelos Activity Badge</ItemType><ItemName>Scholar</ItemName><IMG>images/Cubscouts/CubScout-Scholar.jpg</IMG></badge>
+		<badge><Category>Cub</Category><SKU></SKU><ItemType>Webelos Activity Badge</ItemType><ItemName>Showman</ItemName><IMG>images/Cubscouts/CubScout-Showman.jpg</IMG></badge>
+		<badge><Category>Cub</Category><SKU></SKU><ItemType>Webelos Activity Badge</ItemType><ItemName>Traveler</ItemName><IMG>images/Cubscouts/CubScout-Traveler.jpg</IMG></badge>
+		<badge><Category>Cub</Category><SKU></SKU><ItemType>Webelos Activity Badge</ItemType><ItemName>Forester</ItemName><IMG>images/Cubscouts/CubScout-Forester.jpg</IMG></badge>
+		<badge><Category>Cub</Category><SKU></SKU><ItemType>Webelos Activity Badge</ItemType><ItemName>Geologist</ItemName><IMG>images/Cubscouts/CubScout-Geologist.jpg</IMG></badge>
+		<badge><Category>Cub</Category><SKU></SKU><ItemType>Webelos Activity Badge</ItemType><ItemName>Naturalist</ItemName><IMG>images/Cubscouts/CubScout-Naturalist.jpg</IMG></badge>
+		<badge><Category>Cub</Category><SKU></SKU><ItemType>Webelos Activity Badge</ItemType><ItemName>Outdoorsman</ItemName><IMG>images/Cubscouts/CubScout-Outdoorsman.jpg</IMG></badge>
+		<badge><Category>Cub</Category><SKU></SKU><ItemType>Webelos Activity Badge</ItemType><ItemName>Citizen</ItemName><IMG>images/Cubscouts/CubScout-Citizen.jpg</IMG></badge>
+		<badge><Category>Cub</Category><SKU></SKU><ItemType>Webelos Activity Badge</ItemType><ItemName>Communicator</ItemName><IMG>images/Cubscouts/CubScout-Communicator.jpg</IMG></badge>
+		<badge><Category>Cub</Category><SKU></SKU><ItemType>Webelos Activity Badge</ItemType><ItemName>Family Member</ItemName><IMG>images/Cubscouts/CubScout-FamilyMember.jpg</IMG></badge>
+		<badge><Category>Cub</Category><SKU></SKU><ItemType>Webelos Activity Badge</ItemType><ItemName>Readyman</ItemName><IMG>images/Cubscouts/CubScout-Readyman.jpg</IMG></badge>
+		<badge><Category>Scout</Category><SKU>219</SKU><ItemType>Award</ItemType><ItemName>Recruiter Strip</ItemName><IMG>images/219.jpg</IMG><Width>100</Width><Height>50</Height></badge>
+		<badge><Category>Cub</Category><SKU>625788</SKU><ItemType>Award</ItemType><ItemName>Shooting Sports Pin - Webelos Archery</ItemName><IMG>images/Cubscouts/625788.jpg</IMG></badge>
+		<badge><Category>Cub</Category><SKU>625789</SKU><ItemType>Award</ItemType><ItemName>Shooting Sports Pin - Webelos BB Gun</ItemName><IMG>images/Cubscouts/625789.jpg</IMG></badge>
+		<badge><Category>Cub</Category><SKU>625790</SKU><ItemType>Award</ItemType><ItemName>Shooting Sports Pin - Webelos Slingshot</ItemName><IMG>images/Cubscouts/625790.jpg</IMG></badge>
+		<badge><Category>Cub</Category><SKU>625788</SKU><ItemType>Award</ItemType><ItemName>Shooting Sports Pin - Webelos Archery(Retired 06/01/2024)</ItemName><IMG>images/Cubscouts/625788.jpg</IMG></badge>
+		<badge><Category>Cub</Category><SKU>625789</SKU><ItemType>Award</ItemType><ItemName>Shooting Sports Pin - Webelos BB Gun(Retired 06/01/2024)</ItemName><IMG>images/Cubscouts/625789.jpg</IMG></badge>
+		<badge><Category>Cub</Category><SKU>625790</SKU><ItemType>Award</ItemType><ItemName>Shooting Sports Pin - Webelos Slingshot(Retired 06/01/2024)</ItemName><IMG>images/Cubscouts/625790.jpg</IMG></badge>
+
+		<badge><Category>Cub</Category><SKU>625790</SKU><ItemType>Award</ItemType><ItemName>Shooting Sports Pin - Bear Slingshot</ItemName><IMG>images/Cubscouts/625790.jpg</IMG></badge>
+		<badge><Category>Cub</Category><SKU>625790</SKU><ItemType>Award</ItemType><ItemName>Shooting Sports Pin - Bear Slingshot(Retired 06/01/2024)</ItemName><IMG>images/Cubscouts/625790.jpg</IMG></badge>
+		<badge><Category>Cub</Category><SKU>111111</SKU><ItemType>Award</ItemType><ItemName>Shooting Sports Pin - Bear Archery</ItemName><IMG>images/Cubscouts/625788.jpg</IMG></badge>
+		<badge><Category>Cub</Category><SKU>111111</SKU><ItemType>Award</ItemType><ItemName>Shooting Sports Pin - Bear Archery(Retired 06/01/2024)</ItemName><IMG>images/Cubscouts/625788.jpg</IMG></badge>
+		<badge><Category>Cub</Category><SKU>222222</SKU><ItemType>Award</ItemType><ItemName>Shooting Sports Pin - Bear BB Gun</ItemName><IMG>images/Cubscouts/625789.jpg</IMG></badge>
+		<badge><Category>Cub</Category><SKU>222222</SKU><ItemType>Award</ItemType><ItemName>Shooting Sports Pin - Bear BB Gun(Retired 06/01/2024)</ItemName><IMG>images/Cubscouts/625789.jpg</IMG></badge>
+
+		<badge><Category>Cub</Category><SKU>625790</SKU><ItemType>Award</ItemType><ItemName>Shooting Sports Pin - Wolf Slingshot</ItemName><IMG>images/Cubscouts/625790.jpg</IMG></badge>
+		<badge><Category>Cub</Category><SKU>111111</SKU><ItemType>Award</ItemType><ItemName>Shooting Sports Pin - Wolf Archery</ItemName><IMG>images/Cubscouts/625788.jpg</IMG></badge>
+		<badge><Category>Cub</Category><SKU>222222</SKU><ItemType>Award</ItemType><ItemName>Shooting Sports Pin - Wolf BB Gun</ItemName><IMG>images/Cubscouts/625789.jpg</IMG></badge>
+		<badge><Category>Cub</Category><SKU>625790</SKU><ItemType>Award</ItemType><ItemName>Shooting Sports Pin - Wolf Slingshot(Retired 06/01/2024)</ItemName><IMG>images/Cubscouts/625790.jpg</IMG></badge>
+		<badge><Category>Cub</Category><SKU>111111</SKU><ItemType>Award</ItemType><ItemName>Shooting Sports Pin - Wolf Archery(Retired 06/01/2024)</ItemName><IMG>images/Cubscouts/625788.jpg</IMG></badge>
+		<badge><Category>Cub</Category><SKU>222222</SKU><ItemType>Award</ItemType><ItemName>Shooting Sports Pin - Wolf BB Gun(Retired 06/01/2024)</ItemName><IMG>images/Cubscouts/625789.jpg</IMG></badge>
+
+		
+		<badge><Category>Cub</Category><SKU>625790</SKU><ItemType>Award</ItemType><ItemName>Shooting Sports Pin - Tiger Slingshot</ItemName><IMG>images/Cubscouts/625790.jpg</IMG></badge>
+		<badge><Category>Cub</Category><SKU>625790</SKU><ItemType>Award</ItemType><ItemName>Shooting Sports Pin - Tiger Slingshot(Retired 06/01/2024)</ItemName><IMG>images/Cubscouts/625790.jpg</IMG></badge>
+		<badge><Category>Cub</Category><SKU>625789</SKU><ItemType>Award</ItemType><ItemName>Shooting Sports Pin - Tiger BB Gun</ItemName><IMG>images/Cubscouts/625789.jpg</IMG></badge>
+		<badge><Category>Cub</Category><SKU>625789</SKU><ItemType>Award</ItemType><ItemName>Shooting Sports Pin - Tiger BB Gun(Retired 06/01/2024)</ItemName><IMG>images/Cubscouts/625789.jpg</IMG></badge>
+		<badge><Category>Cub</Category><SKU>625788</SKU><ItemType>Award</ItemType><ItemName>Shooting Sports Pin - Tiger Archery</ItemName><IMG>images/Cubscouts/625788.jpg</IMG></badge>
+		<badge><Category>Cub</Category><SKU>625788</SKU><ItemType>Award</ItemType><ItemName>Shooting Sports Pin - Tiger Archery(Retired 06/01/2024)</ItemName><IMG>images/Cubscouts/625788.jpg</IMG></badge>
+		<badge><Category>Cub</Category><SKU>8598</SKU><ItemType>Award</ItemType><ItemName>Whittling Chip</ItemName><IMG>images/Cubscouts/8598.jpg</IMG><Width>100</Width><Height>72</Height></badge>
+		<badge><Category>Cub</Category><SKU>188</SKU><ItemType>Award</ItemType><ItemName>Historic Trails Award</ItemName><IMG>images/188.jpg</IMG></badge>
+		<badge><Category>Scout</Category><SKU>618632</SKU><ItemType>Award</ItemType><ItemName>Stand Up Paddleboarding</ItemName><IMG>images/618632.jpg</IMG></badge>
+		<badge><Category>Scout</Category><SKU>191</SKU><ItemType>Award</ItemType><ItemName>50-Miler Award</ItemName><IMG>images/191.jpg</IMG></badge>
+		<badge><Category>Scout</Category><SKU>387</SKU><ItemType>Award</ItemType><ItemName>Den Chief Service Award</ItemName><IMG>images/387.jpg</IMG></badge>
+		<badge><Category>Scout</Category><SKU>8599</SKU><ItemType>Award</ItemType><ItemName>Firem'n Chit</ItemName><IMG>images/8599.jpg</IMG></badge>
+		<badge><Category>Scout</Category><SKU>98</SKU><ItemType>Award</ItemType><ItemName>Paul Bunyan Woodsman</ItemName><IMG>images/98.jpg</IMG></badge>
+		<badge><Category>Scout</Category><SKU>8597</SKU><ItemType>Award</ItemType><ItemName>Totin' Chip</ItemName><IMG>images/8597.jpg</IMG></badge>
+		<badge><Category>Scout</Category><SKU>8597</SKU><ItemType>Award</ItemType><ItemName>Totin' Chip (2024)</ItemName><IMG>images/8597.jpg</IMG></badge>
+		<badge><Category>Cub</Category><SKU>8597</SKU><ItemType>Award</ItemType><ItemName>Totin' Chip</ItemName><IMG>images/8597.jpg</IMG></badge>
+
+		<badge><Category>Scout</Category><SKU>245</SKU><ItemType>Award</ItemType><ItemName>Mile Swim BSA</ItemName><IMG>images/mileswim.jpg</IMG></badge>
+		<badge><Category>Scout</Category><SKU>245</SKU><ItemType>Award</ItemType><ItemName>Mile Swim BSA (Retired May 2024)</ItemName><IMG>images/mileswim.jpg</IMG></badge>
+
+		<badge><Category>Cub</Category><SKU></SKU><ItemType>Award</ItemType><ItemName>National Summertime Pack Award pin (Tiger Cub)</ItemName><IMG>images/Cubscouts/NationalSumertimePackAward-Tiger.png</IMG><Width>72</Width><Height>70</Height></badge>
+		<badge><Category>Cub</Category><SKU></SKU><ItemType>Award</ItemType><ItemName>National Summertime Pack Award pin (Tiger Cub)(Retired 06/01/2024)</ItemName><IMG>images/Cubscouts/NationalSumertimePackAward-Tiger.png</IMG><Width>72</Width><Height>70</Height></badge>
+		<badge><Category>Cub</Category><SKU></SKU><ItemType>Award</ItemType><ItemName>National Summertime Pack Award pin (Wolf)</ItemName><IMG>images/Cubscouts/NationalSumertimePackAward-Wolf.png</IMG><Width>72</Width><Height>70</Height></badge>
+		<badge><Category>Cub</Category><SKU></SKU><ItemType>Award</ItemType><ItemName>National Summertime Pack Award pin (Wolf)(Retired 06/01/2024)</ItemName><IMG>images/Cubscouts/NationalSumertimePackAward-Wolf.png</IMG><Width>72</Width><Height>70</Height></badge>
+		<badge><Category>Cub</Category><SKU></SKU><ItemType>Award</ItemType><ItemName>National Summertime Pack Award pin (Bear)</ItemName><IMG>images/Cubscouts/NationalSumertimePackAward-Bear.png</IMG><Width>72</Width><Height>70</Height></badge>
+		<badge><Category>Cub</Category><SKU></SKU><ItemType>Award</ItemType><ItemName>National Summertime Pack Award pin (Bear)(Retired 06/01/2024)</ItemName><IMG>images/Cubscouts/NationalSumertimePackAward-Bear.png</IMG><Width>72</Width><Height>70</Height></badge>
+		<badge><Category>Cub</Category><SKU></SKU><ItemType>Award</ItemType><ItemName>National Summertime Pack Award pin (Webelos)</ItemName><IMG>images/Cubscouts/NationalSumertimePackAward-Webelos.png</IMG><Width>72</Width><Height>70</Height></badge>
+		<badge><Category>Cub</Category><SKU></SKU><ItemType>Award</ItemType><ItemName>National Summertime Pack Award pin (Webelos)(Retired 06/01/2024)</ItemName><IMG>images/Cubscouts/NationalSumertimePackAward-Webelos.png</IMG><Width>72</Width><Height>70</Height></badge>
+
+		<badge><Category>Cub</Category><SKU></SKU><ItemType>Award</ItemType><ItemName>Cub Scouting's Leave No Trace Awareness Award (Retired 12/31/2020)</ItemName><IMG>images/Cubscouts/CubScoutLeaveNoTraceAwareness.jpg</IMG><Width>72</Width><Height>70</Height></badge>
+		<badge><Category>Scout</Category><SKU>615442</SKU><ItemType>Award</ItemType><ItemName>Messengers of Peace</ItemName><IMG>images/segment/615442.jpg</IMG><Width>70</Width><Height>65</Height></badge>
+		
+		<badge><Category>Cub</Category><SKU></SKU><ItemType>Award</ItemType><ItemName>Cub Scout World Conservation Award v2015 (Wolf)</ItemName><IMG>images/worldconservation.jpg</IMG></badge>		
+		<badge><Category>Cub</Category><SKU></SKU><ItemType>Award</ItemType><ItemName>Cub Scout World Conservation Award v2015 (Bear)</ItemName><IMG>images/worldconservation.jpg</IMG></badge>		
+		<badge><Category>Cub</Category><SKU></SKU><ItemType>Award</ItemType><ItemName>Cub Scout World Conservation Award v2015 (Wolf)(Retired 06/01/2024)</ItemName><IMG>images/worldconservation.jpg</IMG></badge>		
+		<badge><Category>Cub</Category><SKU></SKU><ItemType>Award</ItemType><ItemName>Cub Scout World Conservation Award v2015 (Bear)(Retired 06/01/2024)</ItemName><IMG>images/worldconservation.jpg</IMG></badge>		
+		
+		<badge><Category>Scout</Category><SKU>615442</SKU><ItemType>Award</ItemType><ItemName>Messengers of Peace v2023</ItemName><IMG>images/segment/MessengersOfPeace.png</IMG></badge>				
+		<badge><Category>Scout</Category><SKU>615442</SKU><ItemType>Award</ItemType><ItemName>Messengers of Peace (retired 2023)</ItemName><IMG>images/segment/MessengersOfPeace.png</IMG></badge>				
+	</Other>
+</ScoutBook>
+<!--
+		<Pin><Category>Cub</Category><SKU>619971</SKU><ItemType>Adventure</ItemType><ItemName>Building a Better World </ItemName><IMG>images/Cubscout/619971.jpg</IMG><SVG></SVG></Pin> 
+		<Pin><Category>Cub</Category><SKU>619973</SKU><ItemType>Adventure</ItemType><ItemName>Scouting Adventure </ItemName><IMG>images/Cubscout/619973.jpg</IMG><SVG></SVG></Pin>
+		<Pin><Category>Cub</Category><SKU>619974</SKU><ItemType>Adventure</ItemType><ItemName>Duty to God in Action </ItemName><IMG>images/Cubscout/619974.jpg</IMG><SVG></SVG></Pin>
+		<Pin><Category>Cub</Category><SKU>619984</SKU><ItemType>Adventure</ItemType><ItemName>Cast Iron Chef</ItemName><IMG>images/Cubscout/619984.jpg</IMG><SVG></SVG></Pin>
+		<Pin><Category>Cub</Category><SKU>619985</SKU><ItemType>Adventure</ItemType><ItemName>First Responder</ItemName><IMG>images/Cubscout/619985.jpg</IMG><SVG></SVG></Pin>
+		<Pin><Category>Cub</Category><SKU>619986</SKU><ItemType>Adventure</ItemType><ItemName>Stronger, Faster, Higher</ItemName><IMG>images/Cubscout/619986.jpg</IMG><SVG></SVG></Pin>
+		<Pin><Category>Cub</Category><SKU>619987</SKU><ItemType>Adventure</ItemType><ItemName>Webelos Walkabout</ItemName><IMG>images/Cubscout/619987.jpg</IMG><SVG></SVG></Pin>
+		<Pin><Category>Cub</Category><SKU>619988</SKU><ItemType>Adventure</ItemType><ItemName>Duty to God And You </ItemName><IMG>images/Cubscout/619988.jpg</IMG><SVG></SVG></Pin>
+		<Badge><Category>Cub</Category><SKU></SKU><ItemType>Adventure</ItemType><ItemName>Tiger Theater</ItemName><IMG>images/Cubscout/19_300.png</IMG><SVG></SVG></Badge>		
+
+-->

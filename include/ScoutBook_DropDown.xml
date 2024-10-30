@@ -1,0 +1,267 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<ScoutBook>
+	<Fonts>
+		<Font>6</Font>
+		<Font>7</Font>
+		<Font>8</Font>
+		<Font>9</Font>
+		<Font>10</Font>
+		<Font>11</Font>
+		<Font>12</Font>
+		<Font>13</Font>
+		<Font>14</Font>
+	</Fonts>
+	<Units>
+		<Unit>Pack</Unit>
+		<Unit>Troop</Unit>
+		<Unit>Post</Unit>
+		<Unit>Crew</Unit>
+	</Units>
+	<RankMessage>Has met the Reqs for the \n \rank </RankMessage>
+	<MeritBadgeMessage>Has met the Reqs for the \n \mb_name </MeritBadgeMessage>
+	<MeritBadgeAbbrList>
+		<MeritBadge>
+			<Name>Automotive Maintenance MB Emblem</Name>
+			<Abbr>Auto Maintenance MB Emblem</Abbr>
+		</MeritBadge>
+		<MeritBadge>
+			<Name>Citizenship in the Community MB Emblem</Name>
+			<Abbr>Citiz in the Comm. MB Emblem</Abbr>
+		</MeritBadge>
+		<MeritBadge>
+			<Name>Citizenship in the Nation MB Emblem</Name>
+			<Abbr>Citiz in the Nat. MB Emblem</Abbr>
+		</MeritBadge>
+		<MeritBadge>
+			<Name>Citizenship in the World MB Emblem</Name>
+			<Abbr>Citiz in the Wor. MB Emblem</Abbr>
+		</MeritBadge>
+		
+		<MeritBadge>
+			<Name>Disabilities Awareness MB Emblem</Name>
+			<Abbr>Disabil. Aware. MB Emblem</Abbr>
+		</MeritBadge>
+		<MeritBadge>
+			<Name>Emergency Preparedness MB Emblem</Name>
+			<Abbr>Emergency Prep. MB Emblem</Abbr>
+		</MeritBadge>
+		<MeritBadge>
+			<Name>Environmental Science MB Emblem</Name>
+			<Abbr>Enviro. Sci. MB Emblem</Abbr>
+		</MeritBadge>
+		<MeritBadge>
+			<Name>Fish and Wildlife Management MB Emblem</Name>
+			<Abbr>Fish and Wildlife MB Emblem</Abbr>
+		</MeritBadge>
+		<MeritBadge>
+			<Name>Landscape Architecture MB Emblem</Name>
+			<Abbr>Landscape Arch. MB Emblem</Abbr>
+		</MeritBadge>
+		<MeritBadge>
+			<Name>Model Design and Building MB Emblem</Name>
+			<Abbr>Model Design &amp; Build MB Emblem</Abbr>
+		</MeritBadge>
+		<MeritBadge>
+			<Name>Personal Management MB Emblem</Name>
+			<Abbr>Personal Manag. MB Emblem</Abbr>
+		</MeritBadge>
+		<MeritBadge>
+			<Name>Reptile and Amphibian Study MB Emblem</Name>
+			<Abbr>Reptile &amp; Amphibian MB Emblem</Abbr>
+		</MeritBadge>
+		<MeritBadge>
+			<Name>Signs, Signals, and Codes MB Emblem</Name>
+			<Abbr>Sign, Signal, &amp; Code MB Emblem</Abbr>
+		</MeritBadge>
+		<MeritBadge>
+			<Name>Soil and Water Conservation MB Emblem</Name>
+			<Abbr>Soil and Water Cons. MB Emblem</Abbr>
+		</MeritBadge>
+		<MeritBadge>
+			<Name>Adams National Eagle Scout Service Project of the Year Award Emblem</Name>
+			<Abbr>Adams Nat Eagle Scout Serv Proj of the Yr Award Emblem</Abbr>
+		</MeritBadge>
+		<MeritBadge>
+			<Name>National Outdoor Achievement Award - Camping Segment</Name>
+			<Abbr>Nat Outdoor ACHV Award -Camping Seg</Abbr>
+			<MultiLine>National Outdoor Achievement Award Camping Segment</MultiLine>
+		</MeritBadge>
+		<MeritBadge>
+			<Name>National Outdoor Achievement Award (Camping)</Name>
+			<Abbr>Nat Outdoor ACHV Award Camping</Abbr>
+			<MultiLine>National Outdoor Achievement Award Camping Segment</MultiLine>
+		</MeritBadge>
+		<MeritBadge>
+			<Name>National Outdoor Achievement Award - Riding Segment</Name>
+			<Abbr>Nat Outdoor ACHV Award -Riding Seg</Abbr>
+		</MeritBadge>
+		<MeritBadge>
+			<Name>National Outdoor Achievement Award - Hiking Segment</Name>
+			<Abbr>Nat Outdoor ACHV Award -Hiking Seg</Abbr>
+		</MeritBadge>
+		<MeritBadge>
+			<Name>National Outdoor Achievement Award - Aquatics Segment</Name>
+			<Abbr>Nat Outdoor ACHV Award -Aquatics </Abbr>
+		</MeritBadge>
+		<MeritBadge>
+			<Name>National Outdoor Achievement Award - Adventure Segment</Name>
+			<Abbr>Nat Outdoor ACHV Award -Adventure</Abbr>
+		</MeritBadge>
+		<MeritBadge>
+			<Name>National Outdoor Achievement Award - Conservation Segment</Name>
+			<Abbr>Nat Outdoor ACHV Award -Conservation</Abbr>
+		</MeritBadge>
+		<MeritBadge>
+			<Name>Emergency Preparedness BSA Award Emblem</Name>
+			<Abbr>Emergency Prep. BSA Award Emblem</Abbr>
+		</MeritBadge>
+		<MeritBadge>
+			<Name>Keep America Beautiful Hometown USA Award Emblem</Name>
+			<Abbr>Keep Amer. Beautiful Hometown USA Award Emblem</Abbr>
+		</MeritBadge>
+		<MeritBadge>
+			<Name>BSA Stand Up Paddleboarding Emblem</Name>
+			<Abbr>BSA StandUp Paddleboard Emblem</Abbr>
+		</MeritBadge>
+		<MeritBadge>
+			<Name>Emergency Preparedness BSA Award Emblem</Name>
+			<Abbr>Emer. Prep. BSA Award Emblem</Abbr>
+		</MeritBadge>
+		<MeritBadge>
+			<Name>Cub Scouting's Leave No Trace Awareness Award (To be retired 12/31/2020)</Name>
+			<MultiLine>Cub Scouting's Leave No Trace Awareness Award (To be retired 12/31/2020)</MultiLine>
+		</MeritBadge>
+		<MeritBadge>
+			<Name>Cub Scout Outdoor Activity Award v2015 (Bear)</Name>
+			<MultiLine>Cub Scout Outdoor Activity Award v2015 (Bear)</MultiLine>
+		</MeritBadge>
+		<MeritBadge>
+			<Name>Cub Scout Outdoor Activity Award v2015 (Webelos)</Name>
+			<MultiLine>Cub Scout Outdoor Activity Award v2015 (Webelos)</MultiLine>
+		</MeritBadge>
+		<MeritBadge>
+			<Name>Cub Scout Outdoor Activity Award v2010 (Wolf)</Name>
+			<MultiLine>Cub Scout Outdoor Activity Award v2010 (Wolf)</MultiLine>
+		</MeritBadge>
+		<MeritBadge>
+			<Name>Cub Scout Outdoor Activity Award v2015 (Tiger)</Name>
+			<MultiLine>Cub Scout Outdoor Activity Award v2015 (Tiger)</MultiLine>
+		</MeritBadge>
+		<MeritBadge>
+			<Name>Cub Scout Outdoor Activity Award v2015+ (Tiger)</Name>
+			<MultiLine>Cub Scout Outdoor Activity Award v2015 (Tiger)</MultiLine>
+		</MeritBadge>
+		<MeritBadge>
+			<Name>National Summertime Pack Award pin (Bear)</Name>
+			<Abbr>Nat. Summertime Pack Award (Bear)</Abbr>
+			<MultiLine>National Summertime Pack Award pin (Bear)</MultiLine>
+		</MeritBadge>
+		<MeritBadge>
+			<Name>National Summertime Pack Award pin (Wolf)</Name>
+			<Abbr>Nat. Summertime Pack Award (Wolf)</Abbr>
+			<MultiLine>National Summertime Pack Award pin (Wolf)</MultiLine>
+		</MeritBadge>
+		<MeritBadge>
+			<Name>National Summertime Pack Award pin (Tiger Cub)</Name>
+			<Abbr>Nat. Summertime Pack Award (Tiger)</Abbr>
+			<MultiLine>National Summertime Pack Award pin (Tiger Cub)</MultiLine>
+		</MeritBadge>
+		<MeritBadge>
+			<Name>National Summertime Pack Award pin (Bear)</Name>
+			<Abbr>Nat. Summertime Pack Award (Bear)</Abbr>
+			<MultiLine>National Summertime Pack Award pin (Bear)</MultiLine>
+		</MeritBadge>
+
+		<MeritBadge>
+			<Name>Emergency Preparedness / Exploring</Name>
+			<Abbr></Abbr>
+			<MultiLine>Emergency Preparedness / Exploring</MultiLine>
+		</MeritBadge>
+
+		<MeritBadge>
+			<Name>Eagle Palm Pin #1 (Bronze) [2017]</Name>
+			<Abbr>Eagle Palm Pin #1 (Bronze)</Abbr>
+			<MultiLine>Eagle Palm Pin #1 / (Bronze)</MultiLine>
+		</MeritBadge>
+		<MeritBadge>
+			<Name>Eagle Palm Pin #2 (Gold) [2017]</Name>
+			<Abbr>Eagle Palm Pin #2 (Gold)</Abbr>
+			<MultiLine>Eagle Palm Pin #2 / (Gold)</MultiLine>
+		</MeritBadge>
+		<MeritBadge>
+			<Name>Eagle Palm Pin #3 (Silver) [2017]</Name>
+			<Abbr>Eagle Palm Pin #3 (Silver)</Abbr>
+			<MultiLine>Eagle Palm Pin #3 / (Silver)</MultiLine>
+		</MeritBadge>
+
+		<MeritBadge>
+			<Name></Name>
+			<Abbr></Abbr>
+			<MultiLine></MultiLine>
+		</MeritBadge>
+
+	</MeritBadgeAbbrList>
+	<BoyScoutAwards>
+		<Advancement>Cyber Chip Award (Grades 6-8)</Advancement>
+		<Advancement>Cyber Chip Award (Grades 9-12)</Advancement>
+		<Advancement>50-Miler Award</Advancement>
+		<Advancement>National Outdoor Achievement Award (Camping)</Advancement>
+		<Advancement>Eagle Palm Pin #1 (Bronze)</Advancement>
+		<Advancement>Eagle Palm Pin #2 (Gold)</Advancement>
+		<Advancement>Eagle Palm Pin #3 (Silver)</Advancement>
+		<Advancement>Den Chief Service Award</Advancement>	
+		<Advancement>Kayaking BSA</Advancement>
+		<Advancement>Religious Square Knot (LDS Scouts BSA)</Advancement>
+		<Advancement>Firem'n Chit</Advancement>
+		<Advancement>Recruiter Strip</Advancement>
+		<Advancement>Messengers of Peace</Advancement>
+		<Advancement>Stand Up Paddleboarding</Advancement>
+		<Advancement>Mile Swim BSA</Advancement>
+		<Advancement>Paul Bunyan Woodsman</Advancement>
+		<Advancement>National Outdoor Achievement Award (Adventure)</Advancement>
+		<Advancement>National Outdoor Achievement Award (Riding)</Advancement>
+		<Advancement>National Outdoor Achievement Award (Aquatics)</Advancement>
+		<Advancement>National Outdoor Achievement Award (Hiking)</Advancement>
+		<Advancement>National Outdoor Awards Conservation Segment</Advancement>
+		<Advancement>Eagle Palm Pin #1 (Bronze) [2017]</Advancement>
+		<Advancement>Eagle Palm Pin #2 (Gold) [2017]</Advancement>
+		<Advancement>Eagle Palm Pin #3 (Silver) [2017]</Advancement>
+		<Advancement>Eagle Palm Pin #1 (Bronze) [2024]</Advancement>
+		<Advancement>Eagle Palm Pin #2 (Gold) [2024]</Advancement>
+		<Advancement>Eagle Palm Pin #3 (Silver) [2024]</Advancement>
+	</BoyScoutAwards>
+	<OutputTypes>
+		<OutputType ID="1">Labels and List</OutputType>
+		<OutputType ID="2">Labels Only</OutputType>
+		<OutputType ID="3">List Only</OutputType>
+		<!-- Reserved for possible future development
+		<OutputType ID="4">Cards and List</OutputType>
+		<OutputType ID="5">Cards Only</OutputType>
+		-->
+	</OutputTypes>
+	<AdvancementType>
+		<Category ID="Cub,Scout,Exp,Sea">All</Category>
+		<Category ID="Cub,Scout">Cub/Scout</Category>
+		<Category ID="Cub">Cub Only</Category>
+		<Category ID="Scout">Scout Only</Category>
+		<Category ID="Exp">Explorer</Category>
+		<Category ID="Sea">Sea</Category>		
+	</AdvancementType>
+	<AwardTitleLineBreaks>
+		<AwardLine><LineBreak index="1">+Conservation+Segment</LineBreak></AwardLine>
+		<AwardLine><LineBreak index="1">+No+Trace+Awareness+</LineBreak><LineBreak2 index="1">Award+(Retired</LineBreak2></AwardLine>
+		<AwardLine><LineBreak index="1">+Conservation+</LineBreak><LineBreak2 index="1">+v2015+(Wolf)</LineBreak2></AwardLine>
+		<AwardLine><LineBreak index="1">+Conservation+</LineBreak><LineBreak2 index="1">+v2015+(Bear)</LineBreak2></AwardLine>
+		<AwardLine><LineBreak index="3">ss BSA v2014 (Tiger) (Retired 12/31/2020)</LineBreak><LineBreak2 index="1">+(Retired+12/31/2020)</LineBreak2></AwardLine>
+		<AwardLine><LineBreak index="3">ss BSA v2014 (Wolf) (Retired 12/31/2020)</LineBreak><LineBreak2 index="1">+(Retired+12/31/2020)</LineBreak2></AwardLine>
+		<AwardLine><LineBreak index="3">+-+</LineBreak></AwardLine>
+		<AwardLine><LineBreak index="0">(Grade</LineBreak></AwardLine>
+		<AwardLine><LineBreak index="0">+(LDS+</LineBreak></AwardLine>
+		<AwardLine><LineBreak index="1">+Award+(</LineBreak></AwardLine>
+		<AwardLine><LineBreak index="1">+Activity+</LineBreak></AwardLine>
+		<AwardLine><LineBreak index="1">+Award pin</LineBreak></AwardLine>
+		<AwardLine><LineBreak index="1">+BSA v2014+</LineBreak></AwardLine>
+		<AwardLine><LineBreak index="1">+/+</LineBreak></AwardLine>
+		<AwardLine><LineBreak index="0">(Duty to Country)</LineBreak></AwardLine>		
+	</AwardTitleLineBreaks>
+</ScoutBook>

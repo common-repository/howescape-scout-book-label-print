@@ -1,0 +1,158 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2020-03-28 17:47-0400\n"
+"PO-Revision-Date: 2020-03-28 17:50-0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: hs_ScoutBookLabelPrint.php:1075
+msgid "Date"
+msgstr ""
+
+#: hs_ScoutBookLabelPrint.php:1479
+msgid "PDF"
+msgstr ""
+
+#: hs_ScoutBookLabelPrint.php:1596 hs_ScoutBookLabelPrint.php:2184
+msgid "HoweScape ScoutBook Label Print"
+msgstr ""
+
+#: hs_ScoutBookLabelPrint.php:1597 hs_ScoutBookLabelPrint.php:1799
+msgid "Load CSV"
+msgstr ""
+
+#: hs_ScoutBookLabelPrint.php:1598
+msgid "Scout Book CSV:"
+msgstr ""
+
+#: hs_ScoutBookLabelPrint.php:1599
+msgid "Label Style:"
+msgstr ""
+
+#: hs_ScoutBookLabelPrint.php:1600
+msgid "Unit Type:"
+msgstr ""
+
+#: hs_ScoutBookLabelPrint.php:1601
+msgid "Unit Number:"
+msgstr ""
+
+#: hs_ScoutBookLabelPrint.php:1602 hs_ScoutBookLabelPrint.php:1804
+msgid "Font Size:"
+msgstr ""
+
+#: hs_ScoutBookLabelPrint.php:1603
+msgid "Label Position:"
+msgstr ""
+
+#: hs_ScoutBookLabelPrint.php:1604 hs_ScoutBookLabelPrint.php:1807
+msgid "Council:"
+msgstr ""
+
+#: hs_ScoutBookLabelPrint.php:1605
+msgid "Rank Message"
+msgstr ""
+
+#: hs_ScoutBookLabelPrint.php:1606
+msgid "MeritBadge Message"
+msgstr ""
+
+#: hs_ScoutBookLabelPrint.php:1607
+msgid "Label Layout"
+msgstr ""
+
+#: hs_ScoutBookLabelPrint.php:1608
+msgid "Output Content"
+msgstr ""
+
+#: hs_ScoutBookLabelPrint.php:1798
+msgid "HoweScape ScoutBook Label Print Advancement"
+msgstr ""
+
+#: hs_ScoutBookLabelPrint.php:1800
+msgid "Create Poster"
+msgstr ""
+
+#: hs_ScoutBookLabelPrint.php:1802
+msgid "Scout Book Scouts CSV:"
+msgstr ""
+
+#: hs_ScoutBookLabelPrint.php:1803
+msgid "Scout Book Advancement CSV:"
+msgstr ""
+
+#: hs_ScoutBookLabelPrint.php:1805
+msgid "Select Scout"
+msgstr ""
+
+#: hs_ScoutBookLabelPrint.php:1806
+msgid "Advancement File"
+msgstr ""
+
+#: hs_ScoutBookLabelPrint.php:1808
+msgid ""
+"Selected input file had the wrong number of columns was expecting 36 columns."
+"<br>Use Back button to retry."
+msgstr ""
+
+#: hs_ScoutBookLabelPrint.php:2166
+msgid "Sample Input File CSV"
+msgstr ""
+
+#: hs_ScoutBookLabelPrint.php:2175
+msgid "Sample output File PDF"
+msgstr ""
+
+#: hs_ScoutBookLabelPrint.php:2183 hs_ScoutBookLabelPrint.php:2278
+msgid "HoweScape ScoutBook Label Print Settings"
+msgstr ""
+
+#: hs_ScoutBookLabelPrint.php:2279
+msgid "Update Settings"
+msgstr ""
+
+#: hs_ScoutBookLabelPrint.php:2280
+msgid "Draw Border"
+msgstr ""
+
+#: hs_ScoutBookLabelPrint.php:2281
+msgid "CSV Award Original title"
+msgstr ""
+
+#: hs_ScoutBookLabelPrint.php:2282
+msgid "CSV Award Abbr title"
+msgstr ""
+
+#: hs_ScoutBookLabelPrint.php:2283
+msgid "Presentation Card"
+msgstr ""
+
+#: hs_ScoutBookLabelPrint.php:2284
+msgid "Merit Badge / Rank Images List XML"
+msgstr ""
+
+#: hs_ScoutBookLabelPrint.php:2285
+msgid "SKU"
+msgstr ""
+
+#: hs_ScoutBookLabelPrint.php:2286
+msgid "Type"
+msgstr ""
+
+#: hs_ScoutBookLabelPrint.php:2287
+msgid "Name"
+msgstr ""
+
+#: hs_ScoutBookLabelPrint.php:2288
+msgid "Graphic"
+msgstr ""

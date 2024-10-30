@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<root>
+    <CouncilList>
+        <Council><State>AK</State><City>Anchorage</City><Name>Western Alaska Council</Name><Number>610</Number></Council>
+        <Council><State>AK</State><City>Fairbanks</City><Name>Midnight Sun Council</Name><Number>696</Number></Council>
+        <Council><State>AK</State><City>Juneau</City><Name>Southeast Alaska Council</Name><Number>608</Number></Council>
+        <Council><State>AL</State><City>Birmingham</City><Name>Greater Alabama Council</Name><Number>1</Number></Council>
+        <Council><State>AL</State><City>Dothan</City><Name>Alabama-Florida Council</Name><Number>3</Number></Council>
+        <Council><State>AL</State><City>Mobile</City><Name>Mobile Area Council</Name><Number>4</Number></Council>
+        <Council><State>AL</State><City>Montgomery</City><Name>Tukabatchee Area Council</Name><Number>5</Number></Council>
+        <Council><State>AL</State><City>Tuscaloosa</City><Name>Black Warrior Council</Name><Number>6</Number></Council>
+        <Council><State>AR</State><City>El Dorado</City><Name>De Soto Area Council</Name><Number>13</Number></Council>
+        <Council><State>AR</State><City>Fort Smith</City><Name>Westark Area Council</Name><Number>16</Number></Council>
+        <Council><State>AR</State><City>Hot Springs</City><Name>Ouachita Area Council</Name><Number>14</Number></Council>
+        <Council><State>AR</State><City>Little Rock</City><Name>Quapaw Area Council</Name><Number>18</Number></Council>
+        <Council><State>AZ</State><City>Phoenix</City><Name>Grand Canyon Council</Name><Number>10</Number></Council>
+        <Council><State>AZ</State><City>Tucson</City><Name>Catalina Council</Name><Number>11</Number></Council>
+        <Council><State>CA</State><City>Alameda</City><Name>Alameda Council</Name><Number>22</Number></Council>
+        <Council><State>CA</State><City>Bakersfield</City><Name>Southern Sierra Council</Name><Number>30</Number></Council>
+        <Council><State>CA</State><City>Camarillo</City><Name>Ventura County Council</Name><Number>57</Number></Council>
+        <Council><State>CA</State><City>Costa Mesa</City><Name>Orange County Council</Name><Number>39</Number></Council>
+        <Council><State>CA</State><City>Fresno</City><Name>Sequoia Council</Name><Number>27</Number></Council>
+        <Council><State>CA</State><City>Glendale</City><Name>Verdugo Hills Council</Name><Number>58</Number></Council>
+        <Council><State>CA</State><City>Long Beach</City><Name>Long Beach Area Council</Name><Number>32</Number></Council>
+        <Council><State>CA</State><City>Los Angeles</City><Name>Los Angeles Area Council</Name><Number>33</Number></Council>
+        <Council><State>CA</State><City>Modesto</City><Name>Greater Yosemite Council</Name><Number>59</Number></Council>
+        <Council><State>CA</State><City>Ontario</City><Name>Old Baldy Council</Name><Number>43</Number></Council>
+        <Council><State>CA</State><City>Pasadena</City><Name>San Gabriel Valley Council</Name><Number>40</Number></Council>
+        <Council><State>CA</State><City>Piedmont</City><Name>Piedmont Council</Name><Number>42</Number></Council>
+        <Council><State>CA</State><City>Pleasant Hill</City><Name>Mount Diablo-Silverado Council</Name><Number>23</Number></Council>
+        <Council><State>CA</State><City>Redlands</City><Name>California Inland Empire Council</Name><Number>45</Number></Council>
+        <Council><State>CA</State><City>Sacramento</City><Name>Golden Empire Council</Name><Number>47</Number></Council>
+        <Council><State>CA</State><City>Salinas</City><Name>Monterey Bay Area Council</Name><Number>25</Number></Council>
+        <Council><State>CA</State><City>San Diego</City><Name>Desert Pacific Council</Name><Number>49</Number></Council>
+        <Council><State>CA</State><City>San Jose</City><Name>Santa Clara County Council</Name><Number>55</Number></Council>
+        <Council><State>CA</State><City>San Leandro</City><Name>San Francisco Bay Area Council</Name><Number>28</Number></Council>
+        <Council><State>CA</State><City>San Mateo</City><Name>Pacific Skyline Council</Name><Number>31</Number></Council>
+        <Council><State>CA</State><City>San Rafael</City><Name>Marin Council</Name><Number>35</Number></Council>
+        <Council><State>CA</State><City>Santa Barbara</City><Name>Los Padres Council</Name><Number>53</Number></Council>
+        <Council><State>CA</State><City>Santa Rosa</City><Name>Redwood Empire Council</Name><Number>41</Number></Council>
+        <Council><State>CA</State><City>Van Nuys</City><Name>Western Los Angeles County Council</Name><Number>51</Number></Council>
+        <Council><State>CO</State><City>Colorado Springs</City><Name>Pikes Peak Council</Name><Number>60</Number></Council>
+        <Council><State>CO</State><City>Denver</City><Name>Denver Area Council</Name><Number>61</Number></Council>
+        <Council><State>CO</State><City>Grand Junction</City><Name>Western Colorado Council</Name><Number>64</Number></Council>
+        <Council><State>CO</State><City>Greeley</City><Name>Longs Peak Council</Name><Number>62</Number></Council>
+        <Council><State>CO</State><City>Pueblo</City><Name>Rocky Mountain Council</Name><Number>63</Number></Council>
+        <Council><State>CT</State><City>Derby</City><Name>Housatonic Council</Name><Number>69</Number></Council>
+        <Council><State>CT</State><City>East Hartford</City><Name>Connecticut Rivers Council</Name><Number>66</Number></Council>
+        <Council><State>CT</State><City>Greenwich</City><Name>Greenwich Council</Name><Number>67</Number></Council>
+        <Council><State>CT</State><City>Milford</City><Name>Connecticut Yankee Council</Name><Number>72</Number></Council>
+        <Council><State>DE</State><City>Wilmington</City><Name>Del-Mar-Va Council</Name><Number>81</Number></Council>
+        <Council><State>FL</State><City>Apopka</City><Name>Central Florida Council</Name><Number>83</Number></Council>
+        <Council><State>FL</State><City>Fort Myers</City><Name>Southwest Florida Council</Name><Number>88</Number></Council>
+        <Council><State>FL</State><City>Jacksonville</City><Name>North Florida Council</Name><Number>87</Number></Council>
+        <Council><State>FL</State><City>Miami Lakes</City><Name>South Florida Council</Name><Number>84</Number></Council>
+        <Council><State>FL</State><City>Palm Beach Gardens</City><Name>Gulf Stream Council</Name><Number>85</Number></Council>
+        <Council><State>FL</State><City>Pensacola</City><Name>Gulf Coast Council</Name><Number>773</Number></Council>
+        <Council><State>FL</State><City>Seminole</City><Name>West Central Florida Council</Name><Number>89</Number></Council>
+        <Council><State>FL</State><City>Tallahassee</City><Name>Suwannee River Area Council</Name><Number>664</Number></Council>
+        <Council><State>FL</State><City>Tampa</City><Name>Gulf Ridge Council</Name><Number>86</Number></Council>
+        <Council><State>GA</State><City>Albany</City><Name>Southwest Georgia Council</Name><Number>97</Number></Council>
+        <Council><State>GA</State><City>Atlanta</City><Name>Atlanta Area Council</Name><Number>92</Number></Council>
+        <Council><State>GA</State><City>Augusta</City><Name>Georgia-Carolina Council</Name><Number>93</Number></Council>
+        <Council><State>GA</State><City>Columbus</City><Name>Chattahoochee Council</Name><Number>91</Number></Council>
+        <Council><State>GA</State><City>Griffin</City><Name>Flint River Council</Name><Number>95</Number></Council>
+        <Council><State>GA</State><City>Macon</City><Name>Central Georgia Council</Name><Number>96</Number></Council>
+        <Council><State>GA</State><City>Pendergrass</City><Name>Northeast Georgia Council</Name><Number>101</Number></Council>
+        <Council><State>GA</State><City>Rome</City><Name>Northwest Georgia Council</Name><Number>100</Number></Council>
+        <Council><State>GA</State><City>Savannah</City><Name>Coastal Empire Council</Name><Number>99</Number></Council>
+        <Council><State>GA</State><City>Valdosta</City><Name>Alapaha Area Council</Name><Number>98</Number></Council>
+        <Council><State>GA</State><City>Waycross</City><Name>Okefenokee Area Council</Name><Number>758</Number></Council>
+        <Council><State>HI</State><City>Honolulu</City><Name>Aloha Council</Name><Number>104</Number></Council>
+        <Council><State>HI</State><City>Wailuku, Maui</City><Name>Maui County Council</Name><Number>102</Number></Council>
+        <Council><State>IA</State><City>Cedar Rapids</City><Name>Hawkeye Area Council</Name><Number>172</Number></Council>
+        <Council><State>IA</State><City>Davenport</City><Name>Illowa Council</Name><Number>133</Number></Council>
+        <Council><State>IA</State><City>Des Moines</City><Name>Mid-Iowa Council</Name><Number>177</Number></Council>
+        <Council><State>IA</State><City>Dubuque</City><Name>Northwest Iowa Council</Name><Number>178</Number></Council>
+        <Council><State>IA</State><City>Waterloo</City><Name>Winnebago Council</Name><Number>173</Number></Council>
+        <Council><State>ID</State><City>Boise</City><Name>Ore-Ida Council</Name><Number>106</Number></Council>
+        <Council><State>ID</State><City>Idaho Falls</City><Name>Grand Teton Council</Name><Number>107</Number></Council>
+        <Council><State>ID</State><City>Twin Falls</City><Name>Snake River Council</Name><Number>111</Number></Council>
+        <Council><State>IL</State><City>Belleville</City><Name>Okaw Valley Council</Name><Number>116</Number></Council>
+        <Council><State>IL</State><City>Champaign</City><Name>Prairielands Council</Name><Number>117</Number></Council>
+        <Council><State>IL</State><City>Chicago</City><Name>Chicago Area Council</Name><Number>118</Number></Council>
+        <Council><State>IL</State><City>Decatur</City><Name>Lincoln Trails Council</Name><Number>121</Number></Council>
+        <Council><State>IL</State><City>Highland Park</City><Name>Northeast Illinois Council</Name><Number>129</Number></Council>
+        <Council><State>IL</State><City>La Grange</City><Name>Des Plaines Valley Council</Name><Number>147</Number></Council>
+        <Council><State>IL</State><City>Morris</City><Name>Rainbow Council</Name><Number>702</Number></Council>
+        <Council><State>IL</State><City>Mount Prospect</City><Name>Northwest Suburban Council</Name><Number>751</Number></Council>
+        <Council><State>IL</State><City>Peoria</City><Name>W.D. Boyce Council</Name><Number>138</Number></Council>
+        <Council><State>IL</State><City>Quincy</City><Name>Mississippi Valley Council</Name><Number>141</Number></Council>
+        <Council><State>IL</State><City>Rockford</City><Name>Blackhawk Area Council</Name><Number>660</Number></Council>
+        <Council><State>IL</State><City>Springfield</City><Name>Abraham Lincoln Council</Name><Number>144</Number></Council>
+        <Council><State>IL</State><City>St. Charles</City><Name>Three Fires Council</Name><Number>127</Number></Council>
+        <Council><State>IL</State><City>Wood River</City><Name>Trails West Council</Name><Number>112</Number></Council>
+        <Council><State>IN</State><City>Bloomington</City><Name>Hoosier Trails Council</Name><Number>145</Number></Council>
+        <Council><State>IN</State><City>Evansville</City><Name>Buffalo Trace Council</Name><Number>156</Number></Council>
+        <Council><State>IN</State><City>Fort Wayne</City><Name>Anthony Wayne Area Council</Name><Number>157</Number></Council>
+        <Council><State>IN</State><City>Indianapolis</City><Name>Crossroads of America Council</Name><Number>160</Number></Council>
+        <Council><State>IN</State><City>Kokomo</City><Name>Sagamore Council</Name><Number>162</Number></Council>
+        <Council><State>IN</State><City>Munster</City><Name>Calumet Council</Name><Number>152</Number></Council>
+        <Council><State>IN</State><City>South Bend</City><Name>La Salle Council</Name><Number>165</Number></Council>
+        <Council><State>KS</State><City>Salina</City><Name>Coronado Area Council</Name><Number>192</Number></Council>
+        <Council><State>KS</State><City>Garden City</City><Name>Santa Fe Trail Council</Name><Number>194</Number></Council>
+        <Council><State>KS</State><City>Topeka</City><Name>Jayhawk Area Council</Name><Number>197</Number></Council>
+        <Council><State>KS</State><City>Wichita</City><Name>Quivira Council</Name><Number>198</Number></Council>
+        <Council><State>KY</State><City>Owensboro</City><Name>Shawnee Trails Council</Name><Number>200</Number></Council>
+        <Council><State>KY</State><City>Lexington</City><Name>Blue Grass Council</Name><Number>204</Number></Council>
+        <Council><State>KY</State><City>Louisville</City><Name>Lincoln Heritage Council</Name><Number>205</Number></Council>
+        <Council><State>LA</State><City>Lake Charles</City><Name>Calcasieu Area Council</Name><Number>209</Number></Council>
+        <Council><State>LA</State><City>Baton Rouge</City><Name>Istrouma Area Council</Name><Number>211</Number></Council>
+        <Council><State>LA</State><City>Lafayette</City><Name>Evangeline Area Council</Name><Number>212</Number></Council>
+        <Council><State>LA</State><City>Monroe</City><Name>Louisiana Purchase Council</Name><Number>213</Number></Council>
+        <Council><State>LA</State><City>Metairie</City><Name>Southeast Louisiana Council</Name><Number>214</Number></Council>
+        <Council><State>LA</State><City>Shreveport</City><Name>Norwela Council</Name><Number>215</Number></Council>
+        <Council><State>MA</State><City>Boston</City><Name>Boston Minuteman Council</Name><Number>227</Number></Council>
+        <Council><State>MA</State><City>Chicopee</City><Name>Pioneer Valley Council</Name><Number>234</Number></Council>
+        <Council><State>MA</State><City>Dalton</City><Name>Great Trails Council</Name><Number>243</Number></Council>
+        <Council><State>MA</State><City>Framingham</City><Name>Knox Trail Council</Name><Number>244</Number></Council>
+        <Council><State>MA</State><City>Haverhill</City><Name>Yankee Clipper Council</Name><Number>236</Number></Council>
+        <Council><State>MA</State><City>Lancaster</City><Name>Nashua Valley Council</Name><Number>230</Number></Council>
+        <Council><State>MA</State><City>Taunton</City><Name>Annawon Council</Name><Number>225</Number></Council>
+        <Council><State>MA</State><City>Worcester</City><Name>Mohegan Council</Name><Number>254</Number></Council>
+        <Council><State>MA</State><City>Yarmouth Port</City><Name>Cape Cod and the Islands Council</Name><Number>224</Number></Council>
+        <Council><State>MD</State><City>Baltimore</City><Name>Baltimore Area Council</Name><Number>220</Number></Council>
+        <Council><State>MD</State><City>Bethesada</City><Name>National Capital Area Council</Name><Number>82</Number></Council>
+        <Council><State>MD</State><City>Cumberland</City><Name>Potomac Council</Name><Number>757</Number></Council>
+        <Council><State>MD</State><City>Hagerstown</City><Name>Mason-Dixon Council</Name><Number>221</Number></Council>
+        <Council><State>ME</State><City>Orono</City><Name>Katahdin Area Council</Name><Number>216</Number></Council>
+        <Council><State>ME</State><City>Portland</City><Name>Pine Tree Council</Name><Number>218</Number></Council>
+        <Council><State>MI</State><City>Ann Arbor</City><Name>Great Sauk Trail Council</Name><Number>255</Number></Council>
+        <Council><State>MI</State><City>Auburn</City><Name>Lake Huron Area Council</Name><Number>265</Number></Council>
+        <Council><State>MI</State><City>Detroit</City><Name>Detroit Area Council</Name><Number>262</Number></Council>
+        <Council><State>MI</State><City>Flint</City><Name>Tall Pine Council</Name><Number>264</Number></Council>
+        <Council><State>MI</State><City>Grand Rapids</City><Name>Gerald R. Ford Council</Name><Number>266</Number></Council>
+        <Council><State>MI</State><City>Kalamazoo</City><Name>Southwest Michigan Council</Name><Number>270</Number></Council>
+        <Council><State>MI</State><City>Lansing</City><Name>Chief Okemos Council</Name><Number>271</Number></Council>
+        <Council><State>MI</State><City>Marquette</City><Name>Hiawathaland Council</Name><Number>261</Number></Council>
+        <Council><State>MI</State><City>Port Huron</City><Name>Blue Water Council</Name><Number>277</Number></Council>
+        <Council><State>MI</State><City>Traverse City</City><Name>Scenic Trails Council</Name><Number>274</Number></Council>
+        <Council><State>MI</State><City>Waterford</City><Name>Clinton Valley Council</Name><Number>276</Number></Council>
+        <Council><State>MN</State><City>Hermantown</City><Name>Voyageurs Area Council</Name><Number>286</Number></Council>
+        <Council><State>MN</State><City>Mankato</City><Name>Twin Valley Council</Name><Number>283</Number></Council>
+        <Council><State>MN</State><City>Minneapolis</City><Name>Viking Council</Name><Number>289</Number></Council>
+        <Council><State>MN</State><City>Rochester</City><Name>Gamehaven Council</Name><Number>299</Number></Council>
+        <Council><State>MN</State><City>St Cloud</City><Name>Central Minnesota Council</Name><Number>296</Number></Council>
+        <Council><State>MN</State><City>St Paul</City><Name>Indianhead Council</Name><Number>295</Number></Council>
+        <Council><State>MO</State><City>Columbia</City><Name>Great Rivers Council</Name><Number>653</Number></Council>
+        <Council><State>MO</State><City>Kansas City</City><Name>Heart of America Council</Name><Number>307</Number></Council>
+        <Council><State>MO</State><City>Springfield</City><Name>Ozark Trails Council</Name><Number>306</Number></Council>
+        <Council><State>MO</State><City>St Joesph</City><Name>Pony Express Council</Name><Number>311</Number></Council>
+        <Council><State>MO</State><City>St Louis</City><Name>Greater St Louis Area Council</Name><Number>312</Number></Council>
+        <Council><State>MS</State><City>Columbus</City><Name>Pushmataha Area Council</Name><Number>691</Number></Council>
+        <Council><State>MS</State><City>Hattiesburg</City><Name>Pine Burr Area Council</Name><Number>304</Number></Council>
+        <Council><State>MS</State><City>Jackson</City><Name>Andrew Jackson Council</Name><Number>303</Number></Council>
+        <Council><State>MS</State><City>Meridian</City><Name>Choctaw Area Council</Name><Number>302</Number></Council>
+        <Council><State>MS</State><City>Tupelo</City><Name>Yocona Area Council</Name><Number>748</Number></Council>
+        <Council><State>MT</State><City>?</City><Name>Great Falls Council</Name><Number>315</Number></Council>
+        <Council><State>NC</State><City>Greensboro</City><Name>Old North State Council</Name><Number>70</Number></Council>
+        <Council><State>NC</State><City>Asheville</City><Name>Daniel Boone Council</Name><Number>414</Number></Council>
+        <Council><State>NC</State><City>Charlotte</City><Name>Mecklenburg County Council</Name><Number>415</Number></Council>
+        <Council><State>NC</State><City>Albemarle</City><Name>Central North Carolina Council</Name><Number>416</Number></Council>
+        <Council><State>NC</State><City>?</City><Name>Piedmont Council</Name><Number>420</Number></Council>
+        <Council><State>NC</State><City>Raleigh</City><Name>Occoneechee Council</Name><Number>421</Number></Council>
+        <Council><State>NC</State><City>Goldsboro</City><Name>Tuscarora Council</Name><Number>424</Number></Council>
+        <Council><State>NC</State><City>Wilmington</City><Name>Cape Fear Council</Name><Number>425</Number></Council>
+        <Council><State>NC</State><City>Kinston</City><Name>East Carolina Council</Name><Number>426</Number></Council>
+        <Council><State>NC</State><City>Winston-Salem</City><Name>Old Hickory Council</Name><Number>427</Number></Council>
+        <Council><State>ND</State><City>Fargo</City><Name>Northern Lights Council</Name><Number>429</Number></Council>
+        <Council><State>NE</State><City>Grand Island</City><Name>Overland Trails Council</Name><Number>322</Number></Council>
+        <Council><State>NE</State><City>Lincoln</City><Name>Cornhusker Council</Name><Number>324</Number></Council>
+        <Council><State>NE</State><City>Omaha</City><Name>Mid-America Council</Name><Number>326</Number></Council>
+        <Council><State>NH</State><City>Manchester</City><Name>Daniel Webster Council</Name><Number>330</Number></Council>
+        <Council><State>NJ</State><City>Florham Park</City><Name>Patriots Path Council</Name><Number>358</Number></Council>
+        <Council><State>NJ</State><City>Millville</City><Name>Southern New Jersey Council</Name><Number>334</Number></Council>
+        <Council><State>NJ</State><City>Monmouth Junction</City><Name>Central New Jersey Council</Name><Number>352</Number></Council>
+        <Council><State>NJ</State><City>Mount Holly</City><Name>Burlington County Council</Name><Number>690</Number></Council>
+        <Council><State>NJ</State><City>Oakhurst</City><Name>Monmouth Council</Name><Number>347</Number></Council>
+        <Council><State>NJ</State><City>Oakland</City><Name>Northern New Jersey Council</Name><Number>333</Number></Council>
+        <Council><State>NJ</State><City>Toms River</City><Name>Jersey Shore Council</Name><Number>341</Number></Council>
+        <Council><State>NM</State><City>Albuquerque</City><Name>Great Southwest Council</Name><Number>412</Number></Council>
+        <Council><State>NM</State><City>Roswell</City><Name>Conquistador Council</Name><Number>413</Number></Council>
+        <Council><State>NV</State><City>Las Vegas</City><Name>Boulder Dam Area Council</Name><Number>328</Number></Council>
+        <Council><State>NV</State><City>Reno</City><Name>Nevada Area Council</Name><Number>329</Number></Council>
+        <Council><State>NY</State><City>Hawthorne</City><Name>Westchester-Putnam Council</Name><Number>388</Number></Council>
+        <Council><State>NY</State><City>Albany</City><Name>Twin Rivers Council</Name><Number>364</Number></Council>
+        <Council><State>NY</State><City>Auburn</City><Name>Cayuga County Council</Name><Number>366</Number></Council>
+        <Council><State>NY</State><City>Vestal</City><Name>Baden-Powell Council</Name><Number>368</Number></Council>
+        <Council><State>NY</State><City>Syracuse</City><Name>Hiawatha Seaway Council</Name><Number>373</Number></Council>
+        <Council><State>NY</State><City>Salisbury Mills</City><Name>Hudson Valley Council</Name><Number>374</Number></Council>
+        <Council><State>NY</State><City>Horseheads</City><Name>Five Rivers Council</Name><Number>375</Number></Council>
+        <Council><State>NY</State><City>Lockport</City><Name>Iroquois Trail Council</Name><Number>376</Number></Council>
+        <Council><State>NY</State><City>Buffalo</City><Name>Greater Niagara Frontier Council</Name><Number>380</Number></Council>
+        <Council><State>NY</State><City>Falconer</City><Name>Allegheny Highlands Council</Name><Number>382</Number></Council>
+        <Council><State>NY</State><City>Massapequa</City><Name>Theodore Roosevelt Council</Name><Number>386</Number></Council>
+        <Council><State>NY</State><City>Geneva</City><Name>Finger Lakes Council</Name><Number>391</Number></Council>
+        <Council><State>NY</State><City>Oneonta</City><Name>Otschodela Council</Name><Number>393</Number></Council>
+        <Council><State>NY</State><City>Plattsburgh</City><Name>Adirondack Council</Name><Number>394</Number></Council>
+        <Council><State>NY</State><City>Rochester</City><Name>Otetiana Council</Name><Number>397</Number></Council>
+        <Council><State>NY</State><City>Utica</City><Name>Revolutionary Trails Council</Name><Number>400</Number></Council>
+        <Council><State>NY</State><City>Medford</City><Name>Suffolk County Council</Name><Number>404</Number></Council>
+        <Council><State>NY</State><City>Kingston</City><Name>Rip Van Winkle Council</Name><Number>405</Number></Council>
+        <Council><State>NY</State><City>New York</City><Name>Greater New York Council</Name><Number>640</Number></Council>
+        <Council><State>OH</State><City>Akron</City><Name>Great Trail Council</Name><Number>433</Number></Council>
+        <Council><State>OH</State><City>Canton</City><Name>Buckeye Council</Name><Number>436</Number></Council>
+        <Council><State>OH</State><City>Cincinnati</City><Name>Dan Beard Council</Name><Number>438</Number></Council>
+        <Council><State>OH</State><City>Springfield</City><Name>Tecumseh Council</Name><Number>439</Number></Council>
+        <Council><State>OH</State><City>Cleveland</City><Name>Greater Cleveland Council</Name><Number>440</Number></Council>
+        <Council><State>OH</State><City>Columbus</City><Name>Simon Kenton Council</Name><Number>441</Number></Council>
+        <Council><State>OH</State><City>Dayton</City><Name>Miami Valley Council</Name><Number>444</Number></Council>
+        <Council><State>OH</State><City>Findlay</City><Name>Black Swamp Area Council</Name><Number>449</Number></Council>
+        <Council><State>OH</State><City>Ashland</City><Name>Heart of Ohio Council</Name><Number>450</Number></Council>
+        <Council><State>OH</State><City>Toledo</City><Name>Erie Shores Council</Name><Number>460</Number></Council>
+        <Council><State>OH</State><City>Warren</City><Name>Greater Western Reserve Council</Name><Number>463</Number></Council>
+        <Council><State>OH</State><City>Zanesville</City><Name>Muskingum Valley Council</Name><Number>467</Number></Council>
+        <Council><State>OK</State><City>Ardmore</City><Name>Arbuckle Area Council</Name><Number>468</Number></Council>
+        <Council><State>OK</State><City>Bartlesville</City><Name>Cherokee Area Council</Name><Number>469</Number></Council>
+        <Council><State>OK</State><City>Enid</City><Name>Cimarron Council</Name><Number>474</Number></Council>
+        <Council><State>OK</State><City>Oklahoma City</City><Name>Last Frontier Council</Name><Number>480</Number></Council>
+        <Council><State>OK</State><City>Tulsa</City><Name>Indian Nations Council</Name><Number>488</Number></Council>
+        <Council><State>OR</State><City>Central Point</City><Name>Crater Lake Council</Name><Number>491</Number></Council>
+        <Council><State>OR</State><City>Portland</City><Name>Cascade Pacific Council</Name><Number>492</Number></Council>
+        <Council><State>OR</State><City>Eugene</City><Name>Oregon Trail Council</Name><Number>697</Number></Council>
+        <Council><State>PA</State><City>Reedsville</City><Name>Juniata Valley Council</Name><Number>497</Number></Council>
+        <Council><State>PA</State><City>Butler</City><Name>Moraine Trails Council</Name><Number>500</Number></Council>
+        <Council><State>PA</State><City>Moosic</City><Name>Northeastern Pennsylvania Council</Name><Number>501</Number></Council>
+        <Council><State>PA</State><City>Allentown</City><Name>Minsi Trails Council</Name><Number>502</Number></Council>
+        <Council><State>PA</State><City>Bloomsburg</City><Name>Columbia-Montour Council</Name><Number>504</Number></Council>
+        <Council><State>PA</State><City>Johnstown</City><Name>Penn's Woods Council</Name><Number>508</Number></Council>
+        <Council><State>PA</State><City>Dubois</City><Name>Bucktail Council</Name><Number>509</Number></Council>
+        <Council><State>PA</State><City>Greensburg</City><Name>Westmoreland-Fayette Council</Name><Number>512</Number></Council>
+        <Council><State>PA</State><City>Mechanicsburg</City><Name>Keystone Area Council</Name><Number>515</Number></Council>
+        <Council><State>PA</State><City>Lancaster</City><Name>Pennsylvania Dutch Council</Name><Number>524</Number></Council>
+        <Council><State>PA</State><City>Philadelphia</City><Name>Cradle of Liberty Council</Name><Number>525</Number></Council>
+        <Council><State>PA</State><City>Pittsburgh</City><Name>Greater Pittsburgh Council</Name><Number>527</Number></Council>
+        <Council><State>PA</State><City>Reading</City><Name>Hawk Mountain Council</Name><Number>528</Number></Council>
+        <Council><State>PA</State><City>Erie</City><Name>French Creek Council</Name><Number>532</Number></Council>
+        <Council><State>PA</State><City>Williamsport</City><Name>Susquehanna Council</Name><Number>533</Number></Council>
+        <Council><State>PA</State><City>Warren</City><Name>Chief Cornplanter Council</Name><Number>538</Number></Council>
+        <Council><State>PA</State><City>West Chester</City><Name>Chester County Council</Name><Number>539</Number></Council>
+        <Council><State>PA</State><City>York</City><Name>York Adams Area Council</Name><Number>544</Number></Council>
+        <Council><State>PA</State><City>Doylestown</City><Name>Bucks County Council</Name><Number>777</Number></Council>
+        <Council><State>RI</State><City>Providence</City><Name>Narragansett Council</Name><Number>546</Number></Council>
+        <Council><State>SC</State><City>Spartanburg</City><Name>Palmetto Area Council</Name><Number>549</Number></Council>
+        <Council><State>SC</State><City>Charleston</City><Name>Coastal Carolina Council</Name><Number>550</Number></Council>
+        <Council><State>SC</State><City>Greenville</City><Name>Blue Ridge Council</Name><Number>551</Number></Council>
+        <Council><State>SC</State><City>Florence</City><Name>Pee Dee Area Council</Name><Number>552</Number></Council>
+        <Council><State>SC</State><City>Columbia</City><Name>Indian Waters Council</Name><Number>553</Number></Council>
+        <Council><State>SD</State><City>Rapid City</City><Name>Black Hills Area Council</Name><Number>695</Number></Council>
+        <Council><State>SD</State><City>Sioux Falls</City><Name>Sioux Council</Name><Number>733</Number></Council>
+        <Council><State>TN</State><City>Chattanooga</City><Name>Cherokee Area Council</Name><Number>556</Number></Council>
+        <Council><State>TN</State><City>Knoxville</City><Name>Great Smokey Mountain Council</Name><Number>557</Number></Council>
+        <Council><State>TN</State><City>Memphis</City><Name>Chickasaw Council</Name><Number>558</Number></Council>
+        <Council><State>TN</State><City>Jackson</City><Name>West Tennessee Area Council</Name><Number>559</Number></Council>
+        <Council><State>TN</State><City>Nashville</City><Name>Middle Tennessee Council</Name><Number>560</Number></Council>
+        <Council><State>TN</State><City>Johnson City</City><Name>Sequoyah Council</Name><Number>713</Number></Council>
+        <Council><State>TX</State><City>Abilene</City><Name>Texas Trails Council</Name><Number>561</Number></Council>
+        <Council><State>TX</State><City>Amarillo</City><Name>Golden Sread Council</Name><Number>562</Number></Council>
+        <Council><State>TX</State><City>Austin</City><Name>Capitol Area Council</Name><Number>564</Number></Council>
+        <Council><State>TX</State><City>Midland</City><Name>Buffalo Trail Council</Name><Number>567</Number></Council>
+        <Council><State>TX</State><City>Dallas</City><Name>Circle Ten Council</Name><Number>571</Number></Council>
+        <Council><State>TX</State><City>El Paso</City><Name>Yucca Council</Name><Number>573</Number></Council>
+        <Council><State>TX</State><City>Galveston</City><Name>Bay Area Council</Name><Number>574</Number></Council>
+        <Council><State>TX</State><City>Houston</City><Name>Sam Houston Area Council</Name><Number>576</Number></Council>
+        <Council><State>TX</State><City>Corpus Christi</City><Name>South Texas Council</Name><Number>577</Number></Council>
+        <Council><State>TX</State><City>Beaumont</City><Name>Three Rivers Council</Name><Number>578</Number></Council>
+        <Council><State>TX</State><City>Paris</City><Name>NeTseO Trails Council</Name><Number>580</Number></Council>
+        <Council><State>TX</State><City>San Antonio</City><Name>Alamo Area Council</Name><Number>583</Number></Council>
+        <Council><State>TX</State><City>Texarkana</City><Name>Caddo Area Council</Name><Number>584</Number></Council>
+        <Council><State>TX</State><City>Tyler</City><Name>East Texas Area Council</Name><Number>585</Number></Council>
+        <Council><State>TX</State><City>Wichita Falls</City><Name>Northwest Texas Council</Name><Number>587</Number></Council>
+        <Council><State>TX</State><City>Fort Worth</City><Name>Longhorn Council</Name><Number>662</Number></Council>
+        <Council><State>TX</State><City>Lubbock</City><Name>South Plains Council</Name><Number>694</Number></Council>
+        <Council><State>TX</State><City>San Angelo</City><Name>Concho Valley Council</Name><Number>741</Number></Council>
+        <Council><State>TX</State><City>Harlingen</City><Name>Rio Grande Council</Name><Number>775</Number></Council>
+        <Council><State>TX</State><City>Irving</City><Name>Direct Service Council</Name><Number>800</Number></Council>
+        <Council><State>UT</State><City>Ogden</City><Name>Trapper Trails Council</Name><Number>589</Number></Council>
+        <Council><State>UT</State><City>Salt Lake City</City><Name>Great Salt Lake Council</Name><Number>590</Number></Council>
+        <Council><State>UT</State><City>Provo</City><Name>Utah National Parks Council</Name><Number>591</Number></Council>
+        <Council><State>VA</State><City>Newport News</City><Name>Colonial Virginia Council</Name><Number>595</Number></Council>
+        <Council><State>VA</State><City>Virginia Beach</City><Name>Tidewater Council</Name><Number>596</Number></Council>
+        <Council><State>VA</State><City>Winchester</City><Name>Shenandoah Area Council</Name><Number>598</Number></Council>
+        <Council><State>VA</State><City>Roanoke</City><Name>Blue Ridge Mountains Council</Name><Number>599</Number></Council>
+        <Council><State>VA</State><City>Richmond</City><Name>Heart of Virginia Council</Name><Number>602</Number></Council>
+        <Council><State>VA</State><City>Waynesboro</City><Name>Stonewall Jackson Area Council</Name><Number>763</Number></Council>
+        <Council><State>VT</State><City>Waterbury</City><Name>Green Mountain Council</Name><Number>592</Number></Council>
+        <Council><State>WA</State><City>Kennewick</City><Name>Blue Mountain Council</Name><Number>604</Number></Council>
+        <Council><State>WA</State><City>Everett</City><Name>Mt. Baker Council</Name><Number>606</Number></Council>
+        <Council><State>WA</State><City>Seattle</City><Name>Chief Seattle Council</Name><Number>609</Number></Council>
+        <Council><State>WA</State><City>Spokane</City><Name>Inland Northwest Council</Name><Number>611</Number></Council>
+        <Council><State>WA</State><City>Tacoma</City><Name>Pacific Harbors Council</Name><Number>612</Number></Council>
+        <Council><State>WA</State><City>Yakima</City><Name>Grand Columbia Council</Name><Number>614</Number></Council>
+        <Council><State>WI</State><City>Eau Claire</City><Name>Chippewa Valley Council</Name><Number>637</Number></Council>
+        <Council><State>WI</State><City>Janesville</City><Name>Sinnissippi Council</Name><Number>626</Number></Council>
+        <Council><State>WI</State><City>La Crosse</City><Name>Gateway Area Council</Name><Number>624</Number></Council>
+        <Council><State>WI</State><City>Madison</City><Name>Four Lakes Council</Name><Number>628</Number></Council>
+        <Council><State>WI</State><City>Menasha</City><Name>Bay Lakes Council</Name><Number>635</Number></Council>
+        <Council><State>WI</State><City>Milwaukee</City><Name>Milwaukee County Council</Name><Number>629</Number></Council>
+        <Council><State>WI</State><City>Racine</City><Name>Southeast Wisconsin Council</Name><Number>634</Number></Council>
+        <Council><State>WI</State><City>Waukesha</City><Name>Potawatomi Area Council</Name><Number>651</Number></Council>
+        <Council><State>WI</State><City>Wausau</City><Name>Samoset Council</Name><Number>627</Number></Council>
+        <Council><State>WV</State><City>Charleston</City><Name>Buckskin Council</Name><Number>617</Number></Council>
+        <Council><State>WV</State><City>Fairmont</City><Name>Mountaineer Area Council</Name><Number>615</Number></Council>
+        <Council><State>WV</State><City>Hunting</City><Name>Tri-State Area Council</Name><Number>672</Number></Council>
+        <Council><State>WV</State><City>Parkersburg</City><Name>Allohak Council</Name><Number>618</Number></Council>
+        <Council><State>WV</State><City>Wheeling</City><Name>Ohio River Valley Council</Name><Number>619</Number></Council>
+        <Council><State>WY</State><City>Casper</City><Name>Central Wyoming Council</Name><Number>638</Number></Council>    
+    </CouncilList>
+</root>

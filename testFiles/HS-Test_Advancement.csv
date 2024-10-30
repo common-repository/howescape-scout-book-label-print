@@ -1,0 +1,217 @@
+BSA Member ID,First Name,Middle Name,Last Name,Advancement Type,Advancement,Version,Date Completed,Approved,Awarded,MarkedCompletedBy,MarkedCompletedDate,LeaderApprovedBy,LeaderApprovedDate,AwardedBy,AwardedDate
+123456789,John,Middle,Smith,Rank,Bobcat,2015,10/17/2011,1,1,,,BSA Administrator,,,
+123456789,John,Middle,Smith,Rank,Tiger,2015,5/24/2012,1,1,,,BSA Administrator,,,
+123456789,John,Middle,Smith,Rank,Wolf,2015,3/26/2013,1,1,,,BSA Administrator,,,
+123456789,John,Middle,Smith,Rank,Bear,2016,4/1/2014,1,1,,,BSA Administrator,,,
+123456789,John,Middle,Smith,Rank,Webelos,2016,4/1/2015,1,1,BSA Administrator,4/26/2019,BSA Administrator,4/26/2019,,5/17/2019
+123456789,John,Middle,Smith,Rank,Arrow of Light,2016,4/23/2016,1,1,BSA Administrator,4/25/2019,BSA Administrator,4/25/2019,,5/17/2019
+123456789,John,Middle,Smith,Rank,Scout,2016,7/8/2017,1,1,David Mengel,7/14/2018,David Mengel,7/14/2018,David Mengel,11/18/2018
+123456789,John,Middle,Smith,Rank,Tenderfoot,2016,8/13/2017,1,1,David Mengel,7/14/2018,David Mengel,7/14/2018,David Mengel,11/18/2018
+123456789,John,Middle,Smith,Rank,Second Class,2016,7/13/2018,1,1,David Mengel,7/14/2018,David Mengel,7/14/2018,David Mengel,11/18/2018
+123456789,John,Middle,Smith,Rank,First Class,2016,1/5/2019,1,1,David Mengel,1/6/2019,David Mengel,1/6/2019,David Mengel,4/16/2019
+123456789,John,Middle,Smith,Rank,Star Scout,2016,10/15/2019,1,1,David Mengel,10/15/2019,David Mengel,10/15/2019,David Mengel,11/9/2019
+123456789,John,Middle,Smith,Rank,Life Scout,2016,7/13/2018,1,1,David Mengel,7/14/2018,David Mengel,7/14/2018,David Mengel,11/18/2018
+123456789,John,Middle,Smith,Merit Badge,American Heritage,2014,4/10/2020,1,0,Christopher Mulhall,4/10/2020,David Mengel,4/10/2020,,
+123456789,John,Middle,Smith,Merit Badge,Animation,2015,3/23/2019,1,1,David Mengel,4/16/2019,David Mengel,4/16/2019,David Mengel,7/13/2019
+123456789,John,Middle,Smith,Merit Badge,Archery,2016,7/13/2018,1,1,David Mengel,7/14/2018,David Mengel,7/14/2018,David Mengel,11/18/2018
+123456789,John,Middle,Smith,Merit Badge,Art,2014,7/13/2018,1,1,David Mengel,7/14/2018,David Mengel,7/14/2018,David Mengel,11/18/2018
+123456789,John,Middle,Smith,Merit Badge,Athletics,2018,7/12/2019,1,1,David Mengel,7/13/2019,David Mengel,7/13/2019,David Mengel,11/9/2019
+123456789,John,Middle,Smith,Merit Badge,Aviation,2014,1/22/2019,1,1,John Rorke,2/6/2019,John Rorke,2/6/2019,David Mengel,3/18/2019
+123456789,John,Middle,Smith,Merit Badge,Architecture,2015,4/7/2018,1,1,,,David Mengel,,David Mengel,11/18/2018
+123456789,John,Middle,Smith,Merit Badge,Astronomy,2013,7/13/2018,1,1,David Mengel,7/14/2018,David Mengel,7/14/2018,David Mengel,11/18/2018
+123456789,John,Middle,Smith,Merit Badge,Archaeology,2018,7/12/2019,1,1,David Mengel,7/13/2019,David Mengel,7/13/2019,David Mengel,11/12/2019
+123456789,John,Middle,Smith,Merit Badge,Basketry,2015,7/12/2019,1,1,David Mengel,7/13/2019,David Mengel,7/13/2019,David Mengel,11/9/2019
+123456789,John,Middle,Smith,Merit Badge,Bird Study,2013,3/18/2017,1,1,,,David Mengel,,,
+123456789,John,Middle,Smith,Merit Badge,Backpacking,2015,7/1/2016,1,1,,,Kristin Williamson,,,
+123456789,John,Middle,Smith,Merit Badge,Camping,2018,7/12/2019,1,1,David Mengel,7/13/2019,David Mengel,7/13/2019,David Mengel,11/9/2019
+123456789,John,Middle,Smith,Merit Badge,Canoeing,2018,7/12/2019,1,1,David Mengel,7/13/2019,David Mengel,7/13/2019,David Mengel,11/9/2019
+123456789,John,Middle,Smith,Merit Badge,Chemistry,2018,7/13/2018,1,1,David Mengel,7/14/2018,David Mengel,7/14/2018,David Mengel,11/18/2018
+123456789,John,Middle,Smith,Merit Badge,Chess,2013,7/16/2016,1,1,,,David Mengel,,,
+123456789,John,Middle,Smith,Merit Badge,Citizenship in the Community,2016,3/23/2019,1,1,David Mengel,8/7/2019,David Mengel,8/7/2019,David Mengel,11/9/2019
+123456789,John,Middle,Smith,Merit Badge,Citizenship in the Nation,2005,7/12/2019,1,1,David Mengel,7/13/2019,David Mengel,7/13/2019,David Mengel,11/9/2019
+123456789,John,Middle,Smith,Merit Badge,Citizenship in the World,2016,1/22/2019,1,1,Mark Bainbridge,1/23/2019,David Mengel,1/24/2019,David Mengel,3/18/2019
+123456789,John,Middle,Smith,Merit Badge,Cooking,2016,7/13/2018,1,1,David Mengel,7/14/2018,David Mengel,7/14/2018,David Mengel,11/18/2018
+123456789,John,Middle,Smith,Merit Badge,Communication,2014,1/15/2019,1,1,Douglas Brown,1/15/2019,David Mengel,1/16/2019,David Mengel,3/18/2019
+123456789,John,Middle,Smith,Merit Badge,Climbing,2017,7/13/2018,1,1,David Mengel,7/14/2018,David Mengel,7/14/2018,David Mengel,11/18/2018
+123456789,John,Middle,Smith,Merit Badge,Coin Collecting,2012,5/29/2018,1,1,,,David Mengel,,David Mengel,11/18/2018
+123456789,John,Middle,Smith,Merit Badge,Collections,2009,5/21/2018,1,1,,,David Mengel,,David Mengel,6/13/2018
+123456789,John,Middle,Smith,Merit Badge,Communication,2014,2/24/2020,1,0,David Mengel,2/24/2020,David Mengel,2/24/2020,,
+123456789,John,Middle,Smith,Merit Badge,Composite Materials,2014,7/16/2016,1,1,,,David Mengel,,,
+123456789,John,Middle,Smith,Merit Badge,Dentistry,2010,1/24/2017,1,1,,,David Mengel,,,
+123456789,John,Middle,Smith,Merit Badge,Digital Technology,2014,3/23/2019,1,1,David Mengel,8/6/2019,David Mengel,8/6/2019,David Mengel,11/9/2019
+123456789,John,Middle,Smith,Merit Badge,Disabilities Awareness,2017,2/25/2017,1,1,,,BSA Administrator,,David Mengel,4/16/2019
+123456789,John,Middle,Smith,Merit Badge,Dog Care,2017,3/8/2017,1,1,,,BSA Administrator,,David Mengel,4/16/2019
+123456789,John,Middle,Smith,Merit Badge,Electricity,2014,7/13/2018,1,1,David Mengel,7/14/2018,David Mengel,7/14/2018,David Mengel,11/18/2018
+123456789,John,Middle,Smith,Merit Badge,Electronics,2005,7/10/2015,1,1,,,David Mengel,,,
+123456789,John,Middle,Smith,Merit Badge,Emergency Preparedness,2018,7/12/2019,1,1,David Mengel,7/13/2019,David Mengel,7/13/2019,David Mengel,11/9/2019
+123456789,John,Middle,Smith,Merit Badge,Engineering,2009,6/30/2017,1,1,,,David Mengel,,,
+123456789,John,Middle,Smith,Merit Badge,Environmental Science,2016,7/13/2018,1,1,David Mengel,7/14/2018,David Mengel,7/14/2018,David Mengel,11/18/2018
+123456789,John,Middle,Smith,Merit Badge,Family Life,2019,2/24/2020,1,0,David Mengel,2/24/2020,David Mengel,2/24/2020,,
+123456789,John,Middle,Smith,Merit Badge,Fingerprinting,2004,7/13/2018,1,1,David Mengel,7/14/2018,David Mengel,7/14/2018,David Mengel,11/18/2018
+123456789,John,Middle,Smith,Merit Badge,Fire Safety,2017,1/22/2019,1,1,Michael Schneider,2/13/2019,David Mengel,2/13/2019,David Mengel,3/18/2019
+123456789,John,Middle,Smith,Merit Badge,First Aid,2018,7/13/2018,1,1,David Mengel,7/14/2018,David Mengel,7/14/2018,David Mengel,11/18/2018
+123456789,John,Middle,Smith,Merit Badge,Fishing,2017,7/12/2019,1,1,David Mengel,7/13/2019,David Mengel,7/13/2019,David Mengel,11/9/2019
+123456789,John,Middle,Smith,Merit Badge,Fly Fishing,2019,7/12/2019,1,1,David Mengel,7/14/2019,David Mengel,7/14/2019,David Mengel,11/9/2019
+123456789,John,Middle,Smith,Merit Badge,Fish and Wildlife Management,2015,7/12/2019,1,1,David Mengel,7/13/2019,David Mengel,7/13/2019,David Mengel,11/12/2019
+123456789,John,Middle,Smith,Merit Badge,Game Design,2013,7/12/2019,1,1,David Mengel,7/13/2019,David Mengel,7/13/2019,David Mengel,11/12/2019
+123456789,John,Middle,Smith,Merit Badge,Geocaching,2019,7/12/2019,1,1,David Mengel,7/13/2019,David Mengel,7/13/2019,David Mengel,11/9/2019
+123456789,John,Middle,Smith,Merit Badge,Geology,2010,7/13/2018,1,1,David Mengel,7/14/2018,David Mengel,7/14/2018,David Mengel,11/18/2018
+123456789,John,Middle,Smith,Merit Badge,Graphic Arts,2012,2/22/2018,1,1,,,David Mengel,,David Mengel,7/15/2018
+123456789,John,Middle,Smith,Merit Badge,Horsemanship,2014,7/28/2016,1,1,,,David Mengel,,,
+123456789,John,Middle,Smith,Merit Badge,Indian Lore,2017,7/12/2019,1,1,David Mengel,7/13/2019,David Mengel,7/13/2019,David Mengel,11/9/2019
+123456789,John,Middle,Smith,Merit Badge,Kayaking,2012,7/13/2018,1,1,David Mengel,7/14/2018,David Mengel,7/14/2018,David Mengel,11/18/2018
+123456789,John,Middle,Smith,Merit Badge,Leatherwork,2017,7/13/2018,1,1,David Mengel,7/14/2018,David Mengel,7/14/2018,David Mengel,11/18/2018
+123456789,John,Middle,Smith,Merit Badge,Lifesaving,2016,7/13/2018,1,1,David Mengel,7/14/2018,David Mengel,7/14/2018,David Mengel,11/18/2018
+123456789,John,Middle,Smith,Merit Badge,Mammal Study,2015,6/28/2013,1,1,,,David Mengel,,,
+123456789,John,Middle,Smith,Merit Badge,Medicine,2018,7/13/2018,1,1,David Mengel,7/14/2018,David Mengel,7/14/2018,David Mengel,11/18/2018
+123456789,John,Middle,Smith,Merit Badge,Metalwork,2008,7/13/2018,1,1,David Mengel,7/14/2018,David Mengel,7/14/2018,David Mengel,11/18/2018
+123456789,John,Middle,Smith,Merit Badge,Music,2017,2/20/2018,1,1,,,David Mengel,,David Mengel,6/13/2018
+123456789,John,Middle,Smith,Merit Badge,Motorboating,2012,6/30/2017,1,1,,,David Mengel,,,
+123456789,John,Middle,Smith,Merit Badge,Moviemaking,2014,6/30/2017,1,1,,,David Mengel,,,
+123456789,John,Middle,Smith,Merit Badge,Music,2017,2/24/2018,1,1,,,David Mengel,,David Mengel,6/13/2018
+123456789,John,Middle,Smith,Merit Badge,Nature,2014,6/28/2013,1,1,,,David Mengel,,,
+123456789,John,Middle,Smith,Merit Badge,Nuclear Science,2017,3/30/2019,1,1,David Mengel,3/30/2019,David Mengel,3/30/2019,David Mengel,7/13/2019
+123456789,John,Middle,Smith,Merit Badge,Oceanography,2013,9/18/2019,1,1,David Mengel,9/18/2019,David Mengel,9/18/2019,David Mengel,11/9/2019
+123456789,John,Middle,Smith,Merit Badge,Orienteering,2013,7/12/2019,1,1,David Mengel,7/13/2019,David Mengel,7/13/2019,David Mengel,11/9/2019
+123456789,John,Middle,Smith,Merit Badge,Plumbing,2005,3/7/2015,1,1,,,David Mengel,,,
+123456789,John,Middle,Smith,Merit Badge,Personal Fitness,2015,1/8/2019,1,1,Mark Bainbridge,1/8/2019,Mark Bainbridge,1/8/2019,David Mengel,3/18/2019
+123456789,John,Middle,Smith,Merit Badge,Personal Management,2016,6/11/2019,1,1,David Mengel,6/11/2019,David Mengel,6/11/2019,David Mengel,7/13/2019
+123456789,John,Middle,Smith,Merit Badge,Photography,2016,2/24/2018,1,1,,,David Mengel,,David Mengel,6/13/2018
+123456789,John,Middle,Smith,Merit Badge,Pioneering,2017,7/13/2018,1,1,David Mengel,7/14/2018,David Mengel,7/14/2018,David Mengel,11/18/2018
+123456789,John,Middle,Smith,Merit Badge,Pottery,2009,7/12/2019,1,1,David Mengel,7/13/2019,David Mengel,7/13/2019,David Mengel,11/9/2019
+123456789,John,Middle,Smith,Merit Badge,Programming,2013,3/30/2019,1,1,David Mengel,4/16/2019,David Mengel,4/16/2019,David Mengel,7/13/2019
+123456789,John,Middle,Smith,Merit Badge,Public Health,2018,4/4/2019,1,1,David Mengel,9/21/2019,David Mengel,9/21/2019,David Mengel,11/9/2019
+123456789,John,Middle,Smith,Merit Badge,Pulp and Paper,2014,7/21/2016,1,1,,,BSA Administrator,,David Mengel,4/16/2019
+123456789,John,Middle,Smith,Merit Badge,Railroading,2016,2/11/2017,1,1,,,David Mengel,,,
+123456789,John,Middle,Smith,Merit Badge,Reading,2004,1/27/2018,1,1,,,David Mengel,,David Mengel,6/13/2018
+123456789,John,Middle,Smith,Merit Badge,Reptile and Amphibian Study,2006,7/11/2014,1,1,,,David Mengel,,,
+123456789,John,Middle,Smith,Merit Badge,Rifle Shooting,2017,7/13/2018,1,1,David Mengel,7/14/2018,David Mengel,7/14/2018,David Mengel,11/18/2018
+123456789,John,Middle,Smith,Merit Badge,Robotics,2011,2/18/2019,1,1,Brian Fennell,2/18/2019,David Mengel,2/19/2019,David Mengel,3/18/2019
+123456789,John,Middle,Smith,Merit Badge,Rowing,2014,7/13/2018,1,1,David Mengel,7/14/2018,David Mengel,7/14/2018,David Mengel,11/18/2018
+123456789,John,Middle,Smith,Merit Badge,Safety,2014,2/9/2019,1,1,David Mengel,3/13/2019,David Mengel,3/13/2019,David Mengel,7/13/2019
+123456789,John,Middle,Smith,Merit Badge,Scholarship,2005,2/24/2018,1,1,,,David Mengel,,David Mengel,6/13/2018
+123456789,John,Middle,Smith,Merit Badge,Scouting Heritage,2014,2/24/2018,1,1,,,BSA Administrator,,David Mengel,4/16/2019
+123456789,John,Middle,Smith,Merit Badge,Sculpture,2008,7/13/2018,1,1,David Mengel,7/14/2018,David Mengel,7/14/2018,David Mengel,11/18/2018
+123456789,John,Middle,Smith,Merit Badge,Search and Rescue,2014,7/12/2019,1,1,David Mengel,7/13/2019,David Mengel,7/13/2019,David Mengel,11/12/2019
+123456789,John,Middle,Smith,Merit Badge,Shotgun Shooting,2014,7/16/2016,1,1,,,David Mengel,,,
+123456789,John,Middle,Smith,Merit Badge,"Signs, Signals, and Codes",2015,7/16/2016,1,1,,,David Mengel,,,
+123456789,John,Middle,Smith,Merit Badge,Snow Sports,2016,2/20/2016,1,1,,,David Mengel,,,
+123456789,John,Middle,Smith,Merit Badge,Space Exploration,2014,8/28/2018,1,1,David Mengel,8/28/2018,David Mengel,8/28/2018,David Mengel,11/18/2018
+123456789,John,Middle,Smith,Merit Badge,Sustainability,2015,3/3/2018,1,1,,,David Mengel,,David Mengel,6/13/2018
+123456789,John,Middle,Smith,Merit Badge,Small-Boat Sailing,2017,7/13/2018,1,1,David Mengel,7/14/2018,David Mengel,7/14/2018,David Mengel,11/18/2018
+123456789,John,Middle,Smith,Merit Badge,Sports,2017,7/12/2019,1,1,David Mengel,7/13/2019,David Mengel,7/13/2019,David Mengel,11/9/2019
+123456789,John,Middle,Smith,Merit Badge,Swimming,2014,7/13/2018,1,1,David Mengel,7/14/2018,David Mengel,7/14/2018,David Mengel,11/18/2018
+123456789,John,Middle,Smith,Merit Badge,Truck Transportation,2006,2/24/2018,1,1,,,David Mengel,,David Mengel,6/13/2018
+123456789,John,Middle,Smith,Merit Badge,Weather,2018,7/12/2019,1,1,David Mengel,7/13/2019,David Mengel,7/13/2019,David Mengel,11/9/2019
+123456789,John,Middle,Smith,Merit Badge,Welding,2012,7/12/2019,1,1,David Mengel,7/13/2019,David Mengel,7/13/2019,David Mengel,11/9/2019
+123456789,John,Middle,Smith,Merit Badge,Wilderness Survival,2013,7/12/2019,1,1,David Mengel,7/13/2019,David Mengel,7/13/2019,David Mengel,11/9/2019
+123456789,John,Middle,Smith,Merit Badge,Wood Carving,2015,7/12/2019,1,1,David Mengel,7/13/2019,David Mengel,7/13/2019,David Mengel,11/9/2019
+123456789,John,Middle,Smith,Merit Badge,Whitewater,2015,8/26/2016,1,1,,,Kristin Williamson,,,
+123456789,John,Middle,Smith,Award,Cyber Chip Award (Grades 1-3),,4/18/2014,1,1,,,BSA Administrator,,,
+123456789,John,Middle,Smith,Award,Cyber Chip Award (Grades 4-5),,1/29/2015,1,1,,,Jennifer Eversmeyer,,,
+123456789,John,Middle,Smith,Award,Cyber Chip Award (Grades 6-8),,5/7/2019,1,1,David Mengel,5/7/2019,David Mengel,5/7/2019,David Mengel,5/8/2019
+123456789,John,Middle,Smith,Award,Cyber Chip Award (Grades 9-12),,5/7/2019,1,1,David Mengel,5/7/2019,David Mengel,5/7/2019,David Mengel,5/8/2019
+123456789,John,Middle,Smith,Award,Shooting Sports Award - Webelos,,6/14/2016,1,1,,,BSA Administrator,,,
+123456789,John,Middle,Smith,Award,Shooting Sports Pin - Webelos Archery,,11/14/2015,1,1,BSA Administrator,1/23/2019,BSA Administrator,,,
+123456789,John,Middle,Smith,Award,Shooting Sports Pin - Webelos BB Gun,,11/14/2015,1,1,BSA Administrator,1/23/2019,BSA Administrator,,,
+123456789,John,Middle,Smith,Award,Shooting Sports Pin - Bear Archery,,3/25/2014,1,1,,,BSA Administrator,,,
+123456789,John,Middle,Smith,Award,Shooting Sports Pin - Bear BB Gun,,3/25/2014,1,1,,,BSA Administrator,,,
+123456789,John,Middle,Smith,Award,Shooting Sports Pin - Bear Slingshot,,3/25/2014,1,1,,,BSA Administrator,,,
+123456789,John,Middle,Smith,Award,Shooting Sports Award - Cub Scout,,1/17/2016,1,1,BSA Administrator,7/17/2019,BSA Administrator,7/17/2019,BSA Administrator,7/17/2019
+123456789,John,Middle,Smith,Award,Whittling Chip,,2/22/2016,1,1,,,BSA Administrator,,,
+123456789,John,Middle,Smith,Award,Cub Scout Outdoor Activity Award v2010 (Wolf),,11/30/2013,1,1,,,BSA Administrator,,,
+123456789,John,Middle,Smith,Award,Cub Scout Outdoor Activity Award v2010 (Bear),,6/3/2011,1,1,,,BSA Administrator,,,
+123456789,John,Middle,Smith,Award,Cub Scout Outdoor Activity Award v2015 (Bear),,6/3/2011,1,1,,,BSA Administrator,,,
+123456789,John,Middle,Smith,Award,Cub Scouting's Leave No Trace Awareness Award (Retired 12/31/2020),,6/3/2011,1,1,,,BSA Administrator,,,
+123456789,John,Middle,Smith,Award,Silver Arrow Point (Bear),,4/1/2014,1,1,,,BSA Administrator,,,
+123456789,John,Middle,Smith,Award,Gold Arrow Point (Bear),,4/1/2014,1,1,,,BSA Administrator,,,
+123456789,John,Middle,Smith,Award,Gold Arrow Point (Wolf),,3/26/2013,1,1,,,BSA Administrator,,,
+123456789,John,Middle,Smith,Award,Silver Arrow Point (Wolf),,3/26/2013,1,1,,,BSA Administrator,,,
+123456789,John,Middle,Smith,Award,Historic Trails Award,,7/11/2015,1,1,,,BSA Administrator,,,
+123456789,John,Middle,Smith,Award,Stand Up Paddleboarding,,7/13/2018,1,1,David Mengel,7/14/2018,David Mengel,7/14/2018,David Mengel,11/18/2018
+123456789,John,Middle,Smith,Award,50-Miler Award,,7/1/2016,1,1,,,Kristin Williamson,,,
+123456789,John,Middle,Smith,Award,Den Chief Service Award,,3/30/2018,1,1,Andrew Matlack,2/18/2019,David Mengel,2/19/2019,David Mengel,2/20/2019
+123456789,John,Middle,Smith,Award,Firem'n Chit,,12/7/2017,1,1,,,Kristin Williamson,,,
+123456789,John,Middle,Smith,Award,National Outdoor Achievement Award (Aquatics),,8/26/2018,1,1,Andrew Matlack,2/19/2019,David Mengel,2/20/2019,David Mengel,11/12/2019
+123456789,John,Middle,Smith,Award,National Outdoor Achievement Award (Camping),,7/15/2018,1,1,Andrew Matlack,2/18/2019,David Mengel,2/19/2019,David Mengel,11/12/2019
+123456789,John,Middle,Smith,Award,National Outdoor Achievement Award (Hiking),,8/26/2018,1,1,Andrew Matlack,2/19/2019,David Mengel,2/20/2019,David Mengel,11/12/2019
+123456789,John,Middle,Smith,Award,National Outdoor Achievement Award (Adventure),,7/15/2018,1,1,Andrew Matlack,2/18/2019,David Mengel,2/19/2019,David Mengel,11/12/2019
+123456789,John,Middle,Smith,Award,National Outdoor Achievement Award (Riding),,7/15/2018,1,1,Andrew Matlack,2/18/2019,David Mengel,2/19/2019,David Mengel,11/12/2019
+123456789,John,Middle,Smith,Award,National Outdoor Awards Conservation Segment,,7/15/2018,1,1,Andrew Matlack,2/18/2019,David Mengel,2/19/2019,David Mengel,11/12/2019
+123456789,John,Middle,Smith,Award,Paul Bunyan Woodsman,,10/15/2018,1,1,Andrew Matlack,2/18/2019,David Mengel,2/19/2019,David Mengel,11/12/2019
+123456789,John,Middle,Smith,Award,Totin' Chip,,8/7/2015,1,1,,,Kristin Williamson,,,
+123456789,John,Middle,Smith,Award,Kayaking BSA,,6/30/2017,1,1,,,Douglas Brown,,David Mengel,6/13/2018
+123456789,John,Middle,Smith,Award,Religious emblem - Youth,,4/21/2014,1,1,,,David Mengel,,,
+123456789,John,Middle,Smith,Award,Religious Square Knot (LDS Scouts BSA),,3/6/2019,1,1,Douglas Brown,3/11/2019,David Mengel,3/11/2019,David Mengel,7/13/2019
+123456789,John,Middle,Smith,Award,Messengers of Peace,,7/14/2019,1,1,Ayush Karkare,7/14/2019,David Mengel,7/15/2019,David Mengel,7/15/2019
+123456789,John,Middle,Smith,Award,Recruiter Strip,,7/14/2019,1,1,Ayush Karkare,7/14/2019,David Mengel,7/15/2019,David Mengel,7/15/2019
+123456789,John,Middle,Smith,Adventure,Bear Necessities,2016,4/20/2016,1,1,,,BSA Administrator,,,
+123456789,John,Middle,Smith,Adventure,Fellowship and Duty to God,2016,4/20/2016,1,1,,,BSA Administrator,,,
+123456789,John,Middle,Smith,Adventure,"Fur, Feathers, and Ferns",2016,4/20/2016,1,1,,,BSA Administrator,,,
+123456789,John,Middle,Smith,Adventure,Cast Iron Chef,2016,4/18/2017,1,1,,,BSA Administrator,,,
+123456789,John,Middle,Smith,Adventure,Duty to God and You,2016,3/7/2017,1,1,,,BSA Administrator,,,
+123456789,John,Middle,Smith,Adventure,Webelos Walkabout,2016,4/18/2017,1,1,,,BSA Administrator,,,
+123456789,John,Middle,Smith,Adventure,Building a Better World,2016,2/23/2018,1,1,,,BSA Administrator,,,5/17/2019
+123456789,John,Middle,Smith,Adventure,Outdoor Adventurer,2016,12/18/2017,1,1,,,BSA Administrator,,,5/17/2019
+123456789,John,Middle,Smith,Adventure,Duty to God in Action,2016,1/26/2018,1,1,,,BSA Administrator,,,5/17/2019
+123456789,John,Middle,Smith,Adventure,Scouting Adventure,2016,1/23/2017,1,1,,,BSA Administrator,,,
+123456789,John,Middle,Smith,Adventure,Bear Claws,2016,2/8/2016,1,1,,,BSA Administrator,,,
+123456789,John,Middle,Smith,Adventure,Paws for Action (Duty to Country),2016,4/10/2016,1,1,,,BSA Administrator,,,
+123456789,John,Middle,Smith,Adventure,Grin and Bear It,2016,12/14/2015,1,1,,,BSA Administrator,,,
+123456789,John,Middle,Smith,Adventure,First Responder,2016,4/25/2017,1,1,,,BSA Administrator,,,
+123456789,John,Middle,Smith,Adventure,"Stronger, Faster, Higher",2016,11/21/2016,1,1,,,BSA Administrator,,,
+123456789,John,Middle,Smith,Adventure,Council Fire,2016,4/20/2016,1,1,,,BSA Administrator,,,
+123456789,John,Middle,Smith,Adventure,Howling at the Moon,2016,4/20/2016,1,1,,,BSA Administrator,,,
+123456789,John,Middle,Smith,Adventure,Running With the Pack,2016,4/20/2016,1,1,,,BSA Administrator,,,
+123456789,John,Middle,Smith,Adventure,My Family’s Duty to God,2016,2/25/2016,1,1,,,BSA Administrator,,,
+123456789,John,Middle,Smith,Adventure,Tiger Bites,2016,2/25/2016,1,1,,,BSA Administrator,,,
+123456789,John,Middle,Smith,Adventure,Call of the Wild,2016,11/20/2016,1,1,,,BSA Administrator,,,
+123456789,John,Middle,Smith,Adventure,Howling at the Moon,2016,4/7/2017,1,1,,,BSA Administrator,,,
+123456789,John,Middle,Smith,Academics & Sports Belt Loop,Collecting,2010,3/30/2011,1,1,,,,,,
+123456789,John,Middle,Smith,Academics & Sports Belt Loop,Heritages,2010,3/30/2011,1,1,,,,,,
+123456789,John,Middle,Smith,Academics & Sports Belt Loop,Music,2010,3/30/2011,1,1,,,,,,
+123456789,John,Middle,Smith,Academics & Sports Belt Loop,Soccer,2010,3/30/2011,1,1,,,,,,
+123456789,John,Middle,Smith,Academics & Sports Belt Loop,Wildlife Conservation,2010,3/30/2011,1,1,,,,,,
+123456789,John,Middle,Smith,Academics & Sports Belt Loop,Archery,2010,9/28/2012,1,1,,,,,,
+123456789,John,Middle,Smith,Academics & Sports Belt Loop,BB-gun Shooting,2010,9/28/2012,1,1,,,,,,
+123456789,John,Middle,Smith,Academics & Sports Belt Loop,Family Travel,2010,10/5/2011,1,1,,,,,,
+123456789,John,Middle,Smith,Academics & Sports Belt Loop,Geology,2010,12/7/2011,1,1,,,,,,
+123456789,John,Middle,Smith,Academics & Sports Belt Loop,Mathematics,2010,10/5/2011,1,1,,,,,,
+123456789,John,Middle,Smith,Academics & Sports Belt Loop,Science,2010,9/28/2012,1,1,,,,,,
+123456789,John,Middle,Smith,Academics & Sports Belt Loop,Swimming,2010,9/28/2012,1,1,,,,,,
+123456789,John,Middle,Smith,Academics & Sports Belt Loop,Map and Compass,2010,2/25/2016,1,1,,,,,,
+123456789,John,Middle,Smith,Academics & Sports Belt Loop,Astronomy,2010,4/1/2014,1,1,,,,,,
+123456789,John,Middle,Smith,Academics & Sports Belt Loop,Baseball,2010,4/1/2014,1,1,,,,,,
+123456789,John,Middle,Smith,Academics & Sports Belt Loop,Bicycling,2010,4/1/2014,1,1,,,,,,
+123456789,John,Middle,Smith,Academics & Sports Belt Loop,Bowling,2010,4/1/2014,1,1,,,,,,
+123456789,John,Middle,Smith,Academics & Sports Belt Loop,Computers,2010,4/1/2014,1,1,,,,,,
+123456789,John,Middle,Smith,Academics & Sports Belt Loop,Geography,2010,4/1/2014,1,1,,,,,,
+123456789,John,Middle,Smith,Webelos Activity Badge,Readyman,2010,2/25/2016,1,1,,,,,,
+123456789,John,Middle,Smith,Webelos Activity Badge,Artist,2010,4/10/2016,1,1,,,,,,
+123456789,John,Middle,Smith,Webelos Activity Badge,Family Member,2010,4/10/2016,1,1,,,,,,
+123456789,John,Middle,Smith,Webelos Activity Badge,Forester,2010,4/10/2016,1,1,,,,,,
+123456789,John,Middle,Smith,Webelos Activity Badge,Naturalist,2010,4/10/2016,1,1,,,,,,
+123456789,John,Middle,Smith,Webelos Activity Badge,Scholar,2010,4/10/2016,1,1,,,,,,
+123456789,John,Middle,Smith,Webelos Activity Badge,Scientist,2010,4/10/2016,1,1,,,,,,
+123456789,John,Middle,Smith,Webelos Activity Badge,Showman,2010,4/10/2016,1,1,,,,,,
+123456789,John,Middle,Smith,Webelos Activity Badge,Sportsman,2010,4/10/2016,1,1,,,,,,
+123456789,John,Middle,Smith,Webelos Activity Badge,Traveler,2010,4/10/2016,1,1,,,,,,
+123456789,John,Middle,Smith,Webelos Activity Badge,Athlete,2010,1/4/2012,1,1,,,,,,
+123456789,John,Middle,Smith,Webelos Activity Badge,Citizen,2010,10/12/2011,1,1,,,,,,
+123456789,John,Middle,Smith,Webelos Activity Badge,Communicator,2010,12/7/2011,1,1,,,,,,
+123456789,John,Middle,Smith,Webelos Activity Badge,Engineer,2010,11/9/2011,1,1,,,,,,
+123456789,John,Middle,Smith,Webelos Activity Badge,Fitness,2010,4/11/2012,1,1,,,,,,
+123456789,John,Middle,Smith,Webelos Activity Badge,Outdoorsman,2010,2/7/2013,1,1,,,,,,
+123456789,John,Middle,Smith,Webelos Activity Badge,Aquanaut,2010,9/28/2012,1,1,,,,,,
+123456789,John,Middle,Smith,Webelos Activity Badge,Geologist,2010,12/7/2011,1,1,,,,,,
+123456789,John,Middle,Smith,Webelos Activity Badge,Handyman,2010,9/28/2012,1,1,,,,,,
+234567890,Jane,Linda,Smith,Rank,Scout,2016,7/8/2017,1,1,David Mengel,7/14/2018,David Mengel,7/14/2018,David Mengel,11/18/2018
+234567890,Jane,Linda,Smith,Rank,Tenderfoot,2016,8/13/2017,1,1,David Mengel,7/14/2018,David Mengel,7/14/2018,David Mengel,11/18/2018
+234567890,Jane,Linda,Smith,Rank,Second Class,2016,7/13/2018,1,1,David Mengel,7/14/2018,David Mengel,7/14/2018,David Mengel,11/18/2018
+234567890,Jane,Linda,Smith,Rank,First Class,2016,1/5/2019,1,1,David Mengel,1/6/2019,David Mengel,1/6/2019,David Mengel,4/16/2019
+234567890,Jane,Linda,Smith,Rank,Star Scout,2016,10/15/2019,1,1,David Mengel,10/15/2019,David Mengel,10/15/2019,David Mengel,11/9/2019
+234567890,Jane,Linda,Smith,Rank,Life Scout,2016,7/13/2018,1,1,David Mengel,7/14/2018,David Mengel,7/14/2018,David Mengel,11/18/2018
+234567890,Jane,Linda,Smith,Merit Badge,American Heritage,2014,4/10/2020,1,0,Christopher Mulhall,4/10/2020,David Mengel,4/10/2020,,
+234567890,Jane,Linda,Smith,Merit Badge,Animation,2015,3/23/2019,1,1,David Mengel,4/16/2019,David Mengel,4/16/2019,David Mengel,7/13/2019
+234567890,Jane,Linda,Smith,Merit Badge,Archery,2016,7/13/2018,1,1,David Mengel,7/14/2018,David Mengel,7/14/2018,David Mengel,11/18/2018
+234567890,Jane,Linda,Smith,Merit Badge,Art,2014,7/13/2018,1,1,David Mengel,7/14/2018,David Mengel,7/14/2018,David Mengel,11/18/2018
